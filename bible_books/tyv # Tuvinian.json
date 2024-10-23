@@ -1,0 +1,408 @@
+{
+  "id": "tyv",
+  "language": "tyv",
+  "name": "Tuvinian",
+  "alt_name": null,
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Эге Дөс",
+      "abbreviation": "Э.д."
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Хосталыышкын",
+      "abbreviation": "Хост"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Левит",
+      "abbreviation": "Лев"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Саннар",
+      "abbreviation": "Сан"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Ы. Х. К.",
+      "abbreviation": "Ы.х.к."
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Иисус",
+      "abbreviation": "Иис"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Баштыңчылар",
+      "abbreviation": "Башт"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Руф",
+      "abbreviation": "Руф"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Хааннар",
+      "abbreviation": "1Хаан"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Хааннар",
+      "abbreviation": "2Хаан"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "3 Хааннар",
+      "abbreviation": "3Хаан"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "4 Хааннар",
+      "abbreviation": "4Хаан"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Чылдар",
+      "abbreviation": "1Чыл"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Чылдар",
+      "abbreviation": "2Чыл"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Эзра",
+      "abbreviation": "Эзра"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Неемия",
+      "abbreviation": "Неем"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Эсфир",
+      "abbreviation": "Эсф"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Иов",
+      "abbreviation": "Иов"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Ыры",
+      "abbreviation": "Ыдыр"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Чугаалар",
+      "abbreviation": "У.ч."
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Экклесиаст",
+      "abbreviation": "Эккл"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Ырлар",
+      "abbreviation": "Сол ыр"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Исайя",
+      "abbreviation": "Иса"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Иеремия",
+      "abbreviation": "Иер"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Ыы-сыы",
+      "abbreviation": "Ыы"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Иезекиил",
+      "abbreviation": "Иез"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Даниил",
+      "abbreviation": "Дан"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Осия",
+      "abbreviation": "Ос"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Иоил",
+      "abbreviation": "Иоил"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Амос",
+      "abbreviation": "Ам"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Авдий",
+      "abbreviation": "Авд"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Иона",
+      "abbreviation": "Иона"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Михей",
+      "abbreviation": "Мих"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Наум",
+      "abbreviation": "Наум"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Аввакум",
+      "abbreviation": "Авв"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Софония",
+      "abbreviation": "Соф"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Аггей",
+      "abbreviation": "Агг"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Захария",
+      "abbreviation": "Зах"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Малахия",
+      "abbreviation": "Мал"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Матфей",
+      "abbreviation": "Мф"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Марк",
+      "abbreviation": "Мк"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Лука",
+      "abbreviation": "Лк"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Иоанн",
+      "abbreviation": "Ин"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Ажыл-чорудулга",
+      "abbreviation": "Аж.-ч"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Римчилерге",
+      "abbreviation": "Рим"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Коринфичилерге",
+      "abbreviation": "1Кор"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Коринфичилерге",
+      "abbreviation": "2Кор"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Галатчыларга",
+      "abbreviation": "Гал"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Эфесчилерге",
+      "abbreviation": "Эф"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Филипчилерге",
+      "abbreviation": "Флп"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Колосчуларга",
+      "abbreviation": "Кол"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Фессалоникчилерге",
+      "abbreviation": "1Фес"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Фессалоникчилерге",
+      "abbreviation": "2Фес"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Тимофейге",
+      "abbreviation": "1Тим"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Тимофейге",
+      "abbreviation": "2Тим"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Титке",
+      "abbreviation": "Тит"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Филимонга",
+      "abbreviation": "Флм"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Еврейлерге",
+      "abbreviation": "Евр"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Иаков",
+      "abbreviation": "Иак"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Пётр",
+      "abbreviation": "1Пет"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Пётр",
+      "abbreviation": "2Пет"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Иоанн",
+      "abbreviation": "1Ин"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Иоанн",
+      "abbreviation": "2Ин"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Иоанн",
+      "abbreviation": "3Ин"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Иуда",
+      "abbreviation": "Иуда"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Ажыдыышкын",
+      "abbreviation": "Ажыд"
+    }
+  ]
+}

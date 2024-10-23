@@ -1,0 +1,408 @@
+{
+  "id": "arb",
+  "language": "arb",
+  "name": "Standard Arabic",
+  "alt_name": null,
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "التكوين",
+      "abbreviation": "تك"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "الخروج",
+      "abbreviation": "خر"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "اللاويين",
+      "abbreviation": "لا"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "العدد",
+      "abbreviation": "عد"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "التثنية",
+      "abbreviation": "تث"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "يشوع",
+      "abbreviation": "يش"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "القضاة",
+      "abbreviation": "قض"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "راعوث",
+      "abbreviation": "را"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "صموئيل الأول",
+      "abbreviation": "1صم"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "صموئيل الثاني",
+      "abbreviation": "2صم"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "ملوك الأول",
+      "abbreviation": "1مل"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "ملوك الثاني",
+      "abbreviation": "2مل"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "أخبار الأيام الأول",
+      "abbreviation": "1أخ"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "أخبار الأيام الثاني",
+      "abbreviation": "2أخ"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "عزرا",
+      "abbreviation": "عز"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "نحميا",
+      "abbreviation": "نح"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "أستير",
+      "abbreviation": "أس"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "أيوب",
+      "abbreviation": "أي"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "مزمور",
+      "abbreviation": "مز"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "الأمثال",
+      "abbreviation": "أم"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "الجامعة",
+      "abbreviation": "جا"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "نشيد الأنشاد",
+      "abbreviation": "نش"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "إشعياء",
+      "abbreviation": "إش"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "إرميا",
+      "abbreviation": "إر"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "مراثي إرميا",
+      "abbreviation": "مرا"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "حزقيال",
+      "abbreviation": "حز"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "دانيال",
+      "abbreviation": "دا"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "هوشع",
+      "abbreviation": "هو"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "يوئيل",
+      "abbreviation": "يوئ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "عاموس",
+      "abbreviation": "عا"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "عوبديا",
+      "abbreviation": "عو"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "يونان",
+      "abbreviation": "يون"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "ميخا",
+      "abbreviation": "مي"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ناحوم",
+      "abbreviation": "نا"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "حبقوق",
+      "abbreviation": "حب"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "صفنيا",
+      "abbreviation": "صف"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "حجي",
+      "abbreviation": "حج"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "زكريا",
+      "abbreviation": "زك"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ملاخي",
+      "abbreviation": "ملا"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "إنجيل متى",
+      "abbreviation": "متى"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "إنجيل مرقس",
+      "abbreviation": "مرقس"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "إنجيل لوقا",
+      "abbreviation": "لو"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "إنجيل يوحنا",
+      "abbreviation": "يو"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "أعمال",
+      "abbreviation": "أع"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "روما",
+      "abbreviation": "رو"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "كورنثوس الأولى",
+      "abbreviation": "1كو"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "كورنثوس الثانية",
+      "abbreviation": "2كو"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "غلاطية",
+      "abbreviation": "غلاطية"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "أفسس",
+      "abbreviation": "أف"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "فيلبي",
+      "abbreviation": "في"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "كولوسي",
+      "abbreviation": "كو"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "تسالونيكي الأولى",
+      "abbreviation": "1تس"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "تسالونيكي الثانية",
+      "abbreviation": "2تس"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "تيموثاوس الأولى",
+      "abbreviation": "1تي"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "تيموثاوس الثانية",
+      "abbreviation": "2تي"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "تيطس",
+      "abbreviation": "تي"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "فليمون",
+      "abbreviation": "فل"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "العبرانيين",
+      "abbreviation": "عب"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "يعقوب",
+      "abbreviation": "يع"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "بطرس الأولى",
+      "abbreviation": "1بط"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "بطرس الثانية",
+      "abbreviation": "2بط"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "يوحنا الأولى",
+      "abbreviation": "1يو"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "يوحنا الثانية",
+      "abbreviation": "2يو"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "يوحنا الثالثة",
+      "abbreviation": "3يو"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "يهوذا",
+      "abbreviation": "يه"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "رؤيا يوحنا",
+      "abbreviation": "رؤ"
+    }
+  ]
+}

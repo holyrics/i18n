@@ -1,0 +1,408 @@
+{
+  "id": "aaz",
+  "language": "aaz",
+  "name": "Amarasi",
+  "alt_name": null,
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Retaꞌ Ahun-hunut",
+      "abbreviation": "Kej"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Anpoin naꞌkon Pah Masir",
+      "abbreviation": "Kel"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Aꞌnaak Rais Pirsait ein sin Atoran",
+      "abbreviation": "Im"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Surat Sensus",
+      "abbreviation": "Bil"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Surat reꞌ Naretaꞌ Nafaniꞌ Raan Aꞌhonis",
+      "abbreviation": "Ul"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Naiꞌ Yosua",
+      "abbreviation": "Yus"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Afeek Rasi sin",
+      "abbreviation": "Hak"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Bi Rut",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Naiꞌ Samuel",
+      "abbreviation": "1Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Naiꞌ Samuel",
+      "abbreviation": "2Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 Uisf ein sin Retaꞌ",
+      "abbreviation": "1Raj"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 Uisf ein sin Retaꞌ",
+      "abbreviation": "2Raj"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Mapeꞌo ꞌNaof Pah Israꞌel ma Pah Yahuda",
+      "abbreviation": "1Hik"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Mapeꞌo ꞌNaof Pah Israꞌel ma Pah Yahuda",
+      "abbreviation": "2Hik"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Naiꞌ Esra",
+      "abbreviation": "Ezr"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Naiꞌ Nehemia",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Bi Ester",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Naiꞌ Ayup",
+      "abbreviation": "Ayb"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Siit Pures-Boꞌis sin",
+      "abbreviation": "Zbr"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Fainekat",
+      "abbreviation": "Ams"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Noniꞌ anmatoom nok  Rasi \u0027Honis",
+      "abbreviation": "Phb"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Nee ma Siit Aꞌnaek",
+      "abbreviation": "Kid"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Naiꞌ Yesaya",
+      "abbreviation": "Yes"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Naiꞌ Yeremias",
+      "abbreviation": "Yer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Siit Kurut-kaet",
+      "abbreviation": "Rat"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Naiꞌ Yeskial",
+      "abbreviation": "Yeh"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Naiꞌ Danial",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Naiꞌ Hosea",
+      "abbreviation": "Hos"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Naiꞌ Joel",
+      "abbreviation": "Yl"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Naiꞌ Amos",
+      "abbreviation": "Am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Naiꞌ Obaja",
+      "abbreviation": "Ob"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Naiꞌ Junus",
+      "abbreviation": "Yun"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Naiꞌ Mika",
+      "abbreviation": "Mi"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Naiꞌ Nahum",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Naiꞌ Habakuk",
+      "abbreviation": "Hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Naiꞌ Sefanya",
+      "abbreviation": "Zep"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Naiꞌ Hagai",
+      "abbreviation": "Hag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Naiꞌ Sakarias",
+      "abbreviation": "Za"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Naiꞌ Meliaki",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Naiꞌ Mateos",
+      "abbreviation": "Mat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Naiꞌ Markus",
+      "abbreviation": "Mrk"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Naiꞌ Lukas",
+      "abbreviation": "Luk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Naiꞌ Yohanis",
+      "abbreviation": "Yoh"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Haef ein sin Retaꞌ",
+      "abbreviation": "Kis"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Roma",
+      "abbreviation": "Rm"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Korintus",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Korintus",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galatia",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efesus",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipi",
+      "abbreviation": "Flp"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolose",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Tesalonika",
+      "abbreviation": "1Tes"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Tesalonika",
+      "abbreviation": "2Tes"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Naiꞌ Timotius",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Naiꞌ Timotius",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Naiꞌ Titus",
+      "abbreviation": "Tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Naiꞌ Filmon",
+      "abbreviation": "Flm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Atoin Ibranis",
+      "abbreviation": "Ibr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Naiꞌ Yakobus",
+      "abbreviation": "Yak"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Naiꞌ Petrus",
+      "abbreviation": "1Pet"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Naiꞌ Petrus",
+      "abbreviation": "2Pet"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Naiꞌ Yohanis",
+      "abbreviation": "1Yoh"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Naiꞌ Yohanis",
+      "abbreviation": "2Yoh"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Naiꞌ Yohanis",
+      "abbreviation": "3Yoh"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Naiꞌ Judas",
+      "abbreviation": "Yud"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Rasi Mnitas neu naiꞌ Yohanis",
+      "abbreviation": "Why"
+    }
+  ]
+}

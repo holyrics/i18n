@@ -1,0 +1,408 @@
+{
+  "id": "rmc",
+  "language": "rmc",
+  "name": "Carpathian Romani",
+  "alt_name": null,
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "1. Mojžišoskro",
+      "abbreviation": "1M"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "2. Mojžišoskro",
+      "abbreviation": "2M"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "3. Mojžišoskro",
+      "abbreviation": "3M"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "4. Mojžišoskro",
+      "abbreviation": "4M"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "5. Mojžišoskro",
+      "abbreviation": "5M"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Jozua",
+      "abbreviation": "Joz"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Sudcengro",
+      "abbreviation": "Sud"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rut",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1. Samueloskro",
+      "abbreviation": "1Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2. Samueloskro",
+      "abbreviation": "2Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1. Kraľengro",
+      "abbreviation": "1Krľ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2. Kraľengro",
+      "abbreviation": "2Krľ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1. Kronicko",
+      "abbreviation": "1Krn"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2. Kronicko",
+      "abbreviation": "2Krn"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ezdraš",
+      "abbreviation": "Ezd"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemiaš",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ester",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Job",
+      "abbreviation": "Job"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Žalmi",
+      "abbreviation": "Ž"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Prislovja",
+      "abbreviation": "Pri"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Kazaťeľis",
+      "abbreviation": "Kaz"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Nekšukareder giľi",
+      "abbreviation": "Giľi"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Izajaš",
+      "abbreviation": "Iz"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jeremijaš",
+      "abbreviation": "Jer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Roviben le Jeremijašiskro",
+      "abbreviation": "Rov"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ezechiel",
+      "abbreviation": "Ez"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniel",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hozeaš",
+      "abbreviation": "Hoz"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Joel",
+      "abbreviation": "Joel"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amos",
+      "abbreviation": "Am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadijaš",
+      "abbreviation": "Obd"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jonaš",
+      "abbreviation": "Jon"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Micheaš",
+      "abbreviation": "Mi"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahum",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habakuk",
+      "abbreviation": "Hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sofonijaš",
+      "abbreviation": "Sof"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Haggeus",
+      "abbreviation": "Hag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zacharijaš",
+      "abbreviation": "Zach"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malachijaš",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Matuš",
+      "abbreviation": "Mat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Marek",
+      "abbreviation": "Mrk"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Lukaš",
+      "abbreviation": "Luk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Jan",
+      "abbreviation": "Jan"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Skutki",
+      "abbreviation": "Sk"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Rimanenge",
+      "abbreviation": "Rim"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1. Korinťanenge",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2. Korinťanenge",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galaťanenge",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efežanenge",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipanenge",
+      "abbreviation": "Fil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kološanenge",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1. Tesaloničanenge",
+      "abbreviation": "1Tes"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2. Tesaloničanenge",
+      "abbreviation": "2Tes"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1. Timoteoske",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2. Timoteoske",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Titoske",
+      "abbreviation": "Tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemonoske",
+      "abbreviation": "Flm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Židenge",
+      "abbreviation": "Žid"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Jakob",
+      "abbreviation": "Jak"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1. Peter",
+      "abbreviation": "1Pt"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2. Peter",
+      "abbreviation": "2Pt"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1. Jan",
+      "abbreviation": "1Jn"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2. Jan",
+      "abbreviation": "2Jn"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3. Jan",
+      "abbreviation": "3Jn"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Juda",
+      "abbreviation": "Jud"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Zjaveňje",
+      "abbreviation": "Zj"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": "ta",
+  "language": "ta",
+  "name": "Tamil",
+  "alt_name": "Tamil",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ஆதியாகமம்",
+      "abbreviation": "ஆதி"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "யாத்திராகமம்",
+      "abbreviation": "யாத்"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "லேவியராகமம்",
+      "abbreviation": "லேவி"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "எண்ணாகமம்",
+      "abbreviation": "எண்"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "உபாகமம்",
+      "abbreviation": "உபா"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "யோசுவா",
+      "abbreviation": "யோசு"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "நியாயாதிபதிகள்",
+      "abbreviation": "நியா"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ரூத்",
+      "abbreviation": "ரூத்"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 சாமுயேல்",
+      "abbreviation": "1சாமு"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 சாமுயேல்",
+      "abbreviation": "2சாமு"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 இராஜாக்கள்",
+      "abbreviation": "1இராஜா"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 இராஜாக்கள்",
+      "abbreviation": "2இராஜா"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 நாளாகமம்",
+      "abbreviation": "1நாளா"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 நாளாகமம்",
+      "abbreviation": "2நாளா"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "எஸ்றா",
+      "abbreviation": "எஸ்றா"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "நெகேமியா",
+      "abbreviation": "நெகே"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "எஸ்தர்",
+      "abbreviation": "எஸ்"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "யோபு",
+      "abbreviation": "யோபு"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "சங்கீதம்",
+      "abbreviation": "சங்"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "நீதிமொழி",
+      "abbreviation": "நீதி"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "பிரசங்கி",
+      "abbreviation": "பிர"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "உன்னதப்பாட்டு",
+      "abbreviation": "உன்"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ஏசாயா",
+      "abbreviation": "ஏசா"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "எரேமியா",
+      "abbreviation": "எரே"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "புலம்பல்",
+      "abbreviation": "புல"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "எசேக்கியேல்",
+      "abbreviation": "எசே"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "தானியேல்",
+      "abbreviation": "தானி"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ஓசியா",
+      "abbreviation": "ஓசி"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "யோயேல்",
+      "abbreviation": "யோயே"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ஆமோஸ்",
+      "abbreviation": "ஆமோ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ஒபதியா",
+      "abbreviation": "ஒப"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "யோனா",
+      "abbreviation": "யோனா"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "மீகா",
+      "abbreviation": "மீகா"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "நாகூம்",
+      "abbreviation": "நாகூ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ஆபகூக்",
+      "abbreviation": "ஆப"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "செப்பனியா",
+      "abbreviation": "செப்"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ஆகாய்",
+      "abbreviation": "ஆகா"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "சகரியா",
+      "abbreviation": "சக"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "மல்கியா",
+      "abbreviation": "மல்"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "மத்தேயு",
+      "abbreviation": "மத்"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "மாற்கு",
+      "abbreviation": "மாற்"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "லூக்கா",
+      "abbreviation": "லூக்"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "யோவான்",
+      "abbreviation": "யோவா"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "அப்போஸ்தலர்",
+      "abbreviation": "அப்"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ரோமர்",
+      "abbreviation": "ரோம"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 கொரிந்தியர்",
+      "abbreviation": "1கொரி"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 கொரிந்தியர்",
+      "abbreviation": "2கொரி"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "கலாத்தியர்",
+      "abbreviation": "கலா"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "எபேசியர்",
+      "abbreviation": "எபே"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "பிலிப்பியர்",
+      "abbreviation": "பிலி"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "கொலோசேயர்",
+      "abbreviation": "கொலோ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 தெசலோனிக்கேயர்",
+      "abbreviation": "1தெச"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 தெசலோனிக்கேயர்",
+      "abbreviation": "2தெச"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 தீமோத்தேயு",
+      "abbreviation": "1தீமோ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 தீமோத்தேயு",
+      "abbreviation": "2தீமோ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "தீத்து",
+      "abbreviation": "தீத்"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "பிலேமோன்",
+      "abbreviation": "பிலே"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "எபிரெயர்",
+      "abbreviation": "எபி"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "யாக்கோபு",
+      "abbreviation": "யாக்"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 பேதுரு",
+      "abbreviation": "1பேது"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 பேதுரு",
+      "abbreviation": "2பேது"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 யோவான்",
+      "abbreviation": "1யோவா"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 யோவான்",
+      "abbreviation": "2யோவா"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 யோவான்",
+      "abbreviation": "3யோவா"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "யூதா",
+      "abbreviation": "யூதா"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "வெளிப்படுத்தல்",
+      "abbreviation": "வெளி"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": "azb",
+  "language": "azb",
+  "name": "South Azerbaijani",
+  "alt_name": null,
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Yaradiliş",
+      "abbreviation": "Yar"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Çixiş",
+      "abbreviation": "Çıx"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Levililər",
+      "abbreviation": "Lev"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Saylar",
+      "abbreviation": "Say"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Qanunun Təkrari",
+      "abbreviation": "Qanun"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Yeşua",
+      "abbreviation": "Yeşua"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Hakimlər",
+      "abbreviation": "Hak"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rut",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "Birinci Şamuel",
+      "abbreviation": "1Şam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "Ikinci Şamuel",
+      "abbreviation": "2Şam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "Birinci Padşahlar",
+      "abbreviation": "1Pad"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "Ikinci Padşahlar",
+      "abbreviation": "2Pad"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "Birinci Salnamələr",
+      "abbreviation": "1Saln"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "Ikinci Salnamələr",
+      "abbreviation": "2Saln"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ezra",
+      "abbreviation": "Ezra"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemya",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ester",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Əyyub",
+      "abbreviation": "Əyy"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Zəbur",
+      "abbreviation": "Zəb"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Süleymanin Məsəlləri",
+      "abbreviation": "Sül"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Vaiz",
+      "abbreviation": "Vaiz"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Nəğmələr Nəğməsi",
+      "abbreviation": "Nəğ"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Yeşaya",
+      "abbreviation": "Yeş"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Yeremya",
+      "abbreviation": "Yer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Mərsiyələr",
+      "abbreviation": "Mərs"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Yezekel",
+      "abbreviation": "Yez"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniel",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Huşə",
+      "abbreviation": "Huşə"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Yoel",
+      "abbreviation": "Yoel"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amos",
+      "abbreviation": "Amos"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Avdiya",
+      "abbreviation": "Avd"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Yunus",
+      "abbreviation": "Yun"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mikeya",
+      "abbreviation": "Mik"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahum",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habaqquq",
+      "abbreviation": "Hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sefanya",
+      "abbreviation": "Sef"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Haqqay",
+      "abbreviation": "Haq"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zəkəriyyə",
+      "abbreviation": "Zək"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malaki",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Matta",
+      "abbreviation": "Mat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Mark",
+      "abbreviation": "Mark"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luka",
+      "abbreviation": "Luka"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Yəhya",
+      "abbreviation": "Yəh"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Həvarilərin Işləri",
+      "abbreviation": "Həv"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Romalilara",
+      "abbreviation": "Rom"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Korinflilərə",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Korinflilərə",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Qalatiyalilara",
+      "abbreviation": "Qal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efeslilərə",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipililərə",
+      "abbreviation": "Fil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolosselilərə",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Saloniklilərə",
+      "abbreviation": "1Sal"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Saloniklilərə",
+      "abbreviation": "2Sal"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Timoteyə",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Timoteyə",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Titə",
+      "abbreviation": "Titə"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filimona",
+      "abbreviation": "Flm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Ibranilərə",
+      "abbreviation": "İbr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Yaqub",
+      "abbreviation": "Yaq"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Peter",
+      "abbreviation": "1Pet"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Peter",
+      "abbreviation": "2Pet"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Yəhya",
+      "abbreviation": "1Yəh"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Yəhya",
+      "abbreviation": "2Yəh"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Yəhya",
+      "abbreviation": "3Yəh"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Yəhuda",
+      "abbreviation": "Yəhd"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Vəhy",
+      "abbreviation": "Vəhy"
+    }
+  ]
+}

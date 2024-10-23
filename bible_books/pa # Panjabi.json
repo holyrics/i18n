@@ -1,0 +1,408 @@
+{
+  "id": "pa",
+  "language": "pa",
+  "name": "Panjabi",
+  "alt_name": "Panjabi",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ਉਤ",
+      "abbreviation": "ਉਤ"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ਕੂਚ",
+      "abbreviation": "ਕੂਚ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ਲੇਵੀਆਂ",
+      "abbreviation": "ਲੇਵੀ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ਗਿਣਤੀ",
+      "abbreviation": "ਗਿਣ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ਬਿਵਸਥਾ",
+      "abbreviation": "ਬਿਵ"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "ਯਹੋਸ਼ੁ",
+      "abbreviation": "ਯਹੋਸ਼ੁ"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ਨਿਆਂਈ",
+      "abbreviation": "ਨਿਆਂਈ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ਰੂਥ",
+      "abbreviation": "ਰੂਥ"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 ਸਮੂ",
+      "abbreviation": "1ਸਮੂ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 ਸਮੂ",
+      "abbreviation": "2ਸਮੂ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 ਰਾਜਾ",
+      "abbreviation": "1ਰਾਜਾ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 ਰਾਜਾ",
+      "abbreviation": "2ਰਾਜਾ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 ਇਤ",
+      "abbreviation": "1ਇਤ"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 ਇਤ",
+      "abbreviation": "2ਇਤ"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ਅਜ਼ਰਾ",
+      "abbreviation": "ਅਜ਼ਰਾ"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ਨਹਮਯਾਹ",
+      "abbreviation": "ਨਹ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ਅਸਤਰ",
+      "abbreviation": "ਅਸਤ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ਅੱਯੂਬ",
+      "abbreviation": "ਅੱਯੂਬ"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ਜ਼ਬੂਰ",
+      "abbreviation": "ਜ਼ਬੂ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ਕਹਾਉਤਾਂ",
+      "abbreviation": "ਕਹਾ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ਉਪਦੇਸ਼ਕ",
+      "abbreviation": "ਉਪ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "ਸਰੇਸ਼ਟ ਗੀਤ",
+      "abbreviation": "ਸਰੇਸ਼ਟ"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ਯਸਾ",
+      "abbreviation": "ਯਸਾ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ਯਿਰਮਿਯਾਹ",
+      "abbreviation": "ਯਿਰ"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ਵਿਰਲਾਪ",
+      "abbreviation": "ਵਿਰ"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ਹਿਜ਼ਕੀਏਲ",
+      "abbreviation": "ਹਿਜ਼"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ਦਾਨੀਏਲ",
+      "abbreviation": "ਦਾਨੀ"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ਹੋਸ਼ੇ",
+      "abbreviation": "ਹੋਸ਼ੇ"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "ਯੋਏਲ",
+      "abbreviation": "ਯੋਏ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ਆਮੋਸ",
+      "abbreviation": "ਆਮੋ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ਓਬਦਯਾਹ",
+      "abbreviation": "ਓਬ"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "ਯੂਨਾ",
+      "abbreviation": "ਯੂਨਾ"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "ਮੀਕਾ",
+      "abbreviation": "ਮੀਕਾ"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ਨਹੂਮ",
+      "abbreviation": "ਨਹੂ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ਹਬੱਕੂਕ",
+      "abbreviation": "ਹਬੱ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ਸਫ਼ਨਯਾਹ",
+      "abbreviation": "ਸਫ਼"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ਹੱਜਈ",
+      "abbreviation": "ਹੱਜ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ਜ਼ਕਰ",
+      "abbreviation": "ਜ਼ਕ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ਮਲਾਕੀ",
+      "abbreviation": "ਮਲਾ"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "ਮੱਤੀ",
+      "abbreviation": "ਮੱਤੀ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "ਮਰਕੁਸ",
+      "abbreviation": "ਮਰਕੁ"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ਲੂਕਾ",
+      "abbreviation": "ਲੂਕਾ"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "ਯੂਹੰਨਾ",
+      "abbreviation": "ਯੂਹ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "ਰਸੂਲਾਂ ਦੇ ਕਰਤੱਬ",
+      "abbreviation": "ਰਸੂਲਾਂ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ਰੋਮੀਆਂ",
+      "abbreviation": "ਰੋਮ"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 ਕੁਰਿੰਥੀ",
+      "abbreviation": "1ਕੁਰਿੰਥੀ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 ਕੁਰਿੰਥੀ",
+      "abbreviation": "2ਕੁਰਿੰਥੀ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ਗਲਤੀਆਂ ਨੂੰ",
+      "abbreviation": "ਗਲਾ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ਅਫ਼ਸੀਆਂ",
+      "abbreviation": "ਅਫ਼"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ਫਿਲਿੱਪੀਆਂ",
+      "abbreviation": "ਫਿਲਿੱ"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ਕੁਲੁੱਸੀਆਂ",
+      "abbreviation": "ਕੁਲੁੱ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 ਥੱਸਲੁਨੀਕੀ",
+      "abbreviation": "1ਥੱਸ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 ਥੱਸਲੁਨੀਕੀ",
+      "abbreviation": "2ਥੱਸ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 ਤਿਮੋਥਿ",
+      "abbreviation": "1ਤਿਮ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 ਤਿਮੋਥਿ",
+      "abbreviation": "2ਤਿਮ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ਤੀਤੁਸ",
+      "abbreviation": "ਤੀਤੁ"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ਫਿਲੇਮੋਨ",
+      "abbreviation": "ਫਿਲੇ"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ਇਬਰਾਨੀ",
+      "abbreviation": "ਇਬਰਾ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ਯਾਕੂਬ",
+      "abbreviation": "ਯਾਕੂ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 ਪਤ",
+      "abbreviation": "1ਪਤ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 ਪਤ",
+      "abbreviation": "2ਪਤ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 ਯੂਹੰਨਾ",
+      "abbreviation": "1ਯੂਹ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 ਯੂਹੰਨਾ",
+      "abbreviation": "2ਯੂਹ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 ਯੂਹੰਨਾ",
+      "abbreviation": "3ਯੂਹ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ਯਹੂਦਾ",
+      "abbreviation": "ਯਹੂ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ਪਰਕਾਸ਼ ਦੀ ਪੋਥੀ",
+      "abbreviation": "ਪਰਕਾਸ਼"
+    }
+  ]
+}

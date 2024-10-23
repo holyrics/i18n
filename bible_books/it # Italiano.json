@@ -1,0 +1,408 @@
+{
+  "id": "it",
+  "language": "it",
+  "name": "Italiano",
+  "alt_name": "Italian",
+  "old_testament": "Antico Testamento",
+  "new_testament": "Nuovo Testamento",
+  "old_testament_abbreviation": "AT",
+  "new_testament_abbreviation": "NT",
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Genesi",
+      "abbreviation": "Gn"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Esodo",
+      "abbreviation": "Es"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Levitico",
+      "abbreviation": "Lv"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Numeri",
+      "abbreviation": "Nm"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Deuteronomio",
+      "abbreviation": "Dt"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Giosuè",
+      "abbreviation": "Gs"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Giudici",
+      "abbreviation": "Gd"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rut",
+      "abbreviation": "Rt"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Samuele",
+      "abbreviation": "1Sm"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Samuele",
+      "abbreviation": "2Sm"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 Re",
+      "abbreviation": "1Re"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 Re",
+      "abbreviation": "2Re"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Cronache",
+      "abbreviation": "1Cr"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Croniche",
+      "abbreviation": "2Cr"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Esdra",
+      "abbreviation": "Ed"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Neemia",
+      "abbreviation": "Ne"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ester",
+      "abbreviation": "Et"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Giobbe",
+      "abbreviation": "Gb"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Salmi",
+      "abbreviation": "Sl"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Proverbi",
+      "abbreviation": "Pv"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Ecclesiaste",
+      "abbreviation": "Ec"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Cantico dei Cantici",
+      "abbreviation": "Ct"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Isaia",
+      "abbreviation": "Is"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Geremia",
+      "abbreviation": "Gr"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Lamentazioni",
+      "abbreviation": "Lm"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ezechiele",
+      "abbreviation": "Ez"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniele",
+      "abbreviation": "Dn"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Osea",
+      "abbreviation": "Os"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Gioele",
+      "abbreviation": "Ge"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amos",
+      "abbreviation": "Am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Abdia",
+      "abbreviation": "Ab"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Giona",
+      "abbreviation": "Ga"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Michea",
+      "abbreviation": "Mc"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Naum",
+      "abbreviation": "Na"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Abacuc",
+      "abbreviation": "Ac"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sofonia",
+      "abbreviation": "Sf"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Aggeo",
+      "abbreviation": "Ag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zaccaria",
+      "abbreviation": "Zc"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malachia",
+      "abbreviation": "Ml"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Matteo",
+      "abbreviation": "Mt"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Marco",
+      "abbreviation": "Mc"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luca",
+      "abbreviation": "Lc"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Giovanni",
+      "abbreviation": "Gv"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Atti degli Apostoli",
+      "abbreviation": "At"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Romani",
+      "abbreviation": "Rm"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Corinzi",
+      "abbreviation": "1Co"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Corinzi",
+      "abbreviation": "2Co"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galati",
+      "abbreviation": "Gl"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efesini",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filippesi",
+      "abbreviation": "Fp"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Colossesi",
+      "abbreviation": "Cl"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Tessalonicesi",
+      "abbreviation": "1Ts"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Tessalonicesi",
+      "abbreviation": "2Ts"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Timoteo",
+      "abbreviation": "1Tm"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Timoteo",
+      "abbreviation": "2Tm"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tito",
+      "abbreviation": "Tt"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemone",
+      "abbreviation": "Fm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Ebrei",
+      "abbreviation": "Eb"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Giacomo",
+      "abbreviation": "Gc"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Pietro",
+      "abbreviation": "1Pt"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Pietro",
+      "abbreviation": "2Pt"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Giovanni",
+      "abbreviation": "1Gv"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Giovanni",
+      "abbreviation": "2Gv"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Giovanni",
+      "abbreviation": "3Gv"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Giuda",
+      "abbreviation": "Ga"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Apocalisse",
+      "abbreviation": "Ap"
+    }
+  ]
+}

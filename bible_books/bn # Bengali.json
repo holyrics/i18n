@@ -1,0 +1,408 @@
+{
+  "id": "bn",
+  "language": "bn",
+  "name": "Bengali",
+  "alt_name": "Bengali",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "আদি পুস্তক",
+      "abbreviation": "আদি"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "যাত্রা পুস্তক",
+      "abbreviation": "যাত্রা"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "লেবীয় পুস্তক",
+      "abbreviation": "লেবী"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "গণনা পুস্তক",
+      "abbreviation": "গণ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "দ্বিতীয় বিবরণ",
+      "abbreviation": "দ্বিতী"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "যিহোশূয়",
+      "abbreviation": "যিহো"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "বিচারকর্তৃগণ",
+      "abbreviation": "বিচা"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "রূত",
+      "abbreviation": "রূত"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 শমূয়েল",
+      "abbreviation": "1শমূ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 শমূয়েল",
+      "abbreviation": "2শমূ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 রাজাবলি",
+      "abbreviation": "1রাজা"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 রাজাবলি",
+      "abbreviation": "2রাজা"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 বংশাবলি",
+      "abbreviation": "1বংশা"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 বংশাবলি",
+      "abbreviation": "2বংশা"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ইষ্রা",
+      "abbreviation": "ইষ্রা"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "নহিমিয়",
+      "abbreviation": "নহি"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ইষ্টের",
+      "abbreviation": "ইষ্টে"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ইয়োব",
+      "abbreviation": "ইয়ো"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "গীত",
+      "abbreviation": "গীত"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "হিতোপদেশ",
+      "abbreviation": "হিতো"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "উপদেশক",
+      "abbreviation": "উপ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "পরমগীত",
+      "abbreviation": "পর"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "যিশাইয়",
+      "abbreviation": "যিশা"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "যিরমিয়",
+      "abbreviation": "যির"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "বিলাপ",
+      "abbreviation": "বিলা"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "যিহিষ্কেল",
+      "abbreviation": "যিহি"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "দানিয়েল",
+      "abbreviation": "দানি"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "হোশেয়",
+      "abbreviation": "হোশে"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "যোয়েল",
+      "abbreviation": "যোয়ে"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "আমোষ",
+      "abbreviation": "আমো"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ওবদিয়",
+      "abbreviation": "ওব"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "যোনা",
+      "abbreviation": "যোনা"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "মীখা",
+      "abbreviation": "মীখা"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "নহূম",
+      "abbreviation": "নহূ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "হবক্‌কূক",
+      "abbreviation": "হব"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "সফনিয়",
+      "abbreviation": "সফ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "হগয়",
+      "abbreviation": "হগ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "সখরিয়",
+      "abbreviation": "সখ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "মালাখি",
+      "abbreviation": "মালা"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "মথি",
+      "abbreviation": "মথি"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "মার্ক",
+      "abbreviation": "মার্ক"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "লূক",
+      "abbreviation": "লূক"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "যোহন",
+      "abbreviation": "যোহ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "প্রেরিত",
+      "abbreviation": "প্রেরি"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "রোমীয়",
+      "abbreviation": "রোমী"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 করিন্থীয়",
+      "abbreviation": "1করি"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 করিন্থীয়",
+      "abbreviation": "2করি"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "গালাতীয়",
+      "abbreviation": "গালা"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ইফিষীয়",
+      "abbreviation": "ইফি"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ফিলিপীয়",
+      "abbreviation": "ফিলি"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "কলসীয়",
+      "abbreviation": "কল"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 থিষলনীকীয়",
+      "abbreviation": "1থিষ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 থিষলনীকীয়",
+      "abbreviation": "2থিষ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 তিমথি",
+      "abbreviation": "1তিম"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 তিমথি",
+      "abbreviation": "2তিম"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "তীত",
+      "abbreviation": "তীত"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ফিলীমন",
+      "abbreviation": "ফিলী"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ইব্রীয়",
+      "abbreviation": "ইব্রী"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "যাকোব",
+      "abbreviation": "যাকো"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 পিতর",
+      "abbreviation": "1পিত"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 পিতর",
+      "abbreviation": "2পিত"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 যোহন",
+      "abbreviation": "1যোহ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 যোহন",
+      "abbreviation": "2যোহ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 যোহন",
+      "abbreviation": "3যোহ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "যিহূদা",
+      "abbreviation": "যিহূ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "প্রকাশিত বাক্য",
+      "abbreviation": "প্রকা"
+    }
+  ]
+}

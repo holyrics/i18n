@@ -1,0 +1,408 @@
+{
+  "id": "ml",
+  "language": "ml",
+  "name": "Malayalam",
+  "alt_name": "Malayalam",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ഉൽപ്പത്തി",
+      "abbreviation": "ഉൽ"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "പുറപ്പാട്",
+      "abbreviation": "പുറ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ലേവ്യ",
+      "abbreviation": "ലേവ്യ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "സംഖ്യ",
+      "abbreviation": "സംഖ്യ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ആവർത്തനം",
+      "abbreviation": "ആവ"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "യോശുവ",
+      "abbreviation": "യോശു"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ന്യായാധിപന്മാർ",
+      "abbreviation": "ന്യായാ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "രൂത്ത്",
+      "abbreviation": "രൂത്ത്"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 ശമുവേൽ",
+      "abbreviation": "1ശമു"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 ശമുവേൽ",
+      "abbreviation": "2ശമു"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 രാജാക്കന്മാർ",
+      "abbreviation": "1രാജാ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 രാജാക്കന്മാർ",
+      "abbreviation": "2രാജാ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 ദിനവൃത്താന്തം",
+      "abbreviation": "1ദിന"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 ദിനവൃത്താന്തം",
+      "abbreviation": "2ദിന"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "എസ്രാ",
+      "abbreviation": "എസ്രാ"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "നെഹെമ്യാവ്",
+      "abbreviation": "നെഹ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "എസ്ഥേർ",
+      "abbreviation": "എസ്ഥേ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ഇയ്യോബ്",
+      "abbreviation": "ഇയ്യോ"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "സങ്കീർത്തനങ്ങൾ",
+      "abbreviation": "സങ്കീ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "സദൃശവാക്യങ്ങൾ",
+      "abbreviation": "സദൃ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "സഭാപ്രസംഗി",
+      "abbreviation": "സഭാ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "ഉത്തമഗീതം",
+      "abbreviation": "ഉത്ത"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "യെശയ്യാവ്",
+      "abbreviation": "യെശ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "യിരെമ്യാവ്",
+      "abbreviation": "യിര"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "വിലാപങ്ങൾ",
+      "abbreviation": "വിലാ"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "യെഹെസ്കേൽ",
+      "abbreviation": "യെഹ"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ദാനീയേൽ",
+      "abbreviation": "ദാനി"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ഹോശേയ",
+      "abbreviation": "ഹോശ"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "യോവേൽ",
+      "abbreviation": "യോവേ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ആമോസ്",
+      "abbreviation": "ആമോ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ഓബദ്യാവു",
+      "abbreviation": "ഒബ"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "യോനാ",
+      "abbreviation": "യോന"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "മീഖാ",
+      "abbreviation": "മീഖ"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "നഹൂം",
+      "abbreviation": "നഹു"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ഹബക്കൂക്ക്",
+      "abbreviation": "ഹബ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "സെഫന്യാവ്",
+      "abbreviation": "സെഫ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ഹഗ്ഗായി",
+      "abbreviation": "ഹഗ്ഗാ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "സെഖര്യാവ്",
+      "abbreviation": "സെഖ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "മലാഖി",
+      "abbreviation": "മലാ"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "മത്തായി",
+      "abbreviation": "മത്താ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "മർക്കോസ്",
+      "abbreviation": "മർ"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ലൂക്കോസ്",
+      "abbreviation": "ലൂക്കോ"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "യോഹന്നാൻ",
+      "abbreviation": "യോഹ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "അപ്പൊ.പ്രവൃത്തികൾ",
+      "abbreviation": "അ.പ്ര"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "റോമർ",
+      "abbreviation": "റോമ"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 കൊരിന്ത്യർ",
+      "abbreviation": "1കൊരി"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 കൊരിന്ത്യർ",
+      "abbreviation": "2കൊരി"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ഗലാത്യർ",
+      "abbreviation": "ഗലാ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "എഫേസ്യർ",
+      "abbreviation": "എഫേ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ഫിലിപ്പിയർ",
+      "abbreviation": "ഫിലി"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "കൊലോസ്യർ",
+      "abbreviation": "കൊലോ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 തെസ്സലോനിക്യർ",
+      "abbreviation": "1തെസ്സ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 തെസ്സലോനിക്യർ",
+      "abbreviation": "2തെസ്സ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 തിമോത്തിയോസ്",
+      "abbreviation": "1തിമോ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 തിമോത്തിയോസ്",
+      "abbreviation": "2തിമോ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "തീത്തോസ്",
+      "abbreviation": "തീത്തോ"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ഫിലേമോൻ",
+      "abbreviation": "ഫിലേ"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "എബ്രായർ",
+      "abbreviation": "എബ്രാ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "യാക്കോബ്",
+      "abbreviation": "യാക്കോ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 പത്രോസ്",
+      "abbreviation": "1പത്രോ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 പത്രോസ്",
+      "abbreviation": "2പത്രോ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 യോഹന്നാൻ",
+      "abbreviation": "1യോഹ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 യോഹന്നാൻ",
+      "abbreviation": "2യോഹ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 യോഹന്നാൻ",
+      "abbreviation": "3യോഹ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "യൂദാ",
+      "abbreviation": "യൂദാ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "വെളിപ്പാട്",
+      "abbreviation": "വെളി"
+    }
+  ]
+}

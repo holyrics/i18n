@@ -1,0 +1,408 @@
+{
+  "id": "lt",
+  "language": "lt",
+  "name": "Lithuanian",
+  "alt_name": "Lietuvių",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Pradžios",
+      "abbreviation": "Pr"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Išėjimo",
+      "abbreviation": "Iš"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Kunigų (Levitų)",
+      "abbreviation": "Kun"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Skaičių",
+      "abbreviation": "Sk"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Pakartotas Įstatymas",
+      "abbreviation": "Įst"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Jozuės",
+      "abbreviation": "Joz"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Teisėjų",
+      "abbreviation": "Ts"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rūtos",
+      "abbreviation": "Rūt"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "I Samuelio",
+      "abbreviation": "I Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "II Samuelio",
+      "abbreviation": "II Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "I Karalių",
+      "abbreviation": "I Kar"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "II Karalių",
+      "abbreviation": "II Kar"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "I Metraščių",
+      "abbreviation": "I Met"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "II Metraščių",
+      "abbreviation": "II Met"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ezros",
+      "abbreviation": "Ezr"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemijo",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Esteros",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Jobo",
+      "abbreviation": "Job"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Psalmynas",
+      "abbreviation": "Ps"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Patarlių",
+      "abbreviation": "Pat"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Mokytojo",
+      "abbreviation": "Mok"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Giesmių giesmė",
+      "abbreviation": "Gg"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Izaijo",
+      "abbreviation": "Iz"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jeremijo",
+      "abbreviation": "Jer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Raudos",
+      "abbreviation": "Rd"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ezechielio",
+      "abbreviation": "Eze"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Danieliaus",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Ozėjo",
+      "abbreviation": "Oz"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Joelio",
+      "abbreviation": "Jl"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amoso",
+      "abbreviation": "Am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Abdijo",
+      "abbreviation": "Abd"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jonos",
+      "abbreviation": "Jon"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Michėjo",
+      "abbreviation": "Mch"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahumo",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habakuko",
+      "abbreviation": "Hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sofonijo",
+      "abbreviation": "Sof"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Agėjo",
+      "abbreviation": "Ag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zacharijo",
+      "abbreviation": "Zch"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malachijo",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Mato",
+      "abbreviation": "Mt"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Morkaus",
+      "abbreviation": "Mk"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luko",
+      "abbreviation": "Lk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Jono",
+      "abbreviation": "Jn"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Apaštalų darbai",
+      "abbreviation": "Apd"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Romiečiams",
+      "abbreviation": "Rom"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "I Korintiečiams",
+      "abbreviation": "I Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "II Korintiečiams",
+      "abbreviation": "II Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galatams",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efeziečiams",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipiečiams",
+      "abbreviation": "Flp"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolosiečiams",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "I Tesalonikiečiams",
+      "abbreviation": "I Tes"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "II Tesalonikiečiams",
+      "abbreviation": "II Tes"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "I Timotiejui",
+      "abbreviation": "I Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "II Timotiejui",
+      "abbreviation": "II Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Titui",
+      "abbreviation": "Tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemonui",
+      "abbreviation": "Flm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Hebrajams",
+      "abbreviation": "Hbr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Jokūbo",
+      "abbreviation": "Jok"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "I Petro",
+      "abbreviation": "I Pt"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "II Petro",
+      "abbreviation": "II Pt"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "I Jono",
+      "abbreviation": "I Jn"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "II Jono",
+      "abbreviation": "II Jn"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "III Jono",
+      "abbreviation": "III Jn"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Judo",
+      "abbreviation": "Jud"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Apreiškimas",
+      "abbreviation": "Apr"
+    }
+  ]
+}

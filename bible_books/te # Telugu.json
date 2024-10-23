@@ -1,0 +1,408 @@
+{
+  "id": "te",
+  "language": "te",
+  "name": "Telugu",
+  "alt_name": "Telugu",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ఆది",
+      "abbreviation": "ఆది"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "నిర్గమ",
+      "abbreviation": "నిర్గ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "లేవీ",
+      "abbreviation": "లేవీ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "సంఖ్యా",
+      "abbreviation": "సంఖ్యా"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ద్వితీ",
+      "abbreviation": "ద్వితీ"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "యెహో",
+      "abbreviation": "యెహో"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "న్యాయా",
+      "abbreviation": "న్యాయా"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "రూతు",
+      "abbreviation": "రూతు"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 సమూ",
+      "abbreviation": "1సమూ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 సమూ",
+      "abbreviation": "2సమూ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 రాజులు",
+      "abbreviation": "1రాజులు"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 రాజులు",
+      "abbreviation": "2రాజులు"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 దిన",
+      "abbreviation": "1దిన"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 దిన",
+      "abbreviation": "2దిన"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ఎజ్రా",
+      "abbreviation": "ఎజ్రా"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "నెహెమ్యా",
+      "abbreviation": "నెహె"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ఎస్తేరు",
+      "abbreviation": "ఎస్తే"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "యోబు",
+      "abbreviation": "యోబు"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "కీర్తన",
+      "abbreviation": "కీర్త"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "సామెత",
+      "abbreviation": "సామె"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ప్రసంగి",
+      "abbreviation": "ప్రస"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "పరమ",
+      "abbreviation": "పరమ"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "యెషయా",
+      "abbreviation": "యెష"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "యిర్మీయా",
+      "abbreviation": "యిర్మీ"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "విలాప వాక్యములు",
+      "abbreviation": "విలాప"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "యెహెజ్కేలు",
+      "abbreviation": "యెహె"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "దానియేలు",
+      "abbreviation": "దాని"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "హోషేయ",
+      "abbreviation": "హోషే"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "యోవేలు",
+      "abbreviation": "యోవే"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ఆమోసు",
+      "abbreviation": "ఆమో"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ఓబద్యా",
+      "abbreviation": "ఓబద్యా"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "యోనా",
+      "abbreviation": "యోనా"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "మీకా",
+      "abbreviation": "మీకా"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "నహూము",
+      "abbreviation": "నహూ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "హబక్కూకు",
+      "abbreviation": "హబ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "జెఫన్యా",
+      "abbreviation": "జెఫ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "హగ్గయి",
+      "abbreviation": "హగ్గ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "జెకర్యా",
+      "abbreviation": "జెక"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "మలాకీ",
+      "abbreviation": "మలా"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "మత్తయి",
+      "abbreviation": "మత్తయి"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "మార్కు",
+      "abbreviation": "మార్కు"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "లూకా",
+      "abbreviation": "లూకా"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "యోహాను",
+      "abbreviation": "యోహా"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "అపొస్తలుల కార్యములు",
+      "abbreviation": "అపొ.కా"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "రోమీయులకు రాసిన పత్రిక",
+      "abbreviation": "రోమా"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 కొరింతీ పత్రిక",
+      "abbreviation": "1కొరింతీ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 కొరింతీ పత్రిక",
+      "abbreviation": "2కొరింతీ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "గలతీ పత్రిక",
+      "abbreviation": "గలతీ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ఎఫెసీ పత్రిక",
+      "abbreviation": "ఎఫెసీ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ఫిలిప్పీ పత్రిక",
+      "abbreviation": "ఫిలిప్పీ"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "కొలస్స పత్రిక",
+      "abbreviation": "కొలస్స"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 తెస్సలోనిక పత్రిక",
+      "abbreviation": "1తెస్స"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 తెస్సలోనిక పత్రిక",
+      "abbreviation": "2తెస్స"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 తిమోతి పత్రిక",
+      "abbreviation": "1తిమో"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 తిమోతి పత్రిక",
+      "abbreviation": "2తిమో"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "తీతు పత్రిక",
+      "abbreviation": "తీతు"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ఫిలేమోను పత్రిక",
+      "abbreviation": "ఫిలే"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "హెబ్రీ పత్రిక",
+      "abbreviation": "హెబ్రీ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "యాకోబు పత్రిక",
+      "abbreviation": "యాకో"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 పేతురు పత్రిక",
+      "abbreviation": "1పేతు"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 పేతురు పత్రిక",
+      "abbreviation": "2పేతు"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 యోహాను పత్రిక",
+      "abbreviation": "1యోహా"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 యోహాను పత్రిక",
+      "abbreviation": "2యోహా"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 యోహాను పత్రిక",
+      "abbreviation": "3యోహా"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "యూదా పత్రిక",
+      "abbreviation": "యూదా"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ప్రకటన గ్రంథము",
+      "abbreviation": "ప్రక"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": "mdy",
+  "language": "mdy",
+  "name": "Male (Ethiopia)",
+  "alt_name": null,
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ማዢንቲ ማፃኣፔ",
+      "abbreviation": "ማዢ. ማፃ"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ኬሲ ማፃኣፔ",
+      "abbreviation": "ኬሲ. ማፃ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ሌዊ ዓሶ ማፃኣፖ",
+      "abbreviation": "ሌዊ. ዓኬ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ፓይዲ ማፃኣፔ",
+      "abbreviation": "ፓይ. ማፃ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ላሚንቴ ዎጎ ማፃኣፖ",
+      "abbreviation": "ላሚ. ዎማ"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "ዒያሱ ማፃኣፖ",
+      "abbreviation": "ዒያ"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ሱኡጎ ማፃኣፖ",
+      "abbreviation": "ሱኡጎ. ማፃ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ሩኡቴ ማፃኣፖ",
+      "abbreviation": "ሩኡቴ"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 ሳሙዔኤሌ ማፃኣፖ",
+      "abbreviation": "1ሳሙ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 ሳሙዔኤሌ ማፃኣፖ",
+      "abbreviation": "2ሳሙ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 ካኣቶ ማፃኣፖ",
+      "abbreviation": "1ካኣቶ. ማ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 ካኣቶ ማፃኣፖ",
+      "abbreviation": "2ካኣቶ. ማ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 ፆኦሲ ዓሶ ሃይሶ",
+      "abbreviation": "1ፆኦሲ. ዓሃኬ"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 ፆኦሲ ዓሶ ሃይሶ",
+      "abbreviation": "2ፆኦሲ. ዓሃኬ"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ዒዝራ ማፃኣፖ",
+      "abbreviation": "ዒዝ"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ኔሄሚያ ማፃኣፖ",
+      "abbreviation": "ኔሄ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ዓስቲሮ ማፃኣፖ",
+      "abbreviation": "ዓስቲ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ዒዮቤ ማፃኣፖ",
+      "abbreviation": "ዒዮ"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ዓይኑሞ ማፃኣፖ",
+      "abbreviation": "ዓይኑ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ኮኦኪንሢ ማፃኣፔ",
+      "abbreviation": "ኮኦኪ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ማክቢቤ ማፃኣፖ",
+      "abbreviation": "ማክ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "ቢያፓ ባሼ ዓይኑሞ",
+      "abbreviation": "ቢባ. ዓይ"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ዒሲያሴ ማፃኣፖ",
+      "abbreviation": "ዒሲ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ዔርሚያሴ ማፃኣፖ",
+      "abbreviation": "ዔር"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ዔርሚያሴኮ ቃዮ ማፃኣፖ",
+      "abbreviation": "ዔቃ. ማ"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ሂዚቄኤሌ ማፃኣፖ",
+      "abbreviation": "ሂዚ"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ዳኣኔኤሌ ማፃኣፖ",
+      "abbreviation": "ዳኣኔ"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ሆሴዔ ማፃኣፖ",
+      "abbreviation": "ሆሴ"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "ዒዩዔኤሌ ማፃኣፖ",
+      "abbreviation": "ዒዩ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ዓሞፄ ማፃኣፖ",
+      "abbreviation": "ዓሞ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ዓብዲዮ ማፃኣፖ",
+      "abbreviation": "ዓብዲ"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "ዮናኣሴ ማፃኣፖ",
+      "abbreviation": "ዮና"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "ሚኪያሴ ማፃኣፖ",
+      "abbreviation": "ሚኪ"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ናሆኦሜ ማፃኣፖ",
+      "abbreviation": "ናሆ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ዒምባቆሜ ማፃኣፖ",
+      "abbreviation": "ዒምባ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ሶፖኒያሴ ማፃኣፖ",
+      "abbreviation": "ሶፖ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ሃኣጌ ማፃኣፖ",
+      "abbreviation": "ሃኣጌ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ዛካሪያሴ ማፃኣፖ",
+      "abbreviation": "ዛካ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ሚልኪያሴ ማፃኣፖ",
+      "abbreviation": "ሚል"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "ማቲዎሴ ፃኣፔ ኮዦ ሃይሶ",
+      "abbreviation": "ማቲ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "ማርቆሴ ፃኣፔ ኮዦ ሃይሶ",
+      "abbreviation": "ማር"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ሉቃሴ ፃኣፔ ኮዦ ሃይሶ",
+      "abbreviation": "ሉቃ"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "ዮሃኒሴ ፃኣፔ ኮዦ ሃይሶ",
+      "abbreviation": "ዮሃ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "ዳኪንቴዞንሢኮ ማዾ",
+      "abbreviation": "ዳኪ. ማዾ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ሮሜ ዓሶም",
+      "abbreviation": "ሮሜ"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 ቆሮንቶሴ ዓሶም",
+      "abbreviation": "1ቆሮ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 ቆሮንቶሴ ዓሶም",
+      "abbreviation": "2ቆሮ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ጋላቲያ ዓሶም",
+      "abbreviation": "ጋላ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ዔፕሶኔ ዓሶም",
+      "abbreviation": "ዔፕ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ፒልጲሲዮሴ ዓሶም",
+      "abbreviation": "ፒልጲ"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ቆላሲያሴ ዓሶም",
+      "abbreviation": "ቆላ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 ቴስሎንቄ ዓሶም",
+      "abbreviation": "1ቴስ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 ቴስሎንቄ ዓሶም",
+      "abbreviation": "2ቴስ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 ፂሞቴዎሴም",
+      "abbreviation": "1ፂሞ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 ፂሞቴዎሴም",
+      "abbreviation": "2ፂሞ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ቲቶም",
+      "abbreviation": "ቲቶ"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ፒልሞናም",
+      "abbreviation": "ፒልሞ"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ዔብሬ ዓሶም",
+      "abbreviation": "ዔብ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ያይቆኦቤ ኪኢቶ",
+      "abbreviation": "ያይ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 ጴፂሮሴኮ ኪኢቶ",
+      "abbreviation": "1ጴፂ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 ጴፂሮሴኮ ኪኢቶ",
+      "abbreviation": "2ጴፂ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 ዮሃኒሴኮ ኪኢቶ",
+      "abbreviation": "1ዮሃ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 ዮሃኒሴኮ ኪኢቶ",
+      "abbreviation": "2ዮሃ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 ዮሃኒሴኮ ኪኢቶ",
+      "abbreviation": "3ዮሃ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ዪሁዳ ኪኢቶ",
+      "abbreviation": "ዪሁ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ዮሃኒሴም ፆኦሲ ዻዌ ባኮ",
+      "abbreviation": "ዮሃ. ፆፔዻ"
+    }
+  ]
+}
