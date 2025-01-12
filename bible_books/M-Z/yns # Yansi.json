@@ -245,163 +245,163 @@
       "id": "40",
       "usfx_code": "MAT",
       "name": "Màtay",
-      "abbreviation": "mt"
+      "abbreviation": "Màt"
     },
     {
       "id": "41",
       "usfx_code": "MRK",
-      "name": "Mark",
-      "abbreviation": "mk"
+      "name": "Malakɔ",
+      "abbreviation": "Mlk"
     },
     {
       "id": "42",
       "usfx_code": "LUK",
-      "name": "Luke",
-      "abbreviation": "lk"
+      "name": "Lukà",
+      "abbreviation": "Luk"
     },
     {
       "id": "43",
       "usfx_code": "JHN",
-      "name": "John",
-      "abbreviation": "jn"
+      "name": "Ywan",
+      "abbreviation": "Ywn"
     },
     {
       "id": "44",
       "usfx_code": "ACT",
-      "name": "Acts",
-      "abbreviation": "ac"
+      "name": "Isal",
+      "abbreviation": "Ian"
     },
     {
       "id": "45",
       "usfx_code": "ROM",
-      "name": "Romans",
-      "abbreviation": "rm"
+      "name": "Lɔmà",
+      "abbreviation": "Lɔm"
     },
     {
       "id": "46",
       "usfx_code": "1CO",
-      "name": "1 Corinthians",
-      "abbreviation": "1co"
+      "name": "1 Bàkɔlintɔ",
+      "abbreviation": "1Kɔ"
     },
     {
       "id": "47",
       "usfx_code": "2CO",
-      "name": "2 Corinthians",
-      "abbreviation": "2co"
+      "name": "2  Bàkɔlintɔ",
+      "abbreviation": "2Kɔ"
     },
     {
       "id": "48",
       "usfx_code": "GAL",
-      "name": "Galatians",
-      "abbreviation": "ga"
+      "name": "Ngalàtyà",
+      "abbreviation": "Nga"
     },
     {
       "id": "49",
       "usfx_code": "EPH",
-      "name": "Ephesians",
-      "abbreviation": "eph"
+      "name": "Ɛfɛsɔ",
+      "abbreviation": "Ɛfɛ"
     },
     {
       "id": "50",
       "usfx_code": "PHP",
-      "name": "Philippians",
-      "abbreviation": "php"
+      "name": "Filipo",
+      "abbreviation": "Fil"
     },
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Colossians",
-      "abbreviation": "col"
+      "name": "Kɔlɔsay",
+      "abbreviation": "Kɔl"
     },
     {
       "id": "52",
       "usfx_code": "1TH",
-      "name": "1 Thessalonians",
-      "abbreviation": "1th"
+      "name": "1 Tɛsalɔnikà",
+      "abbreviation": "1Tɛ"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
-      "name": "2 Thessalonians",
-      "abbreviation": "2th"
+      "name": "2 Tɛsalɔnikà",
+      "abbreviation": "2Tɛ"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
-      "name": "1 Timothy",
-      "abbreviation": "1ti"
+      "name": "1 Tumàtɛ",
+      "abbreviation": "1Tm"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
-      "name": "2 Timothy",
-      "abbreviation": "2ti"
+      "name": "2 Tumàtɛ",
+      "abbreviation": "2Tm"
     },
     {
       "id": "56",
       "usfx_code": "TIT",
-      "name": "Titus",
-      "abbreviation": "tit"
+      "name": "Titɔ",
+      "abbreviation": "Tit"
     },
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Philemon",
-      "abbreviation": "phm"
+      "name": "Filemɔ",
+      "abbreviation": "Flm"
     },
     {
       "id": "58",
       "usfx_code": "HEB",
-      "name": "Hebrews",
-      "abbreviation": "heb"
+      "name": "Ɛbɛlyɔ",
+      "abbreviation": "Ɛbɛ"
     },
     {
       "id": "59",
       "usfx_code": "JAS",
-      "name": "James",
-      "abbreviation": "jm"
+      "name": "Zyak",
+      "abbreviation": "Zya"
     },
     {
       "id": "60",
       "usfx_code": "1PE",
-      "name": "1 Peter",
-      "abbreviation": "1pe"
+      "name": "1 Petɔlà",
+      "abbreviation": "1Pe"
     },
     {
       "id": "61",
       "usfx_code": "2PE",
-      "name": "2 Peter",
-      "abbreviation": "2pe"
+      "name": "2 Petɔlà",
+      "abbreviation": "2Pe"
     },
     {
       "id": "62",
       "usfx_code": "1JN",
-      "name": "1 John",
-      "abbreviation": "1jo"
+      "name": "1 Ywan",
+      "abbreviation": "1Yw"
     },
     {
       "id": "63",
       "usfx_code": "2JN",
-      "name": "2 John",
-      "abbreviation": "2jo"
+      "name": "2 Ywan",
+      "abbreviation": "2Yw"
     },
     {
       "id": "64",
       "usfx_code": "3JN",
-      "name": "3 John",
-      "abbreviation": "3jo"
+      "name": "3 Ywan",
+      "abbreviation": "3Yw"
     },
     {
       "id": "65",
       "usfx_code": "JUD",
-      "name": "Jude",
-      "abbreviation": "jud"
+      "name": "Yude",
+      "abbreviation": "Yud"
     },
     {
       "id": "66",
       "usfx_code": "REV",
-      "name": "Revelation",
-      "abbreviation": "rev"
+      "name": "Imɛɛy",
+      "abbreviation": "Imɛ"
     }
   ]
 }

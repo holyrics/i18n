@@ -250,157 +250,157 @@
     {
       "id": "41",
       "usfx_code": "MRK",
-      "name": "Mark",
+      "name": "मरकुस",
       "abbreviation": "mk"
     },
     {
       "id": "42",
       "usfx_code": "LUK",
-      "name": "Luke",
+      "name": "लुका",
       "abbreviation": "lk"
     },
     {
       "id": "43",
       "usfx_code": "JHN",
-      "name": "John",
+      "name": "युहन्‌ना",
       "abbreviation": "jn"
     },
     {
       "id": "44",
       "usfx_code": "ACT",
-      "name": "Acts",
+      "name": "नेवताळा",
       "abbreviation": "ac"
     },
     {
       "id": "45",
       "usfx_code": "ROM",
-      "name": "Romans",
+      "name": "रोमी",
       "abbreviation": "rm"
     },
     {
       "id": "46",
       "usfx_code": "1CO",
-      "name": "1 Corinthians",
+      "name": "1 कुरींथी",
       "abbreviation": "1co"
     },
     {
       "id": "47",
       "usfx_code": "2CO",
-      "name": "2 Corinthians",
+      "name": "2 कुरींथी",
       "abbreviation": "2co"
     },
     {
       "id": "48",
       "usfx_code": "GAL",
-      "name": "Galatians",
+      "name": "गलाती",
       "abbreviation": "ga"
     },
     {
       "id": "49",
       "usfx_code": "EPH",
-      "name": "Ephesians",
+      "name": "ईफीसी",
       "abbreviation": "eph"
     },
     {
       "id": "50",
       "usfx_code": "PHP",
-      "name": "Philippians",
+      "name": "फीलीपी",
       "abbreviation": "php"
     },
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Colossians",
+      "name": "कुलुसी",
       "abbreviation": "col"
     },
     {
       "id": "52",
       "usfx_code": "1TH",
-      "name": "1 Thessalonians",
+      "name": "1 थीसलुनीकी",
       "abbreviation": "1th"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
-      "name": "2 Thessalonians",
+      "name": "2 थीसलुनीकी",
       "abbreviation": "2th"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
-      "name": "1 Timothy",
+      "name": "1 तीमुथी",
       "abbreviation": "1ti"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
-      "name": "2 Timothy",
+      "name": "2 तीमुथी",
       "abbreviation": "2ti"
     },
     {
       "id": "56",
       "usfx_code": "TIT",
-      "name": "Titus",
+      "name": "तीतुस",
       "abbreviation": "tit"
     },
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Philemon",
+      "name": "फीलेमोन",
       "abbreviation": "phm"
     },
     {
       "id": "58",
       "usfx_code": "HEB",
-      "name": "Hebrews",
+      "name": "ईब्‌रानी",
       "abbreviation": "heb"
     },
     {
       "id": "59",
       "usfx_code": "JAS",
-      "name": "James",
+      "name": "याकुप",
       "abbreviation": "jm"
     },
     {
       "id": "60",
       "usfx_code": "1PE",
-      "name": "1 Peter",
+      "name": "1 पतरस",
       "abbreviation": "1pe"
     },
     {
       "id": "61",
       "usfx_code": "2PE",
-      "name": "2 Peter",
+      "name": "2 पतरस",
       "abbreviation": "2pe"
     },
     {
       "id": "62",
       "usfx_code": "1JN",
-      "name": "1 John",
+      "name": "1 युहन्‌ना",
       "abbreviation": "1jo"
     },
     {
       "id": "63",
       "usfx_code": "2JN",
-      "name": "2 John",
+      "name": "2 युहन्‌ना",
       "abbreviation": "2jo"
     },
     {
       "id": "64",
       "usfx_code": "3JN",
-      "name": "3 John",
+      "name": "3 युहन्‌ना",
       "abbreviation": "3jo"
     },
     {
       "id": "65",
       "usfx_code": "JUD",
-      "name": "Jude",
+      "name": "यहुदा",
       "abbreviation": "jud"
     },
     {
       "id": "66",
       "usfx_code": "REV",
-      "name": "Revelation",
+      "name": "उजेंता बुले",
       "abbreviation": "rev"
     }
   ]

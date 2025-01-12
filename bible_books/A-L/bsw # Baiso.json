@@ -244,38 +244,38 @@
     {
       "id": "40",
       "usfx_code": "MAT",
-      "name": "ማቶሳ",
-      "abbreviation": "mt"
+      "name": "Matoosa",
+      "abbreviation": "Mat"
     },
     {
       "id": "41",
       "usfx_code": "MRK",
-      "name": "Mark",
-      "abbreviation": "mk"
+      "name": "Mark\u0027oosa",
+      "abbreviation": "Mar"
     },
     {
       "id": "42",
       "usfx_code": "LUK",
-      "name": "Luke",
-      "abbreviation": "lk"
+      "name": "Luk\u0027k\u0027aasa",
+      "abbreviation": "Luk\u0027"
     },
     {
       "id": "43",
       "usfx_code": "JHN",
-      "name": "John",
-      "abbreviation": "jn"
+      "name": "Yaannisa",
+      "abbreviation": "Yan"
     },
     {
       "id": "44",
       "usfx_code": "ACT",
-      "name": "Acts",
-      "abbreviation": "ac"
+      "name": "Ofarameeraankonገi felo",
+      "abbreviation": "Ofa. Fe"
     },
     {
       "id": "45",
       "usfx_code": "ROM",
-      "name": "Romans",
-      "abbreviation": "rm"
+      "name": "Roome",
+      "abbreviation": "Rom"
     },
     {
       "id": "46",
@@ -292,26 +292,26 @@
     {
       "id": "48",
       "usfx_code": "GAL",
-      "name": "Galatians",
-      "abbreviation": "ga"
+      "name": "Gelaatiya",
+      "abbreviation": "Gel"
     },
     {
       "id": "49",
       "usfx_code": "EPH",
-      "name": "Ephesians",
-      "abbreviation": "eph"
+      "name": "Efesoona",
+      "abbreviation": "Efe"
     },
     {
       "id": "50",
       "usfx_code": "PHP",
-      "name": "Philippians",
-      "abbreviation": "php"
+      "name": "Filp\u0027isiyosa",
+      "abbreviation": "Filp"
     },
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Colossians",
-      "abbreviation": "col"
+      "name": "K\u0027ollasiyaasa",
+      "abbreviation": "K\u0027ol"
     },
     {
       "id": "52",
@@ -340,26 +340,26 @@
     {
       "id": "56",
       "usfx_code": "TIT",
-      "name": "Titus",
-      "abbreviation": "tit"
+      "name": "Tiito",
+      "abbreviation": "Tit"
     },
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Philemon",
-      "abbreviation": "phm"
+      "name": "Filmoona",
+      "abbreviation": "Film"
     },
     {
       "id": "58",
       "usfx_code": "HEB",
-      "name": "Hebrews",
-      "abbreviation": "heb"
+      "name": "Ibirawwii",
+      "abbreviation": "Ibr"
     },
     {
       "id": "59",
       "usfx_code": "JAS",
-      "name": "James",
-      "abbreviation": "jm"
+      "name": "Yayik\u0027ooba",
+      "abbreviation": "Yay"
     },
     {
       "id": "60",
@@ -394,14 +394,14 @@
     {
       "id": "65",
       "usfx_code": "JUD",
-      "name": "Jude",
-      "abbreviation": "jud"
+      "name": "Yihuuda",
+      "abbreviation": "Yih"
     },
     {
       "id": "66",
       "usfx_code": "REV",
-      "name": "Revelation",
-      "abbreviation": "rev"
+      "name": "Raaga Kayaannisa",
+      "abbreviation": "Rag"
     }
   ]
 }

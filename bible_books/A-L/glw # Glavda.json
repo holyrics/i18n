@@ -245,13 +245,13 @@
       "id": "40",
       "usfx_code": "MAT",
       "name": "Mata",
-      "abbreviation": "mt"
+      "abbreviation": "MT"
     },
     {
       "id": "41",
       "usfx_code": "MRK",
-      "name": "Mark",
-      "abbreviation": "mk"
+      "name": "Markus",
+      "abbreviation": "MK"
     },
     {
       "id": "42",
@@ -280,19 +280,19 @@
     {
       "id": "46",
       "usfx_code": "1CO",
-      "name": "1 Corinthians",
+      "name": "1CO",
       "abbreviation": "1co"
     },
     {
       "id": "47",
       "usfx_code": "2CO",
-      "name": "2 Corinthians",
+      "name": "2CO",
       "abbreviation": "2co"
     },
     {
       "id": "48",
       "usfx_code": "GAL",
-      "name": "Galatians",
+      "name": "GAL",
       "abbreviation": "ga"
     },
     {
@@ -310,7 +310,7 @@
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Colossians",
+      "name": "COL",
       "abbreviation": "col"
     },
     {

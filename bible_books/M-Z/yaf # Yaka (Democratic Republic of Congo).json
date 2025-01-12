@@ -245,43 +245,43 @@
       "id": "40",
       "usfx_code": "MAT",
       "name": "Mathayi",
-      "abbreviation": "mt"
+      "abbreviation": "Mth"
     },
     {
       "id": "41",
       "usfx_code": "MRK",
-      "name": "Mark",
-      "abbreviation": "mk"
+      "name": "Malaku",
+      "abbreviation": "Mlk"
     },
     {
       "id": "42",
       "usfx_code": "LUK",
-      "name": "Luke",
-      "abbreviation": "lk"
+      "name": "Luka",
+      "abbreviation": "Luk"
     },
     {
       "id": "43",
       "usfx_code": "JHN",
-      "name": "John",
-      "abbreviation": "jn"
+      "name": "Yowani",
+      "abbreviation": "Ywn"
     },
     {
       "id": "44",
       "usfx_code": "ACT",
-      "name": "Acts",
-      "abbreviation": "ac"
+      "name": "Mihangu",
+      "abbreviation": "Mhb"
     },
     {
       "id": "45",
       "usfx_code": "ROM",
-      "name": "Romans",
-      "abbreviation": "rm"
+      "name": "Loma",
+      "abbreviation": "Lom"
     },
     {
       "id": "46",
       "usfx_code": "1CO",
-      "name": "1 Corinthians",
-      "abbreviation": "1co"
+      "name": "Watheti wa Khoditu",
+      "abbreviation": "1Ko"
     },
     {
       "id": "47",
@@ -292,74 +292,74 @@
     {
       "id": "48",
       "usfx_code": "GAL",
-      "name": "Galatians",
-      "abbreviation": "ga"
+      "name": "Ngalatya",
+      "abbreviation": "Ngl"
     },
     {
       "id": "49",
       "usfx_code": "EPH",
-      "name": "Ephesians",
-      "abbreviation": "eph"
+      "name": "Efesu",
+      "abbreviation": "Efs"
     },
     {
       "id": "50",
       "usfx_code": "PHP",
-      "name": "Philippians",
-      "abbreviation": "php"
+      "name": "Fidiphu",
+      "abbreviation": "Fdp"
     },
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Colossians",
-      "abbreviation": "col"
+      "name": "Kholosayi",
+      "abbreviation": "Khl"
     },
     {
       "id": "52",
       "usfx_code": "1TH",
-      "name": "1 Thessalonians",
-      "abbreviation": "1th"
+      "name": "Watheti wa Tesalonika",
+      "abbreviation": "1Te"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
-      "name": "2 Thessalonians",
-      "abbreviation": "2th"
+      "name": "Wazodi wa Tesalonika",
+      "abbreviation": "2Te"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
-      "name": "1 Timothy",
-      "abbreviation": "1ti"
+      "name": "Watheti wa Thimoti",
+      "abbreviation": "1Th"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
-      "name": "2 Timothy",
-      "abbreviation": "2ti"
+      "name": "Wazodi wa Thimoti",
+      "abbreviation": "2Th"
     },
     {
       "id": "56",
       "usfx_code": "TIT",
-      "name": "Titus",
-      "abbreviation": "tit"
+      "name": "Mukanda kwena Titi",
+      "abbreviation": "Tit"
     },
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Philemon",
-      "abbreviation": "phm"
+      "name": "Fidimoni",
+      "abbreviation": "Fdm"
     },
     {
       "id": "58",
       "usfx_code": "HEB",
-      "name": "Hebrews",
-      "abbreviation": "heb"
+      "name": "Hebelu",
+      "abbreviation": "Ebl"
     },
     {
       "id": "59",
       "usfx_code": "JAS",
-      "name": "James",
-      "abbreviation": "jm"
+      "name": "Zyaki",
+      "abbreviation": "Zak"
     },
     {
       "id": "60",
@@ -376,20 +376,20 @@
     {
       "id": "62",
       "usfx_code": "1JN",
-      "name": "1 John",
-      "abbreviation": "1jo"
+      "name": "Watheti wa Yowani",
+      "abbreviation": "1Yo"
     },
     {
       "id": "63",
       "usfx_code": "2JN",
-      "name": "2 John",
-      "abbreviation": "2jo"
+      "name": "Wazodi wa Yowani",
+      "abbreviation": "2Yo"
     },
     {
       "id": "64",
       "usfx_code": "3JN",
-      "name": "3 John",
-      "abbreviation": "3jo"
+      "name": "Watatu wa Yowani",
+      "abbreviation": "3Yo"
     },
     {
       "id": "65",

@@ -310,31 +310,31 @@
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Colossians",
+      "name": "COL",
       "abbreviation": "col"
     },
     {
       "id": "52",
       "usfx_code": "1TH",
-      "name": "1 Thessalonians",
+      "name": "1TH",
       "abbreviation": "1th"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
-      "name": "2 Thessalonians",
+      "name": "2TH",
       "abbreviation": "2th"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
-      "name": "1 Timothy",
+      "name": "1TI",
       "abbreviation": "1ti"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
-      "name": "2 Timothy",
+      "name": "2TI",
       "abbreviation": "2ti"
     },
     {
@@ -346,7 +346,7 @@
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Philemon",
+      "name": "PHM",
       "abbreviation": "phm"
     },
     {
@@ -358,7 +358,7 @@
     {
       "id": "59",
       "usfx_code": "JAS",
-      "name": "James",
+      "name": "JAS",
       "abbreviation": "jm"
     },
     {
@@ -376,19 +376,19 @@
     {
       "id": "62",
       "usfx_code": "1JN",
-      "name": "1 John",
+      "name": "1JN",
       "abbreviation": "1jo"
     },
     {
       "id": "63",
       "usfx_code": "2JN",
-      "name": "2 John",
+      "name": "2JN",
       "abbreviation": "2jo"
     },
     {
       "id": "64",
       "usfx_code": "3JN",
-      "name": "3 John",
+      "name": "3JN",
       "abbreviation": "3jo"
     },
     {
