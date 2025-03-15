@@ -60,37 +60,37 @@
       "id": "09",
       "usfx_code": "1SA",
       "name": "Хаан түрэнүүд тухай нэгэдэхи ном",
-      "abbreviation": "1 Хн"
+      "abbreviation": "1Хн"
     },
     {
       "id": "10",
       "usfx_code": "2SA",
       "name": "Хаан түрэнүүд тухай хоёрдохи ном",
-      "abbreviation": "2 Хн"
+      "abbreviation": "2Хн"
     },
     {
       "id": "11",
       "usfx_code": "1KI",
       "name": "Хаан түрэнүүд тухай гурбадахи ном",
-      "abbreviation": "3 Хн"
+      "abbreviation": "3Хн"
     },
     {
       "id": "12",
       "usfx_code": "2KI",
       "name": "Хаан түрэнүүд тухай дүрбэдэхи ном",
-      "abbreviation": "4 Хн"
+      "abbreviation": "4Хн"
     },
     {
       "id": "13",
       "usfx_code": "1CH",
       "name": "Угай бэшэгэй нэгэдэхи ном",
-      "abbreviation": "1 Уг"
+      "abbreviation": "1Уг"
     },
     {
       "id": "14",
       "usfx_code": "2CH",
       "name": "Угай бэшэгэй хоёрдохи ном",
-      "abbreviation": "2 Уг"
+      "abbreviation": "2Уг"
     },
     {
       "id": "15",
@@ -282,13 +282,13 @@
       "id": "46",
       "usfx_code": "1CO",
       "name": "Павелай Коринфынхидтэ бэшэһэн түрүүшын хандалга",
-      "abbreviation": "1 Кор"
+      "abbreviation": "1Кор"
     },
     {
       "id": "47",
       "usfx_code": "2CO",
       "name": "Павелай Коринфынхидтэ бэшэһэн хоёрдохи хандалга",
-      "abbreviation": "2 Кор"
+      "abbreviation": "2Кор"
     },
     {
       "id": "48",
@@ -318,25 +318,25 @@
       "id": "52",
       "usfx_code": "1TH",
       "name": "Павелай Фессалоникиинхидтэ бэшэһэн түрүүшын хандалга",
-      "abbreviation": "1 Фес"
+      "abbreviation": "1Фес"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
       "name": "Павелай Фессалоникиинхидтэ бэшэһэн хоёрдохи хандалга",
-      "abbreviation": "2 Фес"
+      "abbreviation": "2Фес"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
       "name": "Павелай Тимофейдэ бэшэһэн түрүүшын хандалга",
-      "abbreviation": "1 Тим"
+      "abbreviation": "1Тим"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
       "name": "Павелай Тимофейдэ бэшэһэн хоёрдохи хандалга",
-      "abbreviation": "2 Тим"
+      "abbreviation": "2Тим"
     },
     {
       "id": "56",
@@ -366,31 +366,31 @@
       "id": "60",
       "usfx_code": "1PE",
       "name": "Пётрой бэшэһэн түрүүшын хандалга",
-      "abbreviation": "1 Пет"
+      "abbreviation": "1Пет"
     },
     {
       "id": "61",
       "usfx_code": "2PE",
       "name": "Пётрой бэшэһэн хоёрдохи хандалга",
-      "abbreviation": "2 Пет"
+      "abbreviation": "2Пет"
     },
     {
       "id": "62",
       "usfx_code": "1JN",
       "name": "Иоаннай бэшэһэн нэгэдэхи хандалга",
-      "abbreviation": "1 Ин"
+      "abbreviation": "1Ин"
     },
     {
       "id": "63",
       "usfx_code": "2JN",
       "name": "Иоаннай бэшэһэн хоёрдохи хандалга",
-      "abbreviation": "2 Ин"
+      "abbreviation": "2Ин"
     },
     {
       "id": "64",
       "usfx_code": "3JN",
       "name": "Иоаннай бэшэһэн гурбадахи хандалга",
-      "abbreviation": "3 Ин"
+      "abbreviation": "3Ин"
     },
     {
       "id": "65",
