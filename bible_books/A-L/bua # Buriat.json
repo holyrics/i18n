@@ -1,0 +1,408 @@
+{
+  "id": "bua",
+  "language": "bua",
+  "name": "Buriat",
+  "alt_name": "Буряад хэлэн",
+  "old_testament": "Хуушаан Хэлсээн",
+  "new_testament": "Шэнэ Хэлсээн",
+  "old_testament_abbreviation": "ХХ",
+  "new_testament_abbreviation": "ШХ",
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Эхин",
+      "abbreviation": "Эхин"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Египедһээ гаралга",
+      "abbreviation": "Егп"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Левит",
+      "abbreviation": "Лев"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Тоололго",
+      "abbreviation": "Тол"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Хуули дабталга",
+      "abbreviation": "Хуу"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Нүүнэй хүбүүн Иисүүсэй ном",
+      "abbreviation": "Нүүн"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Ударидагшадай ном",
+      "abbreviation": "Удр"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Рүүдэй ном",
+      "abbreviation": "Рүүд"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "Хаан түрэнүүд тухай нэгэдэхи ном",
+      "abbreviation": "1Хн"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "Хаан түрэнүүд тухай хоёрдохи ном",
+      "abbreviation": "2Хн"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "Хаан түрэнүүд тухай гурбадахи ном",
+      "abbreviation": "3Хн"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "Хаан түрэнүүд тухай дүрбэдэхи ном",
+      "abbreviation": "4Хн"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "Угай бэшэгэй нэгэдэхи ном",
+      "abbreviation": "1Уг"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "Угай бэшэгэй хоёрдохи ном",
+      "abbreviation": "2Уг"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Эзраагай ном",
+      "abbreviation": "Эзр"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Нэхэмьяагай ном",
+      "abbreviation": "Нэх"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Эстээрэй ном",
+      "abbreviation": "Эст"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Иоовой ном",
+      "abbreviation": "Иов"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Псалманууд",
+      "abbreviation": "Пс"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Соломоон хаанай һургаал",
+      "abbreviation": "Солм"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Экклезиастын ном",
+      "abbreviation": "Эккл"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Соломооной дуунай дуун",
+      "abbreviation": "Дуун"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Исай лүндэншын ном",
+      "abbreviation": "Иса"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Ерэмияа лүндэншын ном",
+      "abbreviation": "Ерм"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Ерэмияагай гашуудал",
+      "abbreviation": "Гаш"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Эзэкээл лүндэншын ном",
+      "abbreviation": "Эзэк"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Даниил лүндэншын ном",
+      "abbreviation": "Дан"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Һошээ лүндэншын ном",
+      "abbreviation": "Һош"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Ёһээл лүндэншын ном",
+      "abbreviation": "Ёһл"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Амоос лүндэншын ном",
+      "abbreviation": "Амс"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Авдии лүндэншын ном",
+      "abbreviation": "Авд"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Иона лүндэншын ном",
+      "abbreviation": "Ион"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Михей лүндэншын ном",
+      "abbreviation": "Мих"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Наум лүндэншын ном",
+      "abbreviation": "Наум"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Аввакуум лүндэншын ном",
+      "abbreviation": "Авв"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Цэпаанияа лүндэншын ном",
+      "abbreviation": "Цэп"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Хаггай лүндэншын ном",
+      "abbreviation": "Хаг"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Захарияа лүндэншын ном",
+      "abbreviation": "Зах"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Малаахи лүндэншын ном",
+      "abbreviation": "Мал"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Матвейн дуулгаһан Һайн Мэдээсэл",
+      "abbreviation": "Мат"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Маркын дуулгаһан Һайн Мэдээсэл",
+      "abbreviation": "Мар"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Лукагай дуулгаһан Һайн Мэдээсэл",
+      "abbreviation": "Лук"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Иоаннай дуулгаһан Һайн Мэдээсэл",
+      "abbreviation": "Ин"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Элшэнэрэй бүтээһэн хэрэгүүд",
+      "abbreviation": "Элш"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Павелай Римэйхиндэ бэшэһэн хандалга",
+      "abbreviation": "Рим"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "Павелай Коринфынхидтэ бэшэһэн түрүүшын хандалга",
+      "abbreviation": "1Кор"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "Павелай Коринфынхидтэ бэшэһэн хоёрдохи хандалга",
+      "abbreviation": "2Кор"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Павелай Галаадуудта бэшэһэн хандалга",
+      "abbreviation": "Гал"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Павелай Эфесэйхиндэ бэшэһэн хандалга",
+      "abbreviation": "Эфес"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Павелай Филиппынхидтэ бэшэһэн хандалга",
+      "abbreviation": "Филип"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Павелай Колоссынхидтэ бэшэһэн хандалга",
+      "abbreviation": "Кол"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "Павелай Фессалоникиинхидтэ бэшэһэн түрүүшын хандалга",
+      "abbreviation": "1Фес"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "Павелай Фессалоникиинхидтэ бэшэһэн хоёрдохи хандалга",
+      "abbreviation": "2Фес"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "Павелай Тимофейдэ бэшэһэн түрүүшын хандалга",
+      "abbreviation": "1Тим"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "Павелай Тимофейдэ бэшэһэн хоёрдохи хандалга",
+      "abbreviation": "2Тим"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Павелай Тидтэ бэшэһэн хандалга",
+      "abbreviation": "Тит"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Павелай Филимондо бэшэһэн хандалга",
+      "abbreviation": "Филим"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Еврейнүүдтэ бэшэһэн хандалга",
+      "abbreviation": "Евр"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Яковай бэшэһэн хандалга",
+      "abbreviation": "Як"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "Пётрой бэшэһэн түрүүшын хандалга",
+      "abbreviation": "1Пет"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "Пётрой бэшэһэн хоёрдохи хандалга",
+      "abbreviation": "2Пет"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "Иоаннай бэшэһэн нэгэдэхи хандалга",
+      "abbreviation": "1Ин"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "Иоаннай бэшэһэн хоёрдохи хандалга",
+      "abbreviation": "2Ин"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "Иоаннай бэшэһэн гурбадахи хандалга",
+      "abbreviation": "3Ин"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Еврейнүүдтэ бэшэһэн хандалга",
+      "abbreviation": "Евр"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Иоаннай бэшэһэн гэршэлгэ",
+      "abbreviation": "Гэр"
+    }
+  ]
+}
