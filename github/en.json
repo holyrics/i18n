@@ -236,12 +236,12 @@
     "v": "Opens a window to select a song"
   },
   {
-    "k": "Abreviação da versão ou o nome do atalho, se começar com \u0027#shortcut \u0027",
-    "v": "Abbreviation of the version or the name of the shortcut, if it starts with \u0027#shortcut \u0027"
+    "k": "Abreviação da versão ou o nome do atalho, se começar com '#shortcut '",
+    "v": "Abbreviation of the version or the name of the shortcut, if it starts with '#shortcut '"
   },
   {
-    "k": "Abreviação da versão. Disponível se o item for um atalho, ou seja se \u0027key\u0027 começar com \u0027#shortcut \u0027",
-    "v": "Abbreviation of the version. Available if the item is a shortcut, that is if \u0027key\u0027 starts with \u0027#shortcut \u0027"
+    "k": "Abreviação da versão. Disponível se o item for um atalho, ou seja se 'key' começar com '#shortcut '",
+    "v": "Abbreviation of the version. Available if the item is a shortcut, that is if 'key' starts with '#shortcut '"
   },
   {
     "k": "Abreviação do livro",
@@ -381,19 +381,19 @@
   },
   {
     "k": "Altera o valor matiz atual do programa",
-    "v": "Changes the program\u0027s current hue value"
+    "v": "Changes the program's current hue value"
   },
   {
     "k": "Altera o volume do player",
     "v": "Change the volume of the player"
   },
   {
-    "k": "Alterar a opção *\u0027exibir à frente de tudo\u0027*",
-    "v": "Change the *\u0027display in front of all\u0027* option"
+    "k": "Alterar a opção *'exibir à frente de tudo'*",
+    "v": "Change the *'display in front of all'* option"
   },
   {
     "k": "Alterar as configurações da funcionalidade *Logo* do programa (menu ferramentas)",
-    "v": "Change the settings for the program\u0027s *Logo* functionality (tools menu)"
+    "v": "Change the settings for the program's *Logo* functionality (tools menu)"
   },
   {
     "k": "Alterar as configurações de alerta do painel de comunicação",
@@ -401,7 +401,7 @@
   },
   {
     "k": "Alterar as configurações de exibição de uma tela",
-    "v": "Change a screen\u0027s display settings"
+    "v": "Change a screen's display settings"
   },
   {
     "k": "Alterar as configurações de um efeito de transição",
@@ -438,10 +438,6 @@
   {
     "k": "Alterar o texto do painel de comunicação",
     "v": "Change communication panel text"
-  },
-  {
-    "k": "Alterar o texto do painel de comunicação. [Styled Text](#styled-text) a partir da v2.19.0",
-    "v": "Change the text of the communication panel. [Styled Text](#styled-text) from v2.19.0"
   },
   {
     "k": "alterar para um tema personalizado",
@@ -512,8 +508,8 @@
     "v": "Applies syntax formatting to a piece of JavaScript code for better visualization when displaying examples in the interface"
   },
   {
-    "k": "Aplicar efeito \u0027blur\u0027 no brilho e sombra",
-    "v": "Apply \u0027blur\u0027 effect on brightness and shadow"
+    "k": "Aplicar efeito 'blur' no brilho e sombra",
+    "v": "Apply 'blur' effect on brightness and shadow"
   },
   {
     "k": "Aplicar efeito blur",
@@ -793,11 +789,11 @@
   },
   {
     "k": "Classe player para obter informações e executar ações no player do programa",
-    "v": "Player class to get information and perform actions on the program\u0027s player"
+    "v": "Player class to get information and perform actions on the program's player"
   },
   {
     "k": "Classe que representa o player da apresentação automática do programa",
-    "v": "Class representing the program\u0027s automatic presentation player"
+    "v": "Class representing the program's automatic presentation player"
   },
   {
     "k": "Classe utilitária para executar algumas ações via URI no sistema operacional, como por exemplo, executar uma track de streaming",
@@ -856,8 +852,8 @@
     "v": "MIDI code"
   },
   {
-    "k": "Coloque entre os caracteres **\u003c \u003e** os textos que deseja exibir",
-    "v": "Type between the characters **\u003c \u003e** the texts you want to display"
+    "k": "Coloque entre os caracteres **< >** os textos que deseja exibir",
+    "v": "Type between the characters **< >** the texts you want to display"
   },
   {
     "k": "Com urgência",
@@ -960,8 +956,8 @@
     "v": "assuming you have a receiver created to communicate with OBS"
   },
   {
-    "k": "Considerando que você tenha um receptor criado para comunicação com OBS Studio via websocket e o ID do receptor seja \u0027abcyxz\u0027",
-    "v": "Assuming you have a receiver created to communicate with OBS Studio via websocket and the receiver ID is \u0027abcyxz\u0027"
+    "k": "Considerando que você tenha um receptor criado para comunicação com OBS Studio via websocket e o ID do receptor seja 'abcyxz'",
+    "v": "Assuming you have a receiver created to communicate with OBS Studio via websocket and the receiver ID is 'abcyxz'"
   },
   {
     "k": "Contagem regressiva",
@@ -1024,8 +1020,8 @@
     "v": "Convert an object to JSON"
   },
   {
-    "k": "Converter um objeto em json no formato \u0027pretty-print\u0027",
-    "v": "Convert an object to JSON in \u0027pretty-print\u0027 format"
+    "k": "Converter um objeto em json no formato 'pretty-print'",
+    "v": "Convert an object to JSON in 'pretty-print' format"
   },
   {
     "k": "Copyright da música",
@@ -1053,7 +1049,7 @@
   },
   {
     "k": "Cor da fonte em hexadecimal. Se for **null**, utiliza a cor da fonte padrão do tema",
-    "v": "Font color in hexadecimal. If it is **null**, use the theme\u0027s default font color"
+    "v": "Font color in hexadecimal. If it is **null**, use the theme's default font color"
   },
   {
     "k": "Cor da fonte no formato hexadecimal",
@@ -1232,8 +1228,8 @@
     "v": "Highlight next occurrence without moving the cursor"
   },
   {
-    "k": "deve ser \u0027auth\u0027 para autenticação",
-    "v": "should be \u0027auth\u0027 for authentication"
+    "k": "deve ser 'auth' para autenticação",
+    "v": "should be 'auth' for authentication"
   },
   {
     "k": "deve ser zero para autenticação",
@@ -1328,28 +1324,28 @@
     "v": "and not just in sequence executions as in the example above"
   },
   {
-    "k": "É necessário adicionar na URL da requisição o parâmetro `token`, que é criado nas configurações API Server, opção \u0027gerenciar permissões\u0027.",
-    "v": "It is necessary to add the `token` parameter to the request URL, which is created in the API Server settings, \u0027manage permissions\u0027 option."
+    "k": "É necessário adicionar na URL da requisição o parâmetro `token`, que é criado nas configurações API Server, opção 'gerenciar permissões'.",
+    "v": "It is necessary to add the `token` parameter to the request URL, which is created in the API Server settings, 'manage permissions' option."
   },
   {
     "k": "É o mesmo que `getGlobal` seguido de `setGlobal`.",
-    "v": "It\u0027s the same as `getGlobal` followed by `setGlobal`."
+    "v": "It's the same as `getGlobal` followed by `setGlobal`."
   },
   {
     "k": "É o mesmo que `getGlobal` seguido de `setGlobalNext`.",
-    "v": "It\u0027s the same as `getGlobal` followed by `setGlobalNext`."
+    "v": "It's the same as `getGlobal` followed by `setGlobalNext`."
   },
   {
     "k": "É o mesmo que `setGlobal`, porém o parâmetro `values` é uma lista de itens, e o valor que será salvo em `setGlobal` é o próximo item da lista (baseado no item atual) ou o primeiro item da lista (se o item atual for null, ou for o último item da lista, ou não existir na lista).",
-    "v": "It\u0027s the same as `setGlobal`, but the `values` parameter is a list of items, and the value that will be saved in `setGlobal` is the next item in the list (based on the current item) or the first item in the list (if the current item is null, or is the last item in the list, or does not exist in the list)."
+    "v": "It's the same as `setGlobal`, but the `values` parameter is a list of items, and the value that will be saved in `setGlobal` is the next item in the list (based on the current item) or the first item in the list (if the current item is null, or is the last item in the list, or does not exist in the list)."
   },
   {
     "k": "É o mesmo que `setGlobalNext` seguido de `getGlobal`",
-    "v": "It\u0027s the same as `setGlobalNext` followed by `getGlobal`"
+    "v": "It's the same as `setGlobalNext` followed by `getGlobal`"
   },
   {
-    "k": "É possível adicionar um parâmetro adicional do tipo `string` como argumento nas chamadas acima para ser utilizado como \u0027keySafeRepeat\u0027 (para evitar um valor repetido ser sorteado em sequência)",
-    "v": "It is possible to add an additional parameter of type `string` as an argument in the above calls to be used as \u0027keySafeRepeat\u0027 (to avoid a repeated value being drawn in sequence)"
+    "k": "É possível adicionar um parâmetro adicional do tipo `string` como argumento nas chamadas acima para ser utilizado como 'keySafeRepeat' (para evitar um valor repetido ser sorteado em sequência)",
+    "v": "It is possible to add an additional parameter of type `string` as an argument in the above calls to be used as 'keySafeRepeat' (to avoid a repeated value being drawn in sequence)"
   },
   {
     "k": "É possível realizar requisição diretamente para um receptor criado",
@@ -1392,8 +1388,8 @@
     "v": "Address of the request origin"
   },
   {
-    "k": "Entradas que serão solicitadas na interface. Pode ser string ou Array\u0026lt;[InputParam](https://github.com/holyrics/Scripts/blob/main/InputParam.md)\u0026gt;. Se for passada uma string, ela será o nome do item e o tipo do item será **string**",
-    "v": "Entries that will be requested in the interface. It can be a string or Array\u0026lt;[InputParam](https://github.com/holyrics/Scripts/blob/main/InputParam.md)\u0026gt;. If a string is passed, it will be the name of the item and the type of the item will be **string**"
+    "k": "Entradas que serão solicitadas na interface. Pode ser string ou Array&lt;[InputParam](https://github.com/holyrics/Scripts/blob/main/InputParam.md)&gt;. Se for passada uma string, ela será o nome do item e o tipo do item será **string**",
+    "v": "Entries that will be requested in the interface. It can be a string or Array&lt;[InputParam](https://github.com/holyrics/Scripts/blob/main/i18n/en/InputParam.md)&gt;. If a string is passed, it will be the name of the item and the type of the item will be **string**"
   },
   {
     "k": "Envia a requisição e aguarda a resposta",
@@ -1456,8 +1452,8 @@
     "v": "Play the previous song in the playlist"
   },
   {
-    "k": "Executa a opção \u0027chamar atenção\u0027 disponível no painel de comunicação",
-    "v": "Execute the \u0027call attention\u0027 option available in the communication panel"
+    "k": "Executa a opção 'chamar atenção' disponível no painel de comunicação",
+    "v": "Execute the 'call attention' option available in the communication panel"
   },
   {
     "k": "Executa a próxima música da lista de reprodução",
@@ -1468,8 +1464,8 @@
     "v": "Perform actions in the player"
   },
   {
-    "k": "executa o arquivo \u0027fundo musical.mp3\u0027 da pasta de áudio",
-    "v": "plays the \u0027musical background.mp3\u0027 file from the audio folder"
+    "k": "executa o arquivo 'fundo musical.mp3' da pasta de áudio",
+    "v": "plays the 'musical background.mp3' file from the audio folder"
   },
   {
     "k": "Executa o item anterior da lista de reprodução de mídia",
@@ -1529,7 +1525,7 @@
   },
   {
     "k": "Executa uma requisição para o receptor associado e retorna a resposta do receptor.",
-    "v": "Executes a request to the associated receiver and returns the receiver\u0027s response."
+    "v": "Executes a request to the associated receiver and returns the receiver's response."
   },
   {
     "k": "Executado a cada 1 segundo enquanto a conexão estiver aberta",
@@ -1900,8 +1896,8 @@
     "v": "hash"
   },
   {
-    "k": "hash gerado para cada requisição a partir de um \u0027nonce\u0027 (token temporário) obtido pelo servidor",
-    "v": "hash generated for each request from a \u0027nonce\u0027 (temporary token) obtained by the server"
+    "k": "hash gerado para cada requisição a partir de um 'nonce' (token temporário) obtido pelo servidor",
+    "v": "hash generated for each request from a 'nonce' (temporary token) obtained by the server"
   },
   {
     "k": "Hash MD5",
@@ -2209,7 +2205,7 @@
   },
   {
     "k": "Inicia um processo no sistema operacional de um arquivo da biblioteca do programa",
-    "v": "Starts a process in the operating system from a file in the program\u0027s library"
+    "v": "Starts a process in the operating system from a file in the program's library"
   },
   {
     "k": "Inicia um timer",
@@ -2600,8 +2596,8 @@
     "v": "file menu"
   },
   {
-    "k": "Menu arquivo \u003e Configurações \u003e API Server",
-    "v": "File menu \u003e Settings \u003e API Server"
+    "k": "Menu arquivo > Configurações > API Server",
+    "v": "File menu > Settings > API Server"
   },
   {
     "k": "Mês (1-12)",
@@ -2636,8 +2632,8 @@
     "v": "User input Methods"
   },
   {
-    "k": "Mínimo\u003d0, Máximo\u003d100",
-    "v": "Minimum\u003d0, Maximum\u003d100"
+    "k": "Mínimo=0, Máximo=100",
+    "v": "Minimum=0, Maximum=100"
   },
   {
     "k": "Minuto",
@@ -2761,7 +2757,7 @@
   },
   {
     "k": "Nome da fonte. Se for **null**, utiliza a fonte padrão do tema.",
-    "v": "Font name. If it is **null**, it uses the theme\u0027s default font."
+    "v": "Font name. If it is **null**, it uses the theme's default font."
   },
   {
     "k": "Nome da função",
@@ -2952,8 +2948,8 @@
     "v": "The file (or extension) must be on the execution whitelist"
   },
   {
-    "k": "O arquivo deve estar na respectiva aba \u0027arquivos\u0027 da biblioteca do programa (ou em uma subpasta)",
-    "v": "The file must be in the respective \u0027files\u0027 tab of the program\u0027s library (or in a subfolder)"
+    "k": "O arquivo deve estar na respectiva aba 'arquivos' da biblioteca do programa (ou em uma subpasta)",
+    "v": "The file must be in the respective 'files' tab of the program's library (or in a subfolder)"
   },
   {
     "k": "O array retornado contém 8 índices, e cada índice corresponde ao trecho conforme imagem de exemplo a seguir",
@@ -3028,8 +3024,8 @@
     "v": "The status of **send** requests only informs if the request was sent to Holyrics open on the computer."
   },
   {
-    "k": "o tema selecionado será modificado para a fonte \u0027Arial\u0027 em itálico",
-    "v": "the selected theme will be modified to the \u0027Arial\u0027 font in italic"
+    "k": "o tema selecionado será modificado para a fonte 'Arial' em itálico",
+    "v": "the selected theme will be modified to the 'Arial' font in italic"
   },
   {
     "k": "o tempo aguardando a resposta foi esgotado",
@@ -3140,8 +3136,8 @@
     "v": "Opacity"
   },
   {
-    "k": "Opção *\u0027exibir à frente de tudo\u0027*",
-    "v": "Option *\u0027display ahead of everything\u0027*"
+    "k": "Opção *'exibir à frente de tudo'*",
+    "v": "Option *'display ahead of everything'*"
   },
   {
     "k": "opcional",
@@ -3212,12 +3208,12 @@
     "v": "To avoid repetition"
   },
   {
-    "k": "Para exibir um texto com formatação avançada, inicie o texto com **\u0026lt;styled\u0026gt;**",
-    "v": "To display text with advanced formatting, start the text with **\u0026lt;styled\u0026gt;**"
+    "k": "Para exibir um texto com formatação avançada, inicie o texto com **&lt;styled&gt;**",
+    "v": "To display text with advanced formatting, start the text with **&lt;styled&gt;**"
   },
   {
-    "k": "Para exibir um versículo. ID do item no formato LLCCCVVV.\u003cbr/\u003eExemplo: \u002719023001\u0027 (livro 19, capítulo 023, versículo 001)",
-    "v": "To display a verse. Item ID in BBCCCVVV format.\u003cbr/\u003eExample: \u002719023001\u0027 (book 19, chapter 023, verse 001)"
+    "k": "Para exibir um versículo. ID do item no formato LLCCCVVV.<br/>Exemplo: '19023001' (livro 19, capítulo 023, versículo 001)",
+    "v": "To display a verse. Item ID in BBCCCVVV format.<br/>Example: '19023001' (book 19, chapter 023, verse 001)"
   },
   {
     "k": "Para exibir uma lista de versículos. Lista com o ID de cada versículo",
@@ -3340,8 +3336,8 @@
     "v": "Can be"
   },
   {
-    "k": "Pode ser *\u0027ok\u0027* ou *\u0027error\u0027*",
-    "v": "It might be *\u0027ok\u0027* or *\u0027error\u0027*"
+    "k": "Pode ser *'ok'* ou *'error'*",
+    "v": "It might be *'ok'* or *'error'*"
   },
   {
     "k": "pode ser byte array para UDP e TCP",
@@ -3388,8 +3384,8 @@
     "v": "but throws an exception when an error occurs, instead of returning **null**"
   },
   {
-    "k": "porém os objetos complexos serão exibidos em formato \u0027pretty-print\u0027",
-    "v": "but complex objects will be displayed in \u0027pretty-print\u0027 format"
+    "k": "porém os objetos complexos serão exibidos em formato 'pretty-print'",
+    "v": "but complex objects will be displayed in 'pretty-print' format"
   },
   {
     "k": "Porém por se tratar de conexão local sem SSL, se você quiser uma maior segurança, utilize o método \"hash\" para enviar as requisições sem precisar informar o token de acesso na requisição",
@@ -3420,8 +3416,8 @@
     "v": "Populates the media list of the currently selected playlist in the program with the given list"
   },
   {
-    "k": "Preencher o campo \u0027minuto\u0027 com zero à esquerda",
-    "v": "Fill in the \u0027minute\u0027 field with zero on the left"
+    "k": "Preencher o campo 'minuto' com zero à esquerda",
+    "v": "Fill in the 'minute' field with zero on the left"
   },
   {
     "k": "procura uma música e executa o primeiro resultado encontrado",
@@ -3456,8 +3452,8 @@
     "v": "any value closest to the specified date"
   },
   {
-    "k": "Qualquer valor retornado que seja diferente de \u0027true\u0027, o programa irá considerar que a requisição já foi consumida e vai respondê-la com o valor retornado.",
-    "v": "Any returned value that is different from \u0027true\u0027, the program will consider that the request has already been consumed and will respond to it with the returned value."
+    "k": "Qualquer valor retornado que seja diferente de 'true', o programa irá considerar que a requisição já foi consumida e vai respondê-la com o valor retornado.",
+    "v": "Any returned value that is different from 'true', the program will consider that the request has already been consumed and will respond to it with the returned value."
   },
   {
     "k": "Quantidade de linhas",
@@ -3497,11 +3493,11 @@
   },
   {
     "k": "Realiza uma busca na lista de letras do usuário",
-    "v": "Performs a search in the user\u0027s lyrics list"
+    "v": "Performs a search in the user's lyrics list"
   },
   {
     "k": "Realiza uma busca na lista de textos do usuário",
-    "v": "Performs a search in the user\u0027s text list"
+    "v": "Performs a search in the user's text list"
   },
   {
     "k": "realiza uma requisição direta ao obs para alterar a cena atual",
@@ -3560,8 +3556,8 @@
     "v": "Removes characters from the beginning and end of a string"
   },
   {
-    "k": "Remove todos os valores dentro de `\u003c\u003e` (inclusive)",
-    "v": "Removes all values within `\u003c\u003e` (inclusive)"
+    "k": "Remove todos os valores dentro de `<>` (inclusive)",
+    "v": "Removes all values within `<>` (inclusive)"
   },
   {
     "k": "Remove uma variável do sistema adicionada por h.addSysVar(...)",
@@ -3649,7 +3645,7 @@
   },
   {
     "k": "Retorna **true** se for uma pasta ou **false** se for arquivo.",
-    "v": "Return **true** if it\u0027s a folder or **false** if it\u0027s a file."
+    "v": "Return **true** if it's a folder or **false** if it's a file."
   },
   {
     "k": "Retorna a diferença entre duas datas",
@@ -3904,8 +3900,8 @@
     "v": "Returns a song."
   },
   {
-    "k": "Retornando \u0027true\u0027 para o programa consumir esta requisição com a implementação padrão",
-    "v": "Returning \u0027true\u0027 for the program to consume this request with the default implementation"
+    "k": "Retornando 'true' para o programa consumir esta requisição com a implementação padrão",
+    "v": "Returning 'true' for the program to consume this request with the default implementation"
   },
   {
     "k": "Retornar a lista de slides da apresentação atual. Indisponível para apresentação de versículos.",
@@ -3952,12 +3948,12 @@
     "v": "If **true**, line breaks `\\n (char 10)` will be preserved"
   },
   {
-    "k": "Se `alpha \u003d 255`, será retornado apenas `RRGGBB`",
-    "v": "If `alpha \u003d 255`, only `RRGGBB` will be returned"
+    "k": "Se `alpha = 255`, será retornado apenas `RRGGBB`",
+    "v": "If `alpha = 255`, only `RRGGBB` will be returned"
   },
   {
-    "k": "Se `result` for um número, é o código de saída da execução, se for uma `string`, é a mensagem de erro, por exemplo, \u0027timeout\u0027",
-    "v": "If `result` is a number, it is the exit code of the execution; if it is a `string`, it is the error message, for example, \u0027timeout\u0027"
+    "k": "Se `result` for um número, é o código de saída da execução, se for uma `string`, é a mensagem de erro, por exemplo, 'timeout'",
+    "v": "If `result` is a number, it is the exit code of the execution; if it is a `string`, it is the error message, for example, 'timeout'"
   },
   {
     "k": "Se a exibição do alerta está ativada",
@@ -3968,8 +3964,8 @@
     "v": "If the song is archived"
   },
   {
-    "k": "Se a opção *\u0027exibir à frente de tudo\u0027* está ativada",
-    "v": "Whether the *\u0027display in front of all\u0027* option is enabled"
+    "k": "Se a opção *'exibir à frente de tudo'* está ativada",
+    "v": "Whether the *'display in front of all'* option is enabled"
   },
   {
     "k": "Se a sincronização está ativada",
@@ -4040,8 +4036,8 @@
     "v": "If a countdown is on display"
   },
   {
-    "k": "Se você criar sua própria implementação, é necessário retornar \u0027true\u0027 se quiser que o programa consuma a requisição utilizando a implementação padrão.",
-    "v": "If you create your own implementation, you need to return \u0027true\u0027 if you want the program to consume the request using the default implementation."
+    "k": "Se você criar sua própria implementação, é necessário retornar 'true' se quiser que o programa consuma a requisição utilizando a implementação padrão.",
+    "v": "If you create your own implementation, you need to return 'true' if you want the program to consume the request using the default implementation."
   },
   {
     "k": "segundos",
@@ -4116,8 +4112,8 @@
     "v": "Requests input in **textarea** format allowing multi-line text"
   },
   {
-    "k": "somente \"Meus Vídeos\" e com as tags \u0027água\u0027 E \u0027azul\u0027",
-    "v": "only \"My Videos\" and tagged \u0027water\u0027 AND \u0027blue\u0027"
+    "k": "somente \"Meus Vídeos\" e com as tags 'água' E 'azul'",
+    "v": "only \"My Videos\" and tagged 'water' AND 'blue'"
   },
   {
     "k": "Somente extensões seguras ou adicionadas na lista de exceção",
@@ -4436,10 +4432,6 @@
     "v": "Text to be displayed"
   },
   {
-    "k": "Texto que será exibido. [Styled Text](#styled-text) a partir da v2.19.0",
-    "v": "Text to be displayed. [Styled Text](#styled-text) from v2.19.0"
-  },
-  {
     "k": "Texto que será salvo",
     "v": "Text that will be saved"
   },
@@ -4536,8 +4528,8 @@
     "v": "all"
   },
   {
-    "k": "Todos os itens de **when\u003dchange** contém:",
-    "v": "All items with **when\u003dchange** contain:"
+    "k": "Todos os itens de **when=change** contém:",
+    "v": "All items with **when=change** contain:"
   },
   {
     "k": "Todos os métodos a seguir têm a mesma documentação do respectivo método original",
@@ -4592,16 +4584,16 @@
     "v": "a verse being presented"
   },
   {
-    "k": "um vídeo que esteja definido com a tag \u0027água\u0027",
-    "v": "a video that is defined with the tag \u0027water\u0027"
+    "k": "um vídeo que esteja definido com a tag 'água'",
+    "v": "a video that is defined with the tag 'water'"
   },
   {
-    "k": "um vídeo que esteja definido com a tag \u0027água\u0027 E com a tag \u0027azul\u0027",
-    "v": "a video that is defined with the tag \u0027water\u0027 AND the tag \u0027blue\u0027"
+    "k": "um vídeo que esteja definido com a tag 'água' E com a tag 'azul'",
+    "v": "a video that is defined with the tag 'water' AND the tag 'blue'"
   },
   {
-    "k": "um vídeo que esteja definido com a tag \u0027água\u0027 OU com a tag \u0027azul\u0027",
-    "v": "a video that is tagged \u0027water\u0027 OR tagged \u0027blue\u0027"
+    "k": "um vídeo que esteja definido com a tag 'água' OU com a tag 'azul'",
+    "v": "a video that is tagged 'water' OR tagged 'blue'"
   },
   {
     "k": "uma música sendo apresentada",
@@ -4616,8 +4608,8 @@
     "v": "default URL"
   },
   {
-    "k": "Útil para conexões que precisam enviar um \u0027ping\u0027 para manter a conexão aberta",
-    "v": "Useful for connections that need to send a \u0027ping\u0027 to keep the connection open"
+    "k": "Útil para conexões que precisam enviar um 'ping' para manter a conexão aberta",
+    "v": "Useful for connections that need to send a 'ping' to keep the connection open"
   },
   {
     "k": "Útil para diferenciar o dispositivo quando a sincronização em nuvem estiver ativada",
@@ -4625,7 +4617,7 @@
   },
   {
     "k": "Utiliza a sintaxe de [Icon](https://github.com/holyrics/Scripts/blob/main/Icon.md)",
-    "v": "Uses the syntax of [Icon](https://github.com/holyrics/Scripts/blob/main/Icon.md)"
+    "v": "Uses the syntax of [Icon](https://github.com/holyrics/Scripts/blob/main/i18n/en/Icon.md)"
   },
   {
     "k": "Utilizando hash",
@@ -4648,16 +4640,16 @@
     "v": "Use custom theme in verses"
   },
   {
-    "k": "Utilize \u0027default\u0027 para usar o texto original",
-    "v": "Use \u0027default\u0027 to use the original text"
+    "k": "Utilize 'default' para usar o texto original",
+    "v": "Use 'default' to use the original text"
   },
   {
-    "k": "Utilize a ação \u0027Auth\u0027 novamente para se autenticar, passando os parâmetros na URL",
-    "v": "Use the \u0027Auth\u0027 action again to authenticate, passing the parameters in the URL"
+    "k": "Utilize a ação 'Auth' novamente para se autenticar, passando os parâmetros na URL",
+    "v": "Use the 'Auth' action again to authenticate, passing the parameters in the URL"
   },
   {
-    "k": "Utilize a ação \u0027Auth\u0027 sem incluir parâmetros na URL para obter um nonce",
-    "v": "Use the \u0027Auth\u0027 action without including parameters in the URL to get a nonce"
+    "k": "Utilize a ação 'Auth' sem incluir parâmetros na URL para obter um nonce",
+    "v": "Use the 'Auth' action without including parameters in the URL to get a nonce"
   },
   {
     "k": "Utilize a sintaxe `{i18n|...}` para utilizar a mensagem traduzida conforme tabela de tradução disponível em `jsc`",
@@ -4684,8 +4676,8 @@
     "v": "Use {%t} to display the current time"
   },
   {
-    "k": "vai exibir uma janela para o usuário escolher um item criando a propriedade \u0027label\u0027",
-    "v": "will display a window for the user to choose an item by creating the \u0027label\u0027 property"
+    "k": "vai exibir uma janela para o usuário escolher um item criando a propriedade 'label'",
+    "v": "will display a window for the user to choose an item by creating the 'label' property"
   },
   {
     "k": "Valor",
@@ -4724,8 +4716,8 @@
     "v": "Base64 value to be decrypted"
   },
   {
-    "k": "Valor em milissegundos. Mínimo\u003d0, Máximo\u003d60000",
-    "v": "Value in milliseconds. Minimum\u003d0, Maximum\u003d60000"
+    "k": "Valor em milissegundos. Mínimo=0, Máximo=60000",
+    "v": "Value in milliseconds. Minimum=0, Maximum=60000"
   },
   {
     "k": "Valor em porcentagem baseado na altura da linha",
@@ -4760,12 +4752,12 @@
     "v": "The closest value that is equal to or later than the specified date"
   },
   {
-    "k": "Valor matiz atual. Mínimo\u003d0, Máximo\u003d360. Retorna **null** se desativado.",
-    "v": "Current hue value. Minimum\u003d0, Maximum\u003d360. Returns **null** if disabled."
+    "k": "Valor matiz atual. Mínimo=0, Máximo=360. Retorna **null** se desativado.",
+    "v": "Current hue value. Minimum=0, Maximum=360. Returns **null** if disabled."
   },
   {
-    "k": "Valor matiz. Mínimo\u003d0, Máximo\u003d360 ou **null** para desativar.",
-    "v": "Hue value. Minimum\u003d0, Maximum\u003d360 or **null** to disable."
+    "k": "Valor matiz. Mínimo=0, Máximo=360 ou **null** para desativar.",
+    "v": "Hue value. Minimum=0, Maximum=360 or **null** to disable."
   },
   {
     "k": "Valor máximo",
@@ -4920,8 +4912,8 @@
     "v": "Checks if the current theme of the interface is equal to the value passed by parameter."
   },
   {
-    "k": "Verifica se os dois caminhos são iguais, ignorando distinção de maiúsculo para Windows e considerando \u0027\\\u0027 e \u0027/\u0027 como iguais",
-    "v": "Checks if the two paths are the same, ignoring case distinction for Windows and considering \u0027\\\u0027 and \u0027/\u0027 as equal"
+    "k": "Verifica se os dois caminhos são iguais, ignorando distinção de maiúsculo para Windows e considerando '\\' e '/' como iguais",
+    "v": "Checks if the two paths are the same, ignoring case distinction for Windows and considering '\\' and '/' as equal"
   },
   {
     "k": "Verifica se um arquivo da aba de arquivos está na lista de permissão para execução",
@@ -4982,5 +4974,1465 @@
   {
     "k": "Volume atual do player",
     "v": "Current player volume"
+  },
+  {
+    "k": "É possível criar modelos de formatação (parecido como funciona um CSS) para reutilizar a respectiva formatação em textos exibidos em diferentes locais do programa compatíveis com a sintaxe &lt;styled&gt;",
+    "v": "It is possible to create formatting models (similar to how CSS works) to reuse the respective formatting in texts displayed in different locations of the program compatible with the &lt;styled&gt; syntax"
+  },
+  {
+    "k": "O trecho dentro da tag `<#:title>...</#>` será exibido com a formatação negrito e tamanho de fonte relativo de 120%",
+    "v": "The text inside the tag `<#:title>...</#>` will be displayed in bold formatting and a relative font size of 120%"
+  },
+  {
+    "k": "Geral",
+    "v": "General"
+  },
+  {
+    "k": "Método alternativo para `hly(action, input)`, porém retorna o objeto `data` diretamente e gera exception se `status=error`",
+    "v": "Alternative method for `hly(action, input)`, but it returns the `data` object directly and raises an exception if `status=error`"
+  },
+  {
+    "k": "Parâmetros da ação",
+    "v": "Action parameters"
+  },
+  {
+    "k": "Ocultar a exibição dos minutos quando for zero",
+    "v": "Hide the display of minutes when it is zero"
+  },
+  {
+    "k": "Grupo de música",
+    "v": "Music group"
+  },
+  {
+    "k": "Lista de grupos de música",
+    "v": "List of music groups"
+  },
+  {
+    "k": "Alterar o texto do painel de comunicação. [Styled Text](https://github.com/holyrics/Scripts/blob/main/StyledText.md) a partir da v2.19.0",
+    "v": "Change the text of the communication panel. [Styled Text](https://github.com/holyrics/Scripts/blob/main/i18n/en/StyledText.md) from v2.19.0"
+  },
+  {
+    "k": "Novo Item",
+    "v": "New Item"
+  },
+  {
+    "k": "Item criado",
+    "v": "Item created"
+  },
+  {
+    "k": "Nome do grupo",
+    "v": "Group name"
+  },
+  {
+    "k": "Lista com o id das músicas, separados por vírgula",
+    "v": "List with the id of the songs separated by comma"
+  },
+  {
+    "k": "Texto do slide com formatação **styled** (quando disponível)",
+    "v": "Slide text with **styled** formatting (when available)"
+  },
+  {
+    "k": "ID do tema salvo para a música",
+    "v": "Saved theme ID for the song"
+  },
+  {
+    "k": "Texto do slide com formatação **styled** (quanto disponível)",
+    "v": "Slide text with **styled** formatting (when available)"
+  },
+  {
+    "k": "Retorna **true** se o item estiver definido como desativado",
+    "v": "Returns **true** if the item is set to disabled"
+  },
+  {
+    "k": "Métodos e variáveis disponíveis na biblioteca jslib",
+    "v": "Methods and variables available in the jslib library"
+  },
+  {
+    "k": "Classe utilitária para alguns métodos de manipulação de arquivos",
+    "v": "Utility class for some file manipulation methods"
+  },
+  {
+    "k": "tipo da requisição",
+    "v": "type of request"
+  },
+  {
+    "k": "Formatar uma data",
+    "v": "Format a date"
+  },
+  {
+    "k": "Objeto Date nativo JavaScript ou um número timestamp (compatível com segundos e milissegundos)",
+    "v": "Native JavaScript Date object or a timestamp number (compatible with seconds and milliseconds)"
+  },
+  {
+    "k": "Se o parâmetro não for declarado, será utilizada a data e hora atual no sistema",
+    "v": "If the parameter is not declared, the current date and time on the system will be used"
+  },
+  {
+    "k": "Obtém a data e hora atual formatada",
+    "v": "Gets the current date and time formatted"
+  },
+  {
+    "k": "Converte uma string em `Timestamp`",
+    "v": "Converts a string to `Timestamp`"
+  },
+  {
+    "k": "A duração (em milissegundos) que o valor retornado ficará em cache para reutilização sem invocar a `function` novamente",
+    "v": "The duration (in milliseconds) that the returned value will be cached for reuse without invoking the `function` again"
+  },
+  {
+    "k": "Texto que será exibido. [Styled Text](https://github.com/holyrics/Scripts/blob/main/StyledText.md) a partir da v2.19.0",
+    "v": "Text that will be displayed [Styled Text](https://github.com/holyrics/Scripts/blob/main/i18n/en/StyledText.md) from v2.19.0"
+  },
+  {
+    "k": "Ocultar a exibição das horas quando for zero",
+    "v": "Hide the display of hours when it is zero"
+  },
+  {
+    "k": "Nome das configurações, separadas por vírgula",
+    "v": "Name of the settings separated by comma"
+  },
+  {
+    "k": "Conjunto chave/valor com o resultado da alteração de cada item",
+    "v": "Key/value pair with the result of the change of each item"
+  },
+  {
+    "k": "`true` se o valor foi alterado com sucesso, ou uma `string` com o motivo do erro",
+    "v": "`true` if the value was successfully changed, or a `string` with the reason for the error"
+  },
+  {
+    "k": "Cria um novo item",
+    "v": "Create a new item"
+  },
+  {
+    "k": "Esta ação requer uma assinatura [Holyrics Plan](https://holyrics.com.br/holyrics_plan.html) para ser executada",
+    "v": "This action requires a [Holyrics Plan](https://holyrics.com.br/holyrics_plan.html) subscription to be executed"
+  },
+  {
+    "k": "Edita um item existente",
+    "v": "Edit an existing item"
+  },
+  {
+    "k": "Todos os parâmetros são opcionais, exceto:",
+    "v": "All parameters are optional except:"
+  },
+  {
+    "k": "Somente os parâmetros declarados serão alterados, ou seja, não é necessário informar o objeto completo para alterar somente um parâmetro",
+    "v": "Only the declared parameters will be changed that is, it is not necessary to provide the complete object to change just one parameter"
+  },
+  {
+    "k": "Parâmetros definidos como `read-only` não são editáveis",
+    "v": "Parameters defined as `read-only` are not editable"
+  },
+  {
+    "k": "Apaga um item existente",
+    "v": "Deletes an existing item"
+  },
+  {
+    "k": "Culto ou evento regular que dá origem a esse evento",
+    "v": "Regular service or event that gives rise to this event"
+  },
+  {
+    "k": "Pode ser `null` se for um evento criado individualmente",
+    "v": "It can be `null` if it is an individually created event"
+  },
+  {
+    "k": "Evento que dá origem a essa lista de reprodução",
+    "v": "Event that gives rise to this playlist"
+  },
+  {
+    "k": "Pode ser `null` se `type=temporary`",
+    "v": "It can be `null` if `type=temporary`"
+  },
+  {
+    "k": "Utilizado somente se:",
+    "v": "Used only if:"
+  },
+  {
+    "k": "chave",
+    "v": "key"
+  },
+  {
+    "k": "Nome da mídia",
+    "v": "Media name"
+  },
+  {
+    "k": "Volume. Mínimo=0, Máximo=100",
+    "v": "Volume Minimum=0 Maximum=100"
+  },
+  {
+    "k": "Tempo atual da mídia no player",
+    "v": "Current media time in the player"
+  },
+  {
+    "k": "Tempo total da mídia atual no player",
+    "v": "Total media time in the player"
+  },
+  {
+    "k": "Informação sobre o slide atual em exibição",
+    "v": "Information about the current slide being displayed"
+  },
+  {
+    "k": "Functions",
+    "v": "Functions"
+  },
+  {
+    "k": "Slide atual em exibição",
+    "v": "Current slide being displayed"
+  },
+  {
+    "k": "Começa em zero",
+    "v": "Starts at zero"
+  },
+  {
+    "k": "Tempo atual do slide",
+    "v": "Current slide time"
+  },
+  {
+    "k": "Se `length < 0` todos os bytes **restantes** serão lidos",
+    "v": "If `length < 0` all **remaining** bytes will be read"
+  },
+  {
+    "k": "Quantidade de bytes restantes a serem lidos",
+    "v": "Number of bytes remaining to be read"
+  },
+  {
+    "k": "Ignora uma quantidade de bytes a serem lidos",
+    "v": "Ignore a number of bytes to be read"
+  },
+  {
+    "k": "Adiciona `value` na quantidade de vezes informada em `repeat`",
+    "v": "Adds `value` the number of times specified in `repeat`"
+  },
+  {
+    "k": "Quantidade atual de bytes adicionados",
+    "v": "Current amount of bytes added"
+  },
+  {
+    "k": "Converte os bytes adicionados em String",
+    "v": "Converts the added bytes into String"
+  },
+  {
+    "k": "Converte os bytes adicionados em hexadecimal",
+    "v": "Converts the added bytes to hexadecimal"
+  },
+  {
+    "k": "Converte os bytes adicionados em base64",
+    "v": "Converts the added bytes to base64"
+  },
+  {
+    "k": "Retorna os bytes adicionados",
+    "v": "Returns the added bytes"
+  },
+  {
+    "k": "Adiciona um valor e preenche o restante do espaço com o valor de `fill`",
+    "v": "Adds a value and fills the remaining space with the value of `fill`"
+  },
+  {
+    "k": "Por exemplo, se `value.length == 14` e `length == 16`, serão adicionados 2 bytes com valor `fill` após `value` ser adicionado",
+    "v": "For example, if `value.length == 14` and `length == 16`, 2 bytes with the value `fill` will be added after `value` is added"
+  },
+  {
+    "k": "Se `length` for negativo, os bytes serão adicionados antes de `value`",
+    "v": "If `length` is negative, the bytes will be added before `value`"
+  },
+  {
+    "k": "o valor `length` **não limita** a quantidade de bytes adicionados se `value.length > length`, nesse caso todos os bytes em `value` serão adicionados e nenhum byte extra será adicionado",
+    "v": "the `length` value **does not limit** the number of bytes added if `value.length > length`, in this case all bytes in `value` will be added and no extra byte will be added"
+  },
+  {
+    "k": "Segue a mesma regra de `putBytesAndFill(...)`",
+    "v": "Follows the same rule as `putBytesAndFill(...)`"
+  },
+  {
+    "k": "Observação: `length` é referente aos bytes gerados pela string e não pela quantidade de caracteres",
+    "v": "Note: `length` refers to the bytes generated by the string and not to the number of characters"
+  },
+  {
+    "k": "Criar uma nova pasta",
+    "v": "Create a new folder"
+  },
+  {
+    "k": "Mensagem exibida ao usuário na janela de solicitação de permissão para execução da ação",
+    "v": "Message displayed to the user in the permission request window for performing the action"
+  },
+  {
+    "k": "Exibir notificação no canto da tela em vez de abrir a janela de permissão diretamente",
+    "v": "Show notification in the corner of the screen instead of opening the permission window directly"
+  },
+  {
+    "k": "Renomear um arquivo ou pasta",
+    "v": "Rename a file or folder"
+  },
+  {
+    "k": "Copiar um arquivo",
+    "v": "Copy a file"
+  },
+  {
+    "k": "Copiar uma pasta",
+    "v": "Copy a folder"
+  },
+  {
+    "k": "Apagar um arquivo",
+    "v": "Delete a file"
+  },
+  {
+    "k": "Apagar uma pasta",
+    "v": "Delete a folder"
+  },
+  {
+    "k": "Nome da pasta que será criada",
+    "v": "Name of the folder that will be created"
+  },
+  {
+    "k": "Deve começar com: ",
+    "v": "Must start with: "
+  },
+  {
+    "k": "se foi executado com sucesso",
+    "v": "was executed successfully"
+  },
+  {
+    "k": "se foi cancelado pelo usuário",
+    "v": "if it was canceled by the user"
+  },
+  {
+    "k": "se ocorreu algum erro",
+    "v": "if there was any error"
+  },
+  {
+    "k": "Arquivo de origem",
+    "v": "Source file"
+  },
+  {
+    "k": "Arquivo de destino",
+    "v": "Destination file"
+  },
+  {
+    "k": "Function de callback executada a cada atualização de progresso da execução",
+    "v": "Callback function executed on each progress update of the execution"
+  },
+  {
+    "k": "Nome do arquivo que será apagado",
+    "v": "Name of the file that will be deleted"
+  },
+  {
+    "k": "Nome da pasta que será apagada",
+    "v": "Name of the folder that will be deleted"
+  },
+  {
+    "k": "Apagar recursivamente",
+    "v": "Delete recursively"
+  },
+  {
+    "k": "Se `false`, a pasta será apagada somente se estiver vazia",
+    "v": "If `false`, the folder will be deleted only if it is empty"
+  },
+  {
+    "k": "Verifica se o valor informado termina com uma extensão do tipo correspondente",
+    "v": "Checks if the provided value ends with a corresponding type extension"
+  },
+  {
+    "k": "Vídeo",
+    "v": "Video"
+  },
+  {
+    "k": "Lista com as extensões do tipo correspondente",
+    "v": "List of corresponding type extensions"
+  },
+  {
+    "k": "Texto do qrcode",
+    "v": "QRCode text"
+  },
+  {
+    "k": "Imagem em base64",
+    "v": "Image in base64"
+  },
+  {
+    "k": "Tamanho do arco de canto do plano de fundo",
+    "v": "Corner arc size of the background"
+  },
+  {
+    "k": "Gera uma imagem QRCode em base64",
+    "v": "Generates a QRCode image in base64"
+  },
+  {
+    "k": "Largura/altura (em pixels) do qrcode gerado",
+    "v": "Width/height (in pixels) of the generated qrcode"
+  },
+  {
+    "k": "Classe para facilitar a manipulação de listas de números",
+    "v": "Class to facilitate the manipulation of lists of numbers"
+  },
+  {
+    "k": "Caminho completo da mídia",
+    "v": "Full media path"
+  },
+  {
+    "k": "Tempo decorrido da mídia no player",
+    "v": "Elapsed media time in the player"
+  },
+  {
+    "k": "Tempo restante da mídia no player",
+    "v": "Remaining media time in the player"
+  },
+  {
+    "k": "Executar a ação **play** do player",
+    "v": "Execute the **play** action of the player"
+  },
+  {
+    "k": "Executar a ação **pause** do player",
+    "v": "Execute the **pause** action of the player"
+  },
+  {
+    "k": "Executar a ação **stop** do player",
+    "v": "Execute the **stop** action of the player"
+  },
+  {
+    "k": "Passa para o próximo item da lista no player",
+    "v": "Move to the next item in the list in the player"
+  },
+  {
+    "k": "Passa para o item anterior da lista no player",
+    "v": "Go to the previous item in the list in the player"
+  },
+  {
+    "k": "Verifica se o player está definido para executar itens em sequência",
+    "v": "Check if the player is set to execute items in sequence"
+  },
+  {
+    "k": "Altera a configuração do player para executar itens em sequência",
+    "v": "Changes the player settings to play items in sequence"
+  },
+  {
+    "k": "Altera a mensagem exibida na janela de progresso",
+    "v": "Changes the message displayed in the progress window"
+  },
+  {
+    "k": "Altera a mensagem exibida em cima da barra de progresso",
+    "v": "Changes the message displayed above the progress bar"
+  },
+  {
+    "k": "Cancela a execução da tarefa",
+    "v": "Cancels the execution of the task"
+  },
+  {
+    "k": "Objeto que representa um PopupWorker em execução",
+    "v": "Object that represents a running PopupWorker"
+  },
+  {
+    "k": "Atualiza o valor da barra de progresso",
+    "v": "Updates the value of the progress bar"
+  },
+  {
+    "k": "Valor da barra de progresso",
+    "v": "Progress bar value"
+  },
+  {
+    "k": "O valor será calculado de forma proporcional",
+    "v": "The value will be calculated proportionally"
+  },
+  {
+    "k": "Aguarda o término do processo",
+    "v": "Wait for the end of the process"
+  },
+  {
+    "k": "Aguarda o término do processo e retorna o código de saída",
+    "v": "Waits for the process to finish and returns the exit code"
+  },
+  {
+    "k": "O mesmo que `awaitFor()`, porém gera exception em vez de retornar `null` quando houver erro de execução",
+    "v": "The same as `awaitFor()`, but throws an exception instead of returning `null` when there is an execution error"
+  },
+  {
+    "k": "Verifica se o processo está em execução",
+    "v": "Check if the process is running"
+  },
+  {
+    "k": "Encerra o processo",
+    "v": "Ends the process"
+  },
+  {
+    "k": "Armazena um valor no objeto",
+    "v": "Stores a value in the object"
+  },
+  {
+    "k": "Obtém um valor armazenado no objeto",
+    "v": "Gets a value stored in the object"
+  },
+  {
+    "k": "Executa uma ação sempre que uma propriedade for alterada",
+    "v": "Executes an action whenever a property is changed"
+  },
+  {
+    "k": "Executa a ação somente para uma chave específica",
+    "v": "Executes the action only for a specific key"
+  },
+  {
+    "k": "Objeto que representa um processo iniciado via JavaScript em execução no sistema operacional",
+    "v": "Object that represents a process started via JavaScript running on the operating system"
+  },
+  {
+    "k": "Enviar uma mensagem",
+    "v": "Send a message"
+  },
+  {
+    "k": "Valor que será enviado",
+    "v": "Value that will be sent"
+  },
+  {
+    "k": "Classe para facilitar a manipulação de listas",
+    "v": "Class to facilitate the manipulation of lists"
+  },
+  {
+    "k": "Verifica se a conexão está ativa",
+    "v": "Check if the connection is active"
+  },
+  {
+    "k": "Encerra a conexão",
+    "v": "Ends the connection"
+  },
+  {
+    "k": "Executa uma faixa de áudio",
+    "v": "Plays an audio track"
+  },
+  {
+    "k": "`false` para erro. ID inválido, por exemplo.",
+    "v": "`false` for error Invalid ID for example."
+  },
+  {
+    "k": "Executa uma playlist",
+    "v": "Plays a playlist"
+  },
+  {
+    "k": "Executa um álbum",
+    "v": "Plays an album"
+  },
+  {
+    "k": "Abre a página do artista",
+    "v": "Open the artist's page"
+  },
+  {
+    "k": "String que será enviada",
+    "v": "String that will be sent"
+  },
+  {
+    "k": "Ou se estiver utilizando a implementação de um módulo, liberar permissão nas configurações do módulo e utilizar o método `hly` da classe **Module**",
+    "v": "Or if you are using the implementation of a module, grant permission in the module settings and use the `hly` method of the **Module** class"
+  },
+  {
+    "k": "Ação",
+    "v": "Action"
+  },
+  {
+    "k": "Da mesma classe do parâmetro da requisição",
+    "v": "Of the same class as the request parameter"
+  },
+  {
+    "k": "A estrutura do objeto passado como parâmetro deve ser de acordo com a tabela a seguir.",
+    "v": "The structure of the object passed as a parameter must be according to the table below."
+  },
+  {
+    "k": "Retorna o item criado",
+    "v": "Returns the created item"
+  },
+  {
+    "k": "Informe o id do respectivo item para removê-lo",
+    "v": "Provide the id of the respective item to remove it"
+  },
+  {
+    "k": "O mesmo valor que `name`",
+    "v": "The same value as `name`"
+  },
+  {
+    "k": "Classe utilitária para `stream`",
+    "v": "Utility class for `stream`"
+  },
+  {
+    "k": "ID do respectivo item",
+    "v": "ID of the respective item"
+  },
+  {
+    "k": "Nome alternativo",
+    "v": "Alternative name"
+  },
+  {
+    "k": "Classe utilitária para utilizar a mesma sintaxe de `store(key, value)` e `restore(key, default)`, porém o valor fica disponível apenas para o dispositivo local, ou seja, não é compartilhado na sincronização em nuvem",
+    "v": "Utility class to use the same syntax of `store(key, value)` and `restore(key, default)`, but the value is only available for the local device, meaning it is not shared in cloud synchronization"
+  },
+  {
+    "k": "o mesmo que",
+    "v": "the same as"
+  },
+  {
+    "k": "gera exception se",
+    "v": "throws exception if"
+  },
+  {
+    "k": "A estrutura do objeto passado como parâmetro deve ser de acordo com a tabela a seguir",
+    "v": "The structure of the object passed as a parameter must be according to the table below"
+  },
+  {
+    "k": "porém gera exception se",
+    "v": "but it raises an exception if"
+  },
+  {
+    "k": "Classe utilitária para ler e salvar os dados correspondentes de:",
+    "v": "Utility class for reading and saving the corresponding data of:"
+  },
+  {
+    "k": "e",
+    "v": "and"
+  },
+  {
+    "k": "Porém utilizando o próprio objeto JavaScript como manipulador",
+    "v": "However, using the JavaScript object itself as a handler"
+  },
+  {
+    "k": "Opções disponíveis para exibição de ícones personalizados nas funcionalidades do Holyrics que aceitam esta sintaxe.",
+    "v": "Available options for displaying custom icons in the Holyrics features that accept this syntax."
+  },
+  {
+    "k": "Tipos disponíveis",
+    "v": "Available types"
+  },
+  {
+    "k": "A partir de",
+    "v": "Starting from"
+  },
+  {
+    "k": "O valor deverá ser informado como string, sendo iniciado pelo tipo, seguido de dois-pontos e o respectivo valor correspondente ao tipo informado.",
+    "v": "The value should be provided as a string, starting with the type, followed by a colon and the corresponding value for the specified type."
+  },
+  {
+    "k": "Para os tipos `image` e `video`, o valor é o **nome de um arquivo** (incluindo possíveis subpastas) existente na respectiva aba Imagem ou Vídeo.",
+    "v": "For the `image` and `video` types, the value is the **name of a file** (including possible subfolders) that exists in the respective Image or Video tab."
+  },
+  {
+    "k": "Obs.: A utilização de um vídeo não significa que o ícone será animado, tipo gif. Apenas a imagem estática identificada do vídeo será utilizada.",
+    "v": "Note: The use of a video does not mean that the icon will be animated, like a gif. Only the static image identified from the video will be used."
+  },
+  {
+    "k": "Para os tipos `announcement`, `background` e `theme`, o valor é o `id` do item.",
+    "v": "For the types `announcement`, `background`, and `theme`, the value is the `id` of the item."
+  },
+  {
+    "k": "Geralmente o `id` de um item pode ser obtido clicando com o botão direito do mouse no item (menu de contexto), opção **\"Script Info\"**.",
+    "v": "Generally, the `id` of an item can be obtained by right-clicking on the item (context menu), option **\"Script Info\"**."
+  },
+  {
+    "k": "Na `v2.23.0` a biblioteca [Google Material Icons](https://fonts.google.com/icons?icon.set=Material+Icons&icon.style=Filled) foi adicionada ao programa.",
+    "v": "In `v2.23.0`, the [Google Material Icons](https://fonts.google.com/icons?icon.set=Material+Icons&icon.style=Filled) library was added to the program."
+  },
+  {
+    "k": "Para o tipo `system`, o valor é o `nome` do ícone.",
+    "v": "For the `system` type, the value is the `name` of the icon."
+  },
+  {
+    "k": "Obs.: é opcional informar `system:`, para valores informados sem um `type` declarado, o valor será considerado um ícone do tipo `system` por padrão.",
+    "v": "Note: it is optional to specify `system:`, for values provided without a declared `type`, the value will be considered a `system` type icon by default."
+  },
+  {
+    "k": "Para o tipo `base64`, o valor é os bytes da imagem (JPG , por exemplo) em formato base64.",
+    "v": "For the `base64` type, the value is the bytes of the image (JPG, for example) in base64 format."
+  },
+  {
+    "k": "Para o tipo `svg`, o valor é o próprio conteúdo XML do SVG",
+    "v": "For the `svg` type, the value is the XML content of the SVG itself"
+  },
+  {
+    "k": "Exemplos",
+    "v": "Examples"
+  },
+  {
+    "k": "Em locais onde `html` é permitido, é possível utilizar um ícone pela tag `<img>`.",
+    "v": "In places where `html` is allowed, it is possible to use an icon with the `<img>` tag."
+  },
+  {
+    "k": "Sintaxe",
+    "v": "Syntax"
+  },
+  {
+    "k": "`size` e `color` são opcionais",
+    "v": "`size` and `color` are optional"
+  },
+  {
+    "k": "ícone 'settings' no mesmo tamanho de fonte e cor do texto atual",
+    "v": "'settings' icon in the same font size and color as the current text"
+  },
+  {
+    "k": "ícone 'settings' no tamanho 16px e cor do texto atual",
+    "v": "'settings' icon in size 16px and current text color"
+  },
+  {
+    "k": "ícone 'settings' no tamanho 16px e cor verde",
+    "v": "'settings' icon in size 16px and green color"
+  },
+  {
+    "k": "InputParam é o item utilizado na criação de componentes criados nas janelas do programa.",
+    "v": "InputParam is the item used in the creation of components created in the program's windows."
+  },
+  {
+    "k": "Diversas funcionalidades baseadas em JavaScript podem criar janelas de input para obter entradas do usuário.",
+    "v": "Various JavaScript-based functionalities can create input windows to obtain user entries."
+  },
+  {
+    "k": "Itens como caixa de texto, checkbox, combobox, etc. podem ser criados utilizando a estrutura InputParam",
+    "v": "Items such as text box, checkbox, combobox, etc. can be created using the InputParam structure"
+  },
+  {
+    "k": "Parâmetros que cada item do tipo `InputParam` pode conter:",
+    "v": "Parameters that each item of type `InputParam` can contain:"
+  },
+  {
+    "k": "obrigatório",
+    "v": "mandatory"
+  },
+  {
+    "k": "Nome da variável",
+    "v": "Variable name"
+  },
+  {
+    "k": "Nome para exibir na interface.",
+    "v": "Name to display in the interface."
+  },
+  {
+    "k": "Para utilizar formatação HTML inicie a string com `<html>`.",
+    "v": "To use HTML formatting, start the string with `<html>`."
+  },
+  {
+    "k": "nome",
+    "v": "name"
+  },
+  {
+    "k": "Tipo de parâmetro.",
+    "v": "Parameter type."
+  },
+  {
+    "k": "Isso define o tipo de componente exibido na interface para definir valores.",
+    "v": "This defines the type of component displayed in the interface to set values."
+  },
+  {
+    "k": "Por exemplo, tipo boolean irá exibir um `checkbox`.",
+    "v": "For example, a boolean type will display a `checkbox`."
+  },
+  {
+    "k": "Informa uma descrição para o parâmetro, para poder ser exibido na tela como \"ajuda\".",
+    "v": "Provide a description for the parameter, so it can be displayed on the screen as \"help\"."
+  },
+  {
+    "k": "Define um valor inicial para o parâmetro.",
+    "v": "Set an initial value for the parameter."
+  },
+  {
+    "k": "Método que será executado sempre que o componente tiver seu valor alterado.",
+    "v": "Method that will be executed whenever the component's value is changed."
+  },
+  {
+    "k": "(métodos `only read` não geram `onchange`, por exemplo, `type: title`)",
+    "v": "(`only read` methods do not trigger `onchange`, for example, `type: title`)"
+  },
+  {
+    "k": "O parâmetro recebido pela function contém o `input` com o valor atual de todos os itens `InputParam` da janela atual, não somente do `InputParam` atual.",
+    "v": "The parameter received by the function contains the `input` with the current value of all `InputParam` items in the current window, not just the current `InputParam`."
+  },
+  {
+    "k": "O parâmetro `view` (Map) foi adicionado na `v2.25.0`, permitindo, por exemplo, alterar o nome (label) atual definido para o parâmetro.",
+    "v": "The `view` parameter (Map) was added in `v2.25.0`, allowing, for example, to change the current name (label) set for the parameter."
+  },
+  {
+    "k": "Validar o conteúdo do item quando o botão OK da janela de diálogo for pressionado.",
+    "v": "Validate the content of the item when the OK button of the dialog window is pressed."
+  },
+  {
+    "k": "Retorne uma string com o erro ou `true` se o item for válido.",
+    "v": "Return a string with the error or `true` if the item is valid."
+  },
+  {
+    "k": "Disponível apenas para tipo 'string'",
+    "v": "Available only for 'string' type"
+  },
+  {
+    "k": "Exibe uma lista de sugestões ao clicar na \"setinha\" disponível na caixa de texto, mas permite que qualquer valor seja digitado na caixa de texto.",
+    "v": "Displays a list of suggestions when clicking on the \"arrow\" available in the text box, but allows any value to be typed in the text box."
+  },
+  {
+    "k": "É possível retornar uma `function` para que os valores possam ser atualizados em tempo real.",
+    "v": "It is possible to return a `function` so that the values can be updated in real time."
+  },
+  {
+    "k": "Permite, por exemplo, exibir uma lista de valores sugeridos baseado no valor dos inputs anteriores.",
+    "v": "Allows, for example, to display a list of suggested values based on the value of previous inputs."
+  },
+  {
+    "k": "Exibe uma lista de opções no formato `combobox`, sem opção para inserir outros valores.",
+    "v": "Displays a list of options in `combobox` format, without the option to enter other values."
+  },
+  {
+    "k": "Disponível apenas para tipo 'number'",
+    "v": "Available only for type 'number'"
+  },
+  {
+    "k": "Valor mínimo permitido.",
+    "v": "Minimum allowed value."
+  },
+  {
+    "k": "Valor máximo permitido.",
+    "v": "Maximum allowed value."
+  },
+  {
+    "k": "Define o tipo de componente utilizado.",
+    "v": "Define the type of component used."
+  },
+  {
+    "k": "Valores disponíveis",
+    "v": "Available values"
+  },
+  {
+    "k": "Define se o componente aceitará valores decimais ou apenas inteiros.",
+    "v": "Define whether the component will accept decimal values or only integers."
+  },
+  {
+    "k": "Disponível apenas para `spinner` e `slider`.",
+    "v": "Available only for `spinner` and `slider`."
+  },
+  {
+    "k": "Texto adicionado após o valor atual exibido no componente.",
+    "v": "Text added after the current value displayed in the component."
+  },
+  {
+    "k": "Disponível apenas para `slider`.",
+    "v": "Available only for `slider`."
+  },
+  {
+    "k": "Disponível apenas para tipo 'receiver'",
+    "v": "Available only for 'receiver' type"
+  },
+  {
+    "k": "Permite selecionar o ID de um receptor criado, para realizar comunicações utilizando o método `apiRequest`, passando o ID do receptor como parâmetro.",
+    "v": "Allows selecting the ID of a created receiver to perform communications using the `apiRequest` method, passing the receiver's ID as a parameter."
+  },
+  {
+    "k": "Por exemplo, selecionar um receptor do tipo `obs_v5` (OBS Studio WebSocket v5) para poder enviar requisições para este receptor configurado.",
+    "v": "For example, select a receiver of type `obs_v5` (OBS Studio WebSocket v5) to be able to send requests to this configured receiver."
+  },
+  {
+    "k": "A partir da `v2.23.0` é possível definir múltiplos valores separados por vírgula, por exemplo: `receiver: 'obs_v4,obs_v5'`",
+    "v": "Starting from `v2.23.0`, it is possible to define multiple values separated by commas, for example: `receiver: 'obs_v4,obs_v5'`"
+  },
+  {
+    "k": "Disponível apenas para tipo 'background'",
+    "v": "Available only for 'background' type"
+  },
+  {
+    "k": "Disponível apenas para tipo 'title'",
+    "v": "Available only for type 'title'"
+  },
+  {
+    "k": "Método que será executado ao exibir uma janela com inputs.",
+    "v": "Method that will be executed when displaying a window with inputs."
+  },
+  {
+    "k": "O parâmetro recebido pela function é um objeto do tipo `JSInputParamWindow`.",
+    "v": "The parameter received by the function is an object of type `JSInputParamWindow`."
+  },
+  {
+    "k": "Exemplo de uso: capturar a referência para o objeto `dialog` no contexto atual e chamar `dialog.ok()` em outra situação, por exemplo, para forçar a reinicialização da janela.",
+    "v": "Usage example: capture the reference to the `dialog` object in the current context and call `dialog.ok()` in another situation, for example, to force the window to restart."
+  },
+  {
+    "k": "simula o clique no botão ok",
+    "v": "simulates clicking the ok button"
+  },
+  {
+    "k": "simula o clique no botão cancel",
+    "v": "simulates clicking the cancel button"
+  },
+  {
+    "k": "Disponível apenas para tipo 'label'",
+    "v": "Available only for 'label' type"
+  },
+  {
+    "k": "Texto que será exibido.",
+    "v": "Text that will be displayed."
+  },
+  {
+    "k": "Pode ser uma function que retorna uma string.",
+    "v": "It can be a function that returns a string."
+  },
+  {
+    "k": "Exibe um ícone de copiar, para copiar o conteúdo de `text`.",
+    "v": "Displays a copy icon to copy the content of `text`."
+  },
+  {
+    "k": "Texto que será copiado em vez de `text`.",
+    "v": "Text that will be copied instead of `text`."
+  },
+  {
+    "k": "Exibir o texto com uma fonte monospaced.",
+    "v": "Display the text in a monospaced font."
+  },
+  {
+    "k": "Para exibir somente o texto, centralizado, sem o \"label\" identificador do campo `name`.",
+    "v": "To display only the text, centered, without the \"label\" identifying the field `name`."
+  },
+  {
+    "k": "Disponível apenas para tipo 'button'",
+    "v": "Available only for 'button' type"
+  },
+  {
+    "k": "Texto que será exibido no botão.",
+    "v": "Text that will be displayed on the button."
+  },
+  {
+    "k": "Ação que será executada ao clicar no botão.",
+    "v": "Action that will be executed when clicking the button."
+  },
+  {
+    "k": "Para exibir somente o botão, centralizado, sem o \"label\" identificador do campo `name`.",
+    "v": "To display only the button, centered, without the \"label\" identifying the field `name`."
+  },
+  {
+    "k": "Ícone exibido no botão.",
+    "v": "Icon displayed on the button."
+  },
+  {
+    "k": "Saiba mais",
+    "v": "Know more"
+  },
+  {
+    "k": "Disponível apenas para tipo 'settings'",
+    "v": "Available only for type 'settings'"
+  },
+  {
+    "k": "Permite criar um botão que abre outra janela de input com novos itens.",
+    "v": "Allows you to create a button that opens another input window with new items."
+  },
+  {
+    "k": "Lista de itens exibidos ao clicar no botão de configuração.",
+    "v": "List of items displayed when clicking the settings button."
+  },
+  {
+    "k": "Alguns exemplos de input:",
+    "v": "Some examples of input:"
+  },
+  {
+    "k": "//exibe na interface (combobox) o valor do parâmetro 'label'\n   //mas o conteúdo na variável 'obj.input.option'\n   //será o valor do parâmetro 'value'",
+    "v": "// displays the value of the 'label' parameter in the interface (combobox)\n   // but the content in the variable 'obj.input.option'\n   // will be the value of the 'value' parameter"
+  },
+  {
+    "k": "Duração",
+    "v": "Duration"
+  },
+  {
+    "k": "É possível aplicar uma visualização personalizada de um item Script/API adicionado na barra de favoritos.",
+    "v": "It is possible to apply a custom view to a Script/API item added to the favorites bar."
+  },
+  {
+    "k": "Para que o item possa ter uma cor diferente caso exista algum estado ativado/desativado, por exemplo.",
+    "v": "So that the item can have a different color if there is any activated/deactivated state, for example."
+  },
+  {
+    "k": "Implemente o método `hGetItemStatusData` na parte de métodos opcionais, na parte direita da janela de edição de script, exemplo:",
+    "v": "Implement the method `hGetItemStatusData` in the optional methods section, on the right side of the script editing window, for example:"
+  },
+  {
+    "k": "`active` define se o item está ativado ou desativado",
+    "v": "`active` defines whether the item is enabled or disabled"
+  },
+  {
+    "k": "Se o item estiver ativado, ele será exibido na cor verde por padrão, caso o valor `background` não seja retornado.",
+    "v": "If the item is enabled, it will be displayed in green by default, unless the `background` value is returned."
+  },
+  {
+    "k": "cor do texto no formato hexadecimal",
+    "v": "text color in hexadecimal format"
+  },
+  {
+    "k": "cor de fundo no formato hexadecimal",
+    "v": "background color in hexadecimal format"
+  },
+  {
+    "k": "cor do ícone no formato hexadecimal",
+    "v": "icon color in hexadecimal format"
+  },
+  {
+    "k": "descrição do item",
+    "v": "item description"
+  },
+  {
+    "k": "A descrição será adicionada após o nome/título do item",
+    "v": "The description will be added after the name/title of the item"
+  },
+  {
+    "k": "ícone personalizado do item",
+    "v": "custom item icon"
+  },
+  {
+    "k": "Baseado em algum item já existente no programa.",
+    "v": "Based on an existing item in the program."
+  },
+  {
+    "k": "Texto de dica que será exibido ao deixar o mouse parado em cima do item.",
+    "v": "Tooltip text that will be displayed when the mouse hovers over the item."
+  },
+  {
+    "k": "Disponível apenas para itens do tipo:",
+    "v": "Available only for items of type:"
+  },
+  {
+    "k": "Obs.:",
+    "v": "Note:"
+  },
+  {
+    "k": "Todos os parâmetros são opcionais",
+    "v": "All parameters are optional"
+  },
+  {
+    "k": "Caso seja retornado `null`, o item será exibido na forma padrão",
+    "v": "If `null` is returned, the item will be displayed in the default form"
+  },
+  {
+    "k": "É possível definir múltiplos estilos em uma mesma tag, separando o nome com espaço",
+    "v": "It is possible to define multiple styles in the same tag, separating the names with a space"
+  },
+  {
+    "k": "Contém as informações da origem da requisição",
+    "v": "Contains information about the origin of the request"
+  },
+  {
+    "k": "exibe na interface (combobox) o valor do parâmetro 'label'",
+    "v": "displays in the interface (combobox) the value of the 'label' parameter"
+  },
+  {
+    "k": "mas o conteúdo na variável 'obj.input.option'",
+    "v": "but the content in the variable 'obj.input.option'"
+  },
+  {
+    "k": "será o valor do parâmetro 'value'",
+    "v": "it will be the value of the parameter 'value'"
+  },
+  {
+    "k": "Disponível se `source_type = music` ou `source_type = text`",
+    "v": "Available if `source_type = music` or `source_type = text`"
+  },
+  {
+    "k": "Verifica se a tela está com a opção **Visão do Palco** ativada",
+    "v": "Check if the **Stage View** option is enabled on the screen"
+  },
+  {
+    "k": "Disponível se `stage_view_enabled = true`",
+    "v": "Available if `stage_view_enabled = true`"
+  },
+  {
+    "k": "diversos",
+    "v": "several"
+  },
+  {
+    "k": "inserir texto",
+    "v": "insert text"
+  },
+  {
+    "k": "Permite inserir um texto no início ou no final de um slide ou alterar o texto atual.",
+    "v": "Allows you to insert text at the beginning or end of a slide or change the current text."
+  },
+  {
+    "k": "Esta ação é feita em tempo de execução no momento da projeção do respectivo slide e é aplicada de forma independente para cada tela, de acordo com o valor em `screen_id`.",
+    "v": "This action is performed at runtime at the moment of projecting the respective slide and is applied independently for each screen, according to the value in `screen_id`."
+  },
+  {
+    "k": "Observação: há um cachê de 30 segundo para reutilizar o último valor retornado pela function, baseado no mesmo slide e mesma tela.",
+    "v": "Note: there is a 30-second cache to reuse the last value returned by the function, based on the same slide and the same screen."
+  },
+  {
+    "k": "O parâmetro `obj` é do tipo",
+    "v": "The parameter `obj` is of type"
+  },
+  {
+    "k": "Valor que será adicionado no início do texto do slide atual",
+    "v": "Value that will be added at the beginning of the current slide text"
+  },
+  {
+    "k": "Valor que será adicionado no final do texto do slide atual",
+    "v": "Value that will be added at the end of the current slide text"
+  },
+  {
+    "k": "Adiciona o texto com uma quebra de linha",
+    "v": "Adds the text with a line break"
+  },
+  {
+    "k": "Valor para substituir o texto do slide atual",
+    "v": "Value to replace the text of the current slide"
+  },
+  {
+    "k": "Isso faz com que na tela 'public'",
+    "v": "This causes on the 'public' screen"
+  },
+  {
+    "k": "quando a opção F9 (sem texto) estiver ativada",
+    "v": "when the F9 option (without text) is enabled"
+  },
+  {
+    "k": "o texto '♪' seja exibido",
+    "v": "the text '♪' should be displayed"
+  },
+  {
+    "k": "Opção via API para criar uma nova música abrindo a janela de edição de letra.",
+    "v": "API option to create a new song by opening the lyrics editing window."
+  },
+  {
+    "k": "Isso permite que qualquer outro processo no computador possa enviar um conteúdo ao programa para abrir a janela de edição de letra.",
+    "v": "This allows any other process on the computer to send content to the program to open the text editing window."
+  },
+  {
+    "k": "Observações",
+    "v": "Observations"
+  },
+  {
+    "k": "Disponível a partir da versão 2.21.0",
+    "v": "Available from version 2.21.0"
+  },
+  {
+    "k": "É necessário que a opção \"API Server\" esteja ativada nas configurações do programa",
+    "v": "The \"API Server\" option must be enabled in the program settings"
+  },
+  {
+    "k": "Aceita somente requisições da máquina local utilizando endereço loopback",
+    "v": "Accepts only requests from the local machine using the loopback address"
+  },
+  {
+    "k": "Caso tenha sido modificada, altere a porta 8091 da requisição para a porta correspondente definida nas configurações API Server",
+    "v": "If it has been modified, change port 8091 of the request to the corresponding port defined in the API Server settings"
+  },
+  {
+    "k": "Modelo JSON simples",
+    "v": "Simple JSON model"
+  },
+  {
+    "k": "Modelo JSON complexo",
+    "v": "Complex JSON model"
+  },
+  {
+    "k": "menu ferramentas",
+    "v": "tools menu"
+  },
+  {
+    "k": "ações de contexto",
+    "v": "context actions"
+  },
+  {
+    "k": "Cria itens no menu de contexto (botão direito do mouse) de um respectivo item, permitindo realizar ações específicas para um item.",
+    "v": "Creates items in the context menu (right-click) of a respective item, allowing specific actions to be performed for an item."
+  },
+  {
+    "k": "Por exemplo, criar uma ação chamada `Sem Áudio` que executa um vídeo sem áudio.",
+    "v": "For example, create an action called `No Audio` that plays a video without sound."
+  },
+  {
+    "k": "Ao clicar com o botão direito em um item de vídeo no programa, no submenu `Ação de contexto`, selecionando o item `Sem Áudio`, as informações do vídeo serão redirecionadas para a respectiva `function`.",
+    "v": "By right-clicking on a video item in the program, in the `Context Action` submenu, selecting the `Mute` item, the video information will be redirected to the respective `function`."
+  },
+  {
+    "k": "E então a function pode ter a implementação de definir o player do programa para `mute = true` e depois executar o respectivo vídeo.",
+    "v": "And then the function can implement setting the program's player to `mute = true` and then execute the respective video."
+  },
+  {
+    "k": "O parâmetro `obj.type` contém o tipo do item que gerou a ação.",
+    "v": "The parameter `obj.type` contains the type of the item that triggered the action."
+  },
+  {
+    "k": "O parâmetro `obj.item` contém as informações do respectivo item que gerou a ação.",
+    "v": "The parameter `obj.item` contains the information of the respective item that triggered the action."
+  },
+  {
+    "k": "A partir da versão 2.24.0 é possível criar ação de contexto selecionando múltiplos itens.",
+    "v": "Starting from version 2.24.0, it is possible to create a context action by selecting multiple items."
+  },
+  {
+    "k": "Quando a ação for gerada a partir de uma seleção múltipla, os itens estarão disponíveis em `obj.items` e o `obj.item` será `null`.",
+    "v": "When the action is generated from a multiple selection, the items will be available in `obj.items` and `obj.item` will be `null`."
+  },
+  {
+    "k": "múltiplos itens",
+    "v": "multiple items"
+  },
+  {
+    "k": "É possível definir `inputs` (parâmetros) personalizados para a execução de um código javascript.",
+    "v": "It is possible to define custom `inputs` (parameters) for the execution of JavaScript code."
+  },
+  {
+    "k": "Dessa forma é possível criar modelos de código genéricos que serão executados conforme parâmetros informados na interface.",
+    "v": "In this way, it is possible to create generic code models that will be executed according to the parameters provided in the interface."
+  },
+  {
+    "k": "As variáveis são passadas no objeto `obj.input` na execução do código.",
+    "v": "The variables are passed in the object `obj.input` during the execution of the code."
+  },
+  {
+    "k": "Criando 3 inputs com os IDs `name`, `duration` e `flag`, esses valores podem ser acessados conforme exemplo abaixo:",
+    "v": "Creating 3 inputs with the IDs `name`, `duration`, and `flag`, these values can be accessed as shown in the example below:"
+  },
+  {
+    "k": "Para criar `inputs`, implemente o método `hGetItemInputParams` na parte de métodos opcionais, na parte direita da janela de edição de script, exemplo:",
+    "v": "To create `inputs`, implement the method `hGetItemInputParams` in the optional methods section, on the right side of the script editing window, for example:"
+  },
+  {
+    "k": "Repetir",
+    "v": "Repeat"
+  },
+  {
+    "k": "Os campos definidos em settings ficam dentro do id do campo superior",
+    "v": "The fields defined in settings are within the id of the upper field"
+  },
+  {
+    "k": "Pesquisa Avançada de Letra",
+    "v": "Advanced Lyrics Search"
+  },
+  {
+    "k": "É possível realizar uma pesquisa avançada na aba de letras para um filtro mais preciso dos itens, utilizando itens não disponíveis na interface e filtrando por diferentes itens simultaneamente.",
+    "v": "It is possible to perform an advanced search in the lyrics tab for a more precise filter of items, using items not available in the interface and filtering by different items simultaneously."
+  },
+  {
+    "k": "Sintaxe da pesquisa",
+    "v": "Search syntax"
+  },
+  {
+    "k": "Utilize \"porcentagem\" no início da chave e dois-pontos no final da chave.",
+    "v": "Use \"percentage\" at the beginning of the key and a colon at the end of the key."
+  },
+  {
+    "k": "Em seguida, informe o valor que deseja procurar.",
+    "v": "Next, please provide the value you wish to search for."
+  },
+  {
+    "k": "Para utilizar múltiplas chaves, utilize o sinal \"&&\" para separar os itens.",
+    "v": "To use multiple keys, use the \"&&\" sign to separate the items."
+  },
+  {
+    "k": "Itens disponíveis",
+    "v": "Available items"
+  },
+  {
+    "k": "Alguns itens permitem utilizar o nome traduzido, por exemplo, \"título\" em vez de \"title\".",
+    "v": "Some items allow the use of the translated name, for example, \"título\" instead of \"title\"."
+  },
+  {
+    "k": "Também é possível utilizar como chave um item extra criado pelo usuário para as letras.",
+    "v": "It is also possible to use an extra item created by the user as a key for the letters."
+  },
+  {
+    "k": "Pesquisas com string, exemplo:",
+    "v": "String searches, for example:"
+  },
+  {
+    "k": "Músicas que contém",
+    "v": "Songs that contain"
+  },
+  {
+    "k": "na letra e contém algum autor com nome",
+    "v": "in the letter and contains some author with a name"
+  },
+  {
+    "k": "É possível utilizar o caractere `*` para filtrar quando contém qualquer valor ou `!*` para filtrar quando não contém um valor, exemplo:",
+    "v": "It is possible to use the character `*` to filter when it contains any value or `!*` to filter when it does not contain a value, for example:"
+  },
+  {
+    "k": "e o campo __autor__ está preenchido",
+    "v": "and the __author__ field is filled in"
+  },
+  {
+    "k": "e o campo __autor__ não está preenchido",
+    "v": "and the __author__ field is not filled in"
+  },
+  {
+    "k": "Pesquisas utilizando regex, adicione `--regex` ou `--rgx` no início do campo pesquisado, exemplo:",
+    "v": "Searches using regex, add `--regex` or `--rgx` at the beginning of the searched field, for example:"
+  },
+  {
+    "k": "Músicas que contém a palavra",
+    "v": "Songs that contain the word"
+  },
+  {
+    "k": "ou a palavra",
+    "v": "or the word"
+  },
+  {
+    "k": "Pesquisas utilizando número, exemplo:",
+    "v": "Research using numbers, for example:"
+  },
+  {
+    "k": "Músicas com bpm maior ou igual a 80",
+    "v": "Songs with bpm greater than or equal to 80"
+  },
+  {
+    "k": "Músicas com bpm de 90 a 120",
+    "v": "Songs with bpm from 90 to 120"
+  },
+  {
+    "k": "Músicas que foram tocadas pela última vez há mais de 90 dias e que foram tocadas mais de 5 vezes no total",
+    "v": "Songs that were last played more than 90 days ago and have been played more than 5 times in total"
+  },
+  {
+    "k": "Tipos de comparação aceitos",
+    "v": "Accepted types of comparison"
+  },
+  {
+    "k": "menor ou igual a",
+    "v": "less than or equal to"
+  },
+  {
+    "k": "maior ou igual a",
+    "v": "greater than or equal to"
+  },
+  {
+    "k": "diferente de",
+    "v": "different from"
+  },
+  {
+    "k": "menor que",
+    "v": "less than"
+  },
+  {
+    "k": "maior que",
+    "v": "greater than"
+  },
+  {
+    "k": "Pesquisas utilizando verdadeiro ou falso, exemplo:",
+    "v": "Research using true or false, for example:"
+  },
+  {
+    "k": "Músicas que contém tema salvo:",
+    "v": "Songs that contain saved theme:"
+  },
+  {
+    "k": "Permitido",
+    "v": "Allowed"
+  },
+  {
+    "k": "Filtra apenas músicas do grupo informado.",
+    "v": "Filters only songs from the specified group."
+  },
+  {
+    "k": "É necessário informar o nome completo do grupo.",
+    "v": "It is necessary to provide the full name of the group."
+  },
+  {
+    "k": "Não aceita regex ou pesquisa parcial.",
+    "v": "Does not accept regex or partial search."
+  },
+  {
+    "k": "Comentários na letra da música",
+    "v": "Comments on the song lyrics"
+  },
+  {
+    "k": "Filtra apenas músicas que contém pelo menos um slide com o nome informado.",
+    "v": "Filters only songs that contain at least one slide with the specified name."
+  },
+  {
+    "k": "Aceita pesquisa parcial apenas utilizando regex.",
+    "v": "Accepts partial search using only regex."
+  },
+  {
+    "k": "A pesquisa simples por string precisa informar o nome completo da descrição",
+    "v": "The simple string search needs to provide the full name of the description"
+  },
+  {
+    "k": "Pesquisa nos campos traduzidos da letra da música",
+    "v": "Research in the translated fields of the song lyrics"
+  },
+  {
+    "k": "Filtrar músicas utilizando o BPM",
+    "v": "Filter songs using BPM"
+  },
+  {
+    "k": "Filtrar músicas utilizando a tonalidade",
+    "v": "Filter songs using the key"
+  },
+  {
+    "k": "Filtrar músicas utilizando o tempo",
+    "v": "Filter songs using the time"
+  },
+  {
+    "k": "Campo \"extra\" disponível na janela de edição da letra da música",
+    "v": "\"Extra\" field available in the song lyrics editing window"
+  },
+  {
+    "k": "Filtrar músicas que tem ou não a ordem dos slides definida manualmente",
+    "v": "Filter songs that have or do not have the slide order defined manually"
+  },
+  {
+    "k": "Filtrar músicas que tem ou não tema salvo",
+    "v": "Filter songs that have or do not have a saved theme"
+  },
+  {
+    "k": "Filtrar músicas baseado na quantidade de dias desde a última exibição da letra.",
+    "v": "Filter songs based on the number of days since the last display of the lyrics."
+  },
+  {
+    "k": "É utilizado o campo \"histórico\" como base, ou seja, é considerado apenas as exibições da opção \"marcada como tocada\".",
+    "v": "The \"history\" field is used as a basis, meaning that only the displays of the option \"marked as played\" are considered."
+  },
+  {
+    "k": "Filtrar músicas baseado na quantidade (total) de vezes que a música foi exibida.",
+    "v": "Filter songs based on the total number of times the song has been played."
+  },
+  {
+    "k": "Método que recebe o input da interface e precisa retornar a URL de pesquisa.",
+    "v": "Method that receives input from the interface and needs to return the search URL."
+  },
+  {
+    "k": "Método para transformar a resposta da requisição feita na URL retornada no método `createUrlToSearch` em uma lista de objetos, cada objeto contendo os campos `id`, `title` e `artist_or_author`.",
+    "v": "Method to transform the response of the request made to the URL returned in the `createUrlToSearch` method into a list of objects, each object containing the fields `id`, `title`, and `artist_or_author`."
+  },
+  {
+    "k": "Método que recebe o id do item selecionado na interface (na lista de resultados) e precisa retornar a URL para obter os dados completos da música (letra, por exemplo).",
+    "v": "Method that receives the id of the selected item in the interface (in the results list) and needs to return the URL to obtain the complete data of the song (lyrics, for example)."
+  },
+  {
+    "k": "Método para transformar a resposta da requisição feita na URL retornada no método `createUrlToGetById` em um objeto \"música\".",
+    "v": "Method to transform the response of the request made to the URL returned in the `createUrlToGetById` method into a \"music\" object."
+  },
+  {
+    "k": "O objeto precisa retornar os campos `title`, `artist`, `author` e `lyrics`.",
+    "v": "The object needs to return the fields `title`, `artist`, `author`, and `lyrics`."
+  },
+  {
+    "k": "Obtém a informação do token",
+    "v": "Gets the token information"
+  },
+  {
+    "k": "Ações permitidas para o token, separados por vírgula",
+    "v": "Allowed actions for the token, separated by commas"
+  },
+  {
+    "k": "Lista de ações requeridas para o token, separados por vírgula",
+    "v": "List of required actions for the token, separated by commas"
+  },
+  {
+    "k": "Ações não permitidas, separados por vírgula",
+    "v": "Actions not allowed, separated by comma"
+  },
+  {
+    "k": "Verifica se o token tem as permissões requeridas",
+    "v": "Checks if the token has the required permissions"
+  },
+  {
+    "k": "Retorna `status=ok` se o token tiver todas as permissões requeridas no parâmetro `actions`",
+    "v": "Returns `status=ok` if the token has all the permissions required in the `actions` parameter"
+  },
+  {
+    "k": "Retorna `code 401` se o token não tiver todas as permissões requeridas",
+    "v": "Returns `code 401` if the token does not have all the required permissions"
+  },
+  {
+    "k": "foi criada uma notificação solicitando permissão ao usuário na interface do programa",
+    "v": "a notification was created requesting permission from the user in the program interface"
+  },
+  {
+    "k": "a solicitação de permissão foi negada",
+    "v": "the permission request was denied"
+  },
+  {
+    "k": "Adicionada compatibilidade com",
+    "v": "Added compatibility with"
   }
 ]
