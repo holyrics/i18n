@@ -6434,5 +6434,49 @@
   {
     "k": "Adicionada compatibilidade com",
     "v": "Added compatibility with"
+  },
+  {
+    "k": "Código JavaScript intermediário que permite manipular a lista recebida do Planning Center Online.",
+    "v": "Intermediate JavaScript code that allows manipulation of the list received from Planning Center Online."
+  },
+  {
+    "k": "Permite, por exemplo, corrigir alguns detalhes no objeto identificado por padrão, ou mesmo gerar itens diferentes do padrão, baseado na resposta da API.",
+    "v": "Allows, for example, to correct some details in the object identified by default, or even generate different items from the default, based on the API response."
+  },
+  {
+    "k": "Executado após uma lista ser carregada",
+    "v": "Executed after a list is loaded"
+  },
+  {
+    "k": "Método que recebe o objeto `Lyrics` identificado e permite editá-lo.",
+    "v": "Method that receives the identified `Lyrics` object and allows it to be edited."
+  },
+  {
+    "k": "Retorne `null` para manter o objeto original sem edições.",
+    "v": "Return `null` to keep the original object unchanged."
+  },
+  {
+    "k": "Retorno",
+    "v": "Return"
+  },
+  {
+    "k": "Objeto editado ou `null` para manter o objeto original sem edições.",
+    "v": "Edited object or `null` to keep the original object without edits."
+  },
+  {
+    "k": "Retorne qualquer item do tipo `AddItem???` disponível na documentação.",
+    "v": "Return any item of type `AddItem???` available in the documentation."
+  },
+  {
+    "k": "É possível retornar um array de itens.",
+    "v": "It is possible to return an array of items."
+  },
+  {
+    "k": "Retorne `null` para utilizar o objeto padrão identificado nativamente pelo programa, que pode ser do tipo `plain_text` (texto exibido ao público) ou `cp_text` (texto exibido no painel de comunicação), depende da configuração definida na interface.",
+    "v": "Return `null` to use the default object natively identified by the program, which can be of type `plain_text` (text displayed to the public) or `cp_text` (text displayed in the communication panel), depending on the configuration set in the interface."
+  },
+  {
+    "k": "Ao utilizar este objeto em métodos de criação ou edição, se `formatting_type=basic` for utilizado, o valor da variável `slides.*.text` será utilizado, caso contrário, o valor da variável `slides.*.styled_text` será utilizado",
+    "v": "When using this object in creation or editing methods, if `formatting_type=basic` is used, the value of the variable `slides.*.text` will be used; otherwise, the value of the variable `slides.*.styled_text` will be used"
   }
 ]
