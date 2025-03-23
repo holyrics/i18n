@@ -6478,5 +6478,9 @@
   {
     "k": "Ao utilizar este objeto em métodos de criação ou edição, se `formatting_type=basic` for utilizado, o valor da variável `slides.*.text` será utilizado, caso contrário, o valor da variável `slides.*.styled_text` será utilizado",
     "v": "When using this object in creation or editing methods, if `formatting_type=basic` is used, the value of the variable `slides.*.text` will be used; otherwise, the value of the variable `slides.*.styled_text` will be used"
+  },
+  {
+    "k": "Nome da pasta",
+    "v": "Folder name"
   }
 ]
