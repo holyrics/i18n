@@ -1,0 +1,408 @@
+{
+  "id": "cy",
+  "language": "cy",
+  "name": "Welsh",
+  "alt_name": "Cymraeg",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Genesis",
+      "abbreviation": "Genesis"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Exodus",
+      "abbreviation": "Exodus"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Lefiticus",
+      "abbreviation": "Lefiticus"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Numeri",
+      "abbreviation": "Numeri"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Deuteronomium",
+      "abbreviation": "Deuteronomium"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Josua",
+      "abbreviation": "Josua"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Barnwyr",
+      "abbreviation": "Barnwyr"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Ruth",
+      "abbreviation": "Ruth"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Samuel",
+      "abbreviation": "1Samuel"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Samuel",
+      "abbreviation": "2Samuel"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 Brenhinoedd",
+      "abbreviation": "1Brenhinoedd"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 Brenhinoedd",
+      "abbreviation": "2Brenhinoedd"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Cronicl",
+      "abbreviation": "1Cronicl"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Cronicl",
+      "abbreviation": "2Cronicl"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Esra",
+      "abbreviation": "Esra"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemeia",
+      "abbreviation": "Nehemeia"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Esther",
+      "abbreviation": "Esther"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Job",
+      "abbreviation": "Job"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Salm",
+      "abbreviation": "Salm"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Diarhebion",
+      "abbreviation": "Diarhebion"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Pregethwr",
+      "abbreviation": "Pregethwr"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Caniad Solomon",
+      "abbreviation": "Caniad Solomon"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Eseia",
+      "abbreviation": "Eseia"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jeremeia",
+      "abbreviation": "Jeremeia"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Galarnad",
+      "abbreviation": "Galar"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Eseciel",
+      "abbreviation": "Esec"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniel",
+      "abbreviation": "Daniel"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hosea",
+      "abbreviation": "Hosea"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Joel",
+      "abbreviation": "Joel"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amos",
+      "abbreviation": "Amos"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadeia",
+      "abbreviation": "Obadeia"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jona",
+      "abbreviation": "Jona"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Micha",
+      "abbreviation": "Micha"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahum",
+      "abbreviation": "Nahum"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habacuc",
+      "abbreviation": "Habacuc"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Seffaneia",
+      "abbreviation": "Seffaneia"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Haggai",
+      "abbreviation": "Haggai"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Sechareia",
+      "abbreviation": "Sechareia"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malachi",
+      "abbreviation": "Malachi"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Mathew",
+      "abbreviation": "Mathew"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Marc",
+      "abbreviation": "Marc"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luc",
+      "abbreviation": "Luc"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Ioan",
+      "abbreviation": "Ioan"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Actau",
+      "abbreviation": "Actau"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Rhufeiniaid",
+      "abbreviation": "Rhufeiniaid"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Corinthiaid",
+      "abbreviation": "1Corinthiaid"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Corinthiaid",
+      "abbreviation": "2Corinthiaid"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galatiaid",
+      "abbreviation": "Galatiaid"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Effesiaid",
+      "abbreviation": "Effesiaid"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Philipiaid",
+      "abbreviation": "Philipiaid"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Colosiaid",
+      "abbreviation": "Colosiaid"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Thesaloniaid",
+      "abbreviation": "1Thesaloniaid"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Thesaloniaid",
+      "abbreviation": "2Thesaloniaid"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Timotheus",
+      "abbreviation": "1Timotheus"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Timotheus",
+      "abbreviation": "2Timotheus"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Titus",
+      "abbreviation": "Titus"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Philemon",
+      "abbreviation": "Philemon"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Hebreaid",
+      "abbreviation": "Hebreaid"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Iago",
+      "abbreviation": "Iago"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Pedr",
+      "abbreviation": "1Pedr"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Pedr",
+      "abbreviation": "2Pedr"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Ioan",
+      "abbreviation": "1Ioan"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Ioan",
+      "abbreviation": "2Ioan"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Ioan",
+      "abbreviation": "3Ioan"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Jwdas",
+      "abbreviation": "Jwdas"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Datguddiad",
+      "abbreviation": "Datguddiad"
+    }
+  ]
+}

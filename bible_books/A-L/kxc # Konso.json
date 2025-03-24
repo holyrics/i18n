@@ -1,0 +1,408 @@
+{
+  "id": "kxc",
+  "language": "kxc",
+  "name": "Konso",
+  "alt_name": "Konso",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Mataafa Uumata",
+      "abbreviation": "uuma"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Mataafa Sooketa",
+      "abbreviation": "sooka"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Mataafa orra Lewi",
+      "abbreviation": "Lewi"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Mataafa Dikoota",
+      "abbreviation": "dikoota"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Mataafa oppa\u0027 Ooreta",
+      "abbreviation": "ooreta"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Mataafa Iyyaasu",
+      "abbreviation": "Iyya"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Mataafa Taanynyada",
+      "abbreviation": "taanynya"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Mataafa Rutti",
+      "abbreviation": "Rutti"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "Mataafa Saamu\u0027eeli a paayyota",
+      "abbreviation": "Saamu a 1ta"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "Mataafa Saamu\u0027eeli a lammatta",
+      "abbreviation": "Saamu a 2ta"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "Mataafa a Nuqussa a paayyota",
+      "abbreviation": "nuqu a 1ta"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "Mataafa a Nuqussa a lammatta",
+      "abbreviation": "nuqu a 2ta"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "Mataafa Otoowwa a paayyota",
+      "abbreviation": "otoo a 1ta"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "Mataafa Otoowwa a lammatta",
+      "abbreviation": "otoo a 2ta"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Mataafa Isira",
+      "abbreviation": "Isi"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Mataafa a Nehimya",
+      "abbreviation": "Nehi"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Mataafa Asteeri",
+      "abbreviation": "As"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Mataafa Iyyoopi",
+      "abbreviation": "Iyyo"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Mataafa Masmuureta",
+      "abbreviation": "mas"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Mataafa Pahana",
+      "abbreviation": "phana"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Mataafa Dehaamta",
+      "abbreviation": "deha"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Masmuureta a masmuurewwa piisa qara jaallitto",
+      "abbreviation": "jaala"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Xuuma Issayyaasi",
+      "abbreviation": "Issa"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Xuuma Ermiyaasi",
+      "abbreviation": "Er"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Pooyta Ermiyaasi",
+      "abbreviation": "pooyi"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Xuuma Hisqeeli",
+      "abbreviation": "His"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Xuuma Taani\u0027eeli",
+      "abbreviation": "Taani"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hoose\u0027i",
+      "abbreviation": "Hoose"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Xuuma Iyyu\u0027eeli",
+      "abbreviation": "Iyyu"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Xuuma Amoosi",
+      "abbreviation": "Amo"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Xuuma Aptiyu",
+      "abbreviation": "Apti"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Xuuma Yoonaasi",
+      "abbreviation": "Yoona"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Xuuma Mikkiyaasi",
+      "abbreviation": "Mikki"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Xuuma Nahoomi",
+      "abbreviation": "Naho"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Xuuma Inpaqoomi",
+      "abbreviation": "Inpa"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Xuuma Sofooniyaasi",
+      "abbreviation": "Sofo"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Xuuma Hake",
+      "abbreviation": "Hake"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Xuuma Sakkaariyaasi",
+      "abbreviation": "Sakka"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Xuuma Milkiyaasi",
+      "abbreviation": "Mil"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Maatiyoosi",
+      "abbreviation": "Maati"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Mariqoosi",
+      "abbreviation": "Maari"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luqaasi",
+      "abbreviation": "Luqa"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Yohaannisi",
+      "abbreviation": "Yoha"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Kodampaya",
+      "abbreviation": "koda"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Roomi",
+      "abbreviation": "Roomi"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "Qorontoosi a paayyota",
+      "abbreviation": "Qoro 1ta"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "Qorontoosi a lammatta",
+      "abbreviation": "Qoro 2ta"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Kelaatiya",
+      "abbreviation": "Kelaati"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efesooni",
+      "abbreviation": "Efe"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filippisiyuusi",
+      "abbreviation": "Fili"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Qolaasiisi",
+      "abbreviation": "Qola"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "Teseloonqe a paayyota",
+      "abbreviation": "Tese a 1ta"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "Teseloonqe a lammatta",
+      "abbreviation": "Tese a 2ta"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "Timotoosi a paayyota",
+      "abbreviation": "Timo 1ta"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "Timotoosi a lammatta",
+      "abbreviation": "Timo 2ta"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tiito",
+      "abbreviation": "Tiito"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filmoona",
+      "abbreviation": "Fil"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ipro",
+      "abbreviation": "Ip"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Yayqoopi",
+      "abbreviation": "Yay"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "Petroosi a paayyota",
+      "abbreviation": "Peti 1ta"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "Petiroosi a lammatta",
+      "abbreviation": "Peti 2ta"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "Yohaannisi a paayyota",
+      "abbreviation": "Yoha 1ta"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "Yohaannisi a lammatta",
+      "abbreviation": "Yoha 2ta"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "Yohaannisi a sessatta",
+      "abbreviation": "Yoha 3ta"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Yihuta",
+      "abbreviation": "Yihu"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Keleshaata",
+      "abbreviation": "kele"
+    }
+  ]
+}

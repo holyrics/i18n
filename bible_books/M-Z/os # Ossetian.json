@@ -1,0 +1,408 @@
+{
+  "id": "os",
+  "language": "os",
+  "name": "Ossetian",
+  "alt_name": "ирон ӕвзаг",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Райдиан",
+      "abbreviation": "Райд"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Рацыд",
+      "abbreviation": "Рац"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Левит",
+      "abbreviation": "Лев"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Нымӕцтӕ",
+      "abbreviation": "Ным"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Фӕлхатгонд ӕгъдау",
+      "abbreviation": "Фӕл"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Нуны фырт Йешуа",
+      "abbreviation": "Нун"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Фӕтӕгтӕ",
+      "abbreviation": "Фӕт"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Руф",
+      "abbreviation": "Руф"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Паддзахӕдтӕ",
+      "abbreviation": "1Пад"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Паддзахӕдтӕ",
+      "abbreviation": "2Пад"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "3 Паддзахӕдтӕ",
+      "abbreviation": "3Пад"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "4 Паддзахӕдтӕ",
+      "abbreviation": "4Пад"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Азфыстытӕ",
+      "abbreviation": "1Азф"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Азфыстытӕ",
+      "abbreviation": "2Азф"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Езра",
+      "abbreviation": "Езр"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Неемиа",
+      "abbreviation": "Неем"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Естер",
+      "abbreviation": "Ест"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Иов",
+      "abbreviation": "Иов"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Псаломтӕ",
+      "abbreviation": "Пс"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Ӕмбисӕндтӕ",
+      "abbreviation": "Ӕмб"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Екклесиаст",
+      "abbreviation": "Екк"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Зарджыты зарӕг",
+      "abbreviation": "Зар"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Исайа",
+      "abbreviation": "Ис"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Йеремиа",
+      "abbreviation": "Йер"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Хъарӕг",
+      "abbreviation": "Хъар"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Езекиел",
+      "abbreviation": "Езек"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Даниил",
+      "abbreviation": "Дан"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Осиа",
+      "abbreviation": "Ос"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Иоел",
+      "abbreviation": "Иоел"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Амос",
+      "abbreviation": "Ам"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Авадиа",
+      "abbreviation": "Авад"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Ионӕ",
+      "abbreviation": "Ионӕ"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Михей",
+      "abbreviation": "Мих"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Наум",
+      "abbreviation": "Наум"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Аввакум",
+      "abbreviation": "Авв"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Софониа",
+      "abbreviation": "Соф"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Аггей",
+      "abbreviation": "Агг"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Захариа",
+      "abbreviation": "Зах"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Малахиа",
+      "abbreviation": "Мал"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Матфей",
+      "abbreviation": "Мт"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Марк",
+      "abbreviation": "Мк"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Лука",
+      "abbreviation": "Лк"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Иоанн",
+      "abbreviation": "Ин"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Апостолты хъуыддӕгтӕ",
+      "abbreviation": "Хъуыд"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Ромӕгтӕм",
+      "abbreviation": "Ром"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Коринфӕгтӕм",
+      "abbreviation": "1Кор"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Коринфӕгтӕм",
+      "abbreviation": "2Кор"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Галатӕгтӕм",
+      "abbreviation": "Гал"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Эфесӕгтӕм",
+      "abbreviation": "Эф"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Филиппӕгтӕм",
+      "abbreviation": "Флп"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Колоссӕгтӕм",
+      "abbreviation": "Кол"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Фессалоникӕгтӕм",
+      "abbreviation": "1Фес"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Фессалоникӕгтӕм",
+      "abbreviation": "2Фес"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Тимофеймӕ",
+      "abbreviation": "1Тим"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Тимофеймӕ",
+      "abbreviation": "2Тим"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Титмӕ",
+      "abbreviation": "Тит"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Филимонмӕ",
+      "abbreviation": "Фил"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Дзуттӕгтӕм",
+      "abbreviation": "Дзут"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Йаков",
+      "abbreviation": "Йак"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Петр",
+      "abbreviation": "1Пет"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Петр",
+      "abbreviation": "2Пет"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Иоанн",
+      "abbreviation": "1Ин"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Иоанн",
+      "abbreviation": "2Ин"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Иоанн",
+      "abbreviation": "3Ин"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Иудӕ",
+      "abbreviation": "Иудӕ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Ӕргомад",
+      "abbreviation": "Ӕрг"
+    }
+  ]
+}

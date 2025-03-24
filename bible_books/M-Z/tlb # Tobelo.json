@@ -1,0 +1,408 @@
+{
+  "id": "tlb",
+  "language": "tlb",
+  "name": "Tobelo",
+  "alt_name": "Tobelo",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "O KEJADIAN",
+      "abbreviation": "Kej"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "O KELUARAN",
+      "abbreviation": "Kel"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "O IMAMAT",
+      "abbreviation": "Im"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "O BILANGAN",
+      "abbreviation": "Bil"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "O ULANGAN",
+      "abbreviation": "Ul"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "O YOSUA",
+      "abbreviation": "Yos"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "O HAKIM-HAKIM",
+      "abbreviation": "Hak"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "O NGO RUT",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "O SAMUEL MADODIHIRAKA",
+      "abbreviation": "1Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "O SAMUEL MAHINOTOKA",
+      "abbreviation": "2Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "O KOKOANO MADODIHIRAKA",
+      "abbreviation": "1Kok"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "O KOKOANO MAHINOTOKA",
+      "abbreviation": "2Kok"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "O TAWARIKH MADODIHIRAKA",
+      "abbreviation": "1Taw"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "O TAWARIKH MAHINOTOKA",
+      "abbreviation": "2Taw"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "O EZRA",
+      "abbreviation": "Ezr"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "O NEHEMIA",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "O NGO ESTER",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "O AYUB",
+      "abbreviation": "Ayb"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "O MAZMUR",
+      "abbreviation": "Mzm"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "O AMSAL",
+      "abbreviation": "Ams"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "O PENGKHOTBAH",
+      "abbreviation": "Pkh"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "O KIDUNG AGUNG",
+      "abbreviation": "Kid"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "O YESAYA",
+      "abbreviation": "Yes"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "O YEREMIA",
+      "abbreviation": "Yer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "O RATAPAN",
+      "abbreviation": "Rat"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "O YEHEZKIEL",
+      "abbreviation": "Yeh"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "O DANIEL",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "O HOSEA",
+      "abbreviation": "Hos"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "O YOEL",
+      "abbreviation": "Yl"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "O AMOS",
+      "abbreviation": "Am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "O OBAJA",
+      "abbreviation": "Ob"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "O YUNUS",
+      "abbreviation": "Yun"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "O MIKHA",
+      "abbreviation": "Mi"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "O NAHUM",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "O HABAKUK",
+      "abbreviation": "Hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "O ZEFANYA",
+      "abbreviation": "Zef"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "O HAGAI",
+      "abbreviation": "Hag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "O ZAKHARIA",
+      "abbreviation": "Za"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "O MALEAKHI",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "O MATIUS",
+      "abbreviation": "Mat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "O MARKUS",
+      "abbreviation": "Mark"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "O LUKAS",
+      "abbreviation": "Luk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "O YOHANIS",
+      "abbreviation": "Yoh"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "O KISAH RASUL-RASUL",
+      "abbreviation": "Kis"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "O ROMA",
+      "abbreviation": "Rm"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "O KORINTUS MADODIHIRAKA",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "O KORINTUS MAHINOTOKA",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "O GALATIA",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "O EFESUS",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "O PILIPI",
+      "abbreviation": "Plp"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "O KOLOSE",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "O TESALONIKA MADODIHIRAKA",
+      "abbreviation": "1Tes"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "O TESALONIKA MAHINOTOKA",
+      "abbreviation": "2Tes"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "O TIMOTIUS MADODIHIRAKA",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "O TIMOTIUS MAHINOTOKA",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "O TITUS",
+      "abbreviation": "Tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "O FILEMON",
+      "abbreviation": "Flm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "O IBRANI",
+      "abbreviation": "Ibr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "O YAKOBUS",
+      "abbreviation": "Yak"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "O PETRUS MADODIHIRAKA",
+      "abbreviation": "1Pet"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "O PETRUS MAHINOTOKA",
+      "abbreviation": "2Pet"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "O YOHANIS MADODIHIRAKA",
+      "abbreviation": "1Yoh"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "O YOHANIS MAHINOTOKA",
+      "abbreviation": "2Yoh"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "O YOHANIS MAHANGEOKA",
+      "abbreviation": "3Yoh"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "O YUDAS",
+      "abbreviation": "Yud"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "O HIMATOKO",
+      "abbreviation": "Him"
+    }
+  ]
+}

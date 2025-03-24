@@ -1,0 +1,408 @@
+{
+  "id": "urk",
+  "language": "urk",
+  "name": "Urak Lawoi\u0027",
+  "alt_name": "Urak Lawoi’",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ลามูลา",
+      "abbreviation": "ลมล"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "บราเกะ ลารี",
+      "abbreviation": "บรล"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "เลวี",
+      "abbreviation": "เลว"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "กีรา",
+      "abbreviation": "กรา"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ปือมือเลา ฮูโกบ",
+      "abbreviation": "ปฮก"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "โยซูวา",
+      "abbreviation": "ยซว"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ซือมียา กรัจ ฮูโกบ",
+      "abbreviation": "ซกฮ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "รูด",
+      "abbreviation": "รด"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 ซามูเอน",
+      "abbreviation": "1ซม"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 ซามูเอน",
+      "abbreviation": "2ซม"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 ราฌา",
+      "abbreviation": "1รฌ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 ราฌา",
+      "abbreviation": "2รฌ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 จรือตา",
+      "abbreviation": "1จร"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 จรือตา",
+      "abbreviation": "2จร"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "เอซรา",
+      "abbreviation": "อซร"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "เนฮะมียา",
+      "abbreviation": "นมย"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "เอซะเทอ",
+      "abbreviation": "อซท"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "โยบ",
+      "abbreviation": "โยบ"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ลาฆู มือญาญี",
+      "abbreviation": "มปต"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ฮาดัจ",
+      "abbreviation": "ฮปอ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ซือมียา อาฌัยํ",
+      "abbreviation": "ซอฌ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "มือญาญี นะ ซาโลมอน",
+      "abbreviation": "มซล"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "อิซายา",
+      "abbreviation": "อซย"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "เยเรมียา",
+      "abbreviation": "ยรม"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "บือปาโตด",
+      "abbreviation": "บปต"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "เอเซเคียน",
+      "abbreviation": "อซค"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ดาเนียน",
+      "abbreviation": "ดนย"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "โฮเชยา",
+      "abbreviation": "ฮชย"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "โยเอน",
+      "abbreviation": "โยล"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "อาโมด",
+      "abbreviation": "อมด"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "โอบาดียา",
+      "abbreviation": "อบด"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "โยนา",
+      "abbreviation": "โยน"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "มีคา",
+      "abbreviation": "มคา"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "นาฮูม",
+      "abbreviation": "นฮม"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ฮาบากุก",
+      "abbreviation": "ฮบก"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "เซฟันยา",
+      "abbreviation": "ซฟย"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ฮักกัย",
+      "abbreviation": "ฮกก"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ซะคารียา",
+      "abbreviation": "ซคร"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "มาลาคี",
+      "abbreviation": "มลค"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "มัดทัย",
+      "abbreviation": "มท"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "มาระโก",
+      "abbreviation": "มก"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ลูกา",
+      "abbreviation": "ลก"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "โยฮัน",
+      "abbreviation": "ยน"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "ปือบูวัจ",
+      "abbreviation": "ปบ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "โรม",
+      "abbreviation": "รม"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 โกริน",
+      "abbreviation": "1กร"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 โกริน",
+      "abbreviation": "2กร"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ฆาลาเตีย",
+      "abbreviation": "ฆล"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "เอเฟซัด",
+      "abbreviation": "อฟ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ฟีลิบปี",
+      "abbreviation": "ฟป"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "โกโลซี",
+      "abbreviation": "กซ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 เทซะโลนิกา",
+      "abbreviation": "1ทซ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 เทซะโลนิกา",
+      "abbreviation": "2ทซ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 ทิโมที",
+      "abbreviation": "1ทท"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 ทิโมที",
+      "abbreviation": "2ทท"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ทีตัด",
+      "abbreviation": "ทต"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ฟีเลโมน",
+      "abbreviation": "ฟม"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ฮีบรู",
+      "abbreviation": "ฮบ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ยากอบ",
+      "abbreviation": "ยก"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 เปโตร",
+      "abbreviation": "1ปต"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 เปโตร",
+      "abbreviation": "2ปต"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 โยฮัน",
+      "abbreviation": "1ยน"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 โยฮัน",
+      "abbreviation": "2ยน"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 โยฮัน",
+      "abbreviation": "3ยน"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ยูดา",
+      "abbreviation": "ยด"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ปลีฮัจ",
+      "abbreviation": "ปล"
+    }
+  ]
+}

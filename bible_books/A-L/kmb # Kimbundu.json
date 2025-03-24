@@ -1,0 +1,408 @@
+{
+  "id": "kmb",
+  "language": "kmb",
+  "name": "Kimbundu",
+  "alt_name": "Kimbundu",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Dimatekenu",
+      "abbreviation": "Dimatekenu"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Makatukilu",
+      "abbreviation": "Makatukilu"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Ijila",
+      "abbreviation": "Ijila"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Dialuilu",
+      "abbreviation": "Dialuilu"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Matendelelu",
+      "abbreviation": "Matendelelu"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Josuué",
+      "abbreviation": "Josuué"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Afundixi",
+      "abbreviation": "Afundixi"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Lute",
+      "abbreviation": "Lute"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "I Samuuele",
+      "abbreviation": "I Samuuele"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "II Samuuele",
+      "abbreviation": "II Samuuele"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "I Jisobha",
+      "abbreviation": "I Jisobha"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "II Jisobha",
+      "abbreviation": "II Jisobha"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "I Malunda",
+      "abbreviation": "I Malunda"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "II Malunda",
+      "abbreviation": "II Malunda"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ejidala",
+      "abbreviation": "Ejidala"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemiia",
+      "abbreviation": "Nehemiia"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Estere",
+      "abbreviation": "Estere"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Jobe",
+      "abbreviation": "Jobe"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Jisálamu",
+      "abbreviation": "Jisálamu"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Jisabhu",
+      "abbreviation": "Jisabhu"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Ndongixi",
+      "abbreviation": "Ndongixi"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Mukumbi ua Mikumbi",
+      "abbreviation": "Mukumbi ua Mikumbi"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Izaía",
+      "abbreviation": "Izaía"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jelemiia",
+      "abbreviation": "Jelemiia"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Kuditenda",
+      "abbreviation": "Kuditenda"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Izekiiele",
+      "abbreviation": "Izekiiele"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniiele",
+      "abbreviation": "Daniiele"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hozeia",
+      "abbreviation": "Hozeia"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Jouele",
+      "abbreviation": "Jouele"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amoji",
+      "abbreviation": "Amoji"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadiia",
+      "abbreviation": "Obadiia"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jona",
+      "abbreviation": "Jona"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mikeia",
+      "abbreviation": "Mikeia"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahumu",
+      "abbreviation": "Nahumu"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habakuke",
+      "abbreviation": "Habakuke"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sofoniia",
+      "abbreviation": "Sofoniia"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Ajeu",
+      "abbreviation": "Ajeu"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zakadiia",
+      "abbreviation": "Zakadiia"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malakiia",
+      "abbreviation": "Malakiia"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Matesu",
+      "abbreviation": "Matesu"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Marku",
+      "abbreviation": "Marku"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luka",
+      "abbreviation": "Luka"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Nzuá",
+      "abbreviation": "Nzuá"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Jipoxolo",
+      "abbreviation": "Jipoxolo"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Loma",
+      "abbreviation": "Loma"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "I Kolindo",
+      "abbreviation": "I Kolindo"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "II Kolindo",
+      "abbreviation": "II Kolindo"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Ngalásia",
+      "abbreviation": "Ngalásia"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efezo",
+      "abbreviation": "Efezo"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipe",
+      "abbreviation": "Filipe"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolose",
+      "abbreviation": "Kolose"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "I Tesalonika",
+      "abbreviation": "I Tesalonika"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "II Tesalonika",
+      "abbreviation": "II Tesalonika"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "I Timote",
+      "abbreviation": "I Timote"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "II Timote",
+      "abbreviation": "II Timote"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tito",
+      "abbreviation": "Tito"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemone",
+      "abbreviation": "Filemone"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Jihebeleu",
+      "abbreviation": "Jihebeleu"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Tiiaku",
+      "abbreviation": "Tiiaku"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "I Phetele",
+      "abbreviation": "I Phetele"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "II Phetele",
+      "abbreviation": "II Phetele"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "I Nzuá",
+      "abbreviation": "I Nzuá"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "II Nzuá",
+      "abbreviation": "II Nzuá"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "III Nzuá",
+      "abbreviation": "III Nzuá"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Juda",
+      "abbreviation": "Juda"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Dijingunuinu",
+      "abbreviation": "Dijingunuinu"
+    }
+  ]
+}

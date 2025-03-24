@@ -1,0 +1,408 @@
+{
+  "id": "llp",
+  "language": "llp",
+  "name": "North Efate",
+  "alt_name": "Nguna",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "JENESIS",
+      "abbreviation": "JEN"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "EKSODAS",
+      "abbreviation": "EKS"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "LEVITIKO",
+      "abbreviation": "LEV"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "NUMBERS",
+      "abbreviation": "NUM"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "DEUTERONOMY",
+      "abbreviation": "DE"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "YOSHUA",
+      "abbreviation": "YOS"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "TEA VASAP̃OTAE MAGA",
+      "abbreviation": "TEAV"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "RUTH",
+      "abbreviation": "RUT"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 SAMUEL",
+      "abbreviation": "1SAML"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 SAMUEL",
+      "abbreviation": "2SAML"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 NAWOTA MAGA",
+      "abbreviation": "1NAW"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 NAWOTA MAGA",
+      "abbreviation": "2NAW"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 KRONIKEL MAGA",
+      "abbreviation": "1KRON"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 KRONIKEL MAGA",
+      "abbreviation": "2KRON"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ESRA",
+      "abbreviation": "ESRA"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "NEHEMIA",
+      "abbreviation": "NEH"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ESTHER",
+      "abbreviation": "EST"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "YOB",
+      "abbreviation": "YOB"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "SALAMO",
+      "abbreviation": "SAL"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "NALULUAKIA MAGA",
+      "abbreviation": "NAL"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "TEA TAPAVANAU",
+      "abbreviation": "TEA T"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "NALEGAANA NI NALEGAANA MAGA",
+      "abbreviation": "NALE"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ISA",
+      "abbreviation": "ISA"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "YEREMIAH",
+      "abbreviation": "YER"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "NATAGISIANA MAGA",
+      "abbreviation": "NAT"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ESEKIEL",
+      "abbreviation": "ESE"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "DANIEL",
+      "abbreviation": "DAN"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "HOSEA",
+      "abbreviation": "HOS"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "YOEL",
+      "abbreviation": "YOE"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "AMOS",
+      "abbreviation": "AMO"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "OBADIAH",
+      "abbreviation": "OBA"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "YONAH",
+      "abbreviation": "YONA"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "MAIKA",
+      "abbreviation": "MAE"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "NAHUM",
+      "abbreviation": "NAH"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "HABAKUK",
+      "abbreviation": "HAB"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "SEFANIAH",
+      "abbreviation": "SEF"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "HAKAI",
+      "abbreviation": "HAK"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "SEKARIAH",
+      "abbreviation": "SEK"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "MALAKAI",
+      "abbreviation": "MAL"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "MATAIO",
+      "abbreviation": "MAT"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "MARKO",
+      "abbreviation": "MAK"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "LUKA",
+      "abbreviation": "LUK"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "YOANE",
+      "abbreviation": "YON"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "APOSTOLO MAGA",
+      "abbreviation": "NAW"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "PAKI TEA NI ROMA",
+      "abbreviation": "ROM"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 PAKI TEA NI KORINTHO",
+      "abbreviation": "1KOR"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "PAKI TEA NI KORINTHO",
+      "abbreviation": "2KOR"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "PAKI TEA NE CALATIA",
+      "abbreviation": "CAL"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "PAKI TEA NE EFESO",
+      "abbreviation": "EFE"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "PAKI TEA E FILIPPI",
+      "abbreviation": "FIL"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "PAKI TEA NI KOLOSSE",
+      "abbreviation": "KOL"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 PAKI TEA NI THESSALONIKA",
+      "abbreviation": "1TES"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 PAKI TEA NI THESSALONICA",
+      "abbreviation": "2TES"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 TIMOTHEO",
+      "abbreviation": "1TIM"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 TIMOTHEO",
+      "abbreviation": "2TIM"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "PAKI TITO",
+      "abbreviation": "TIT"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "PAKI FILEMON",
+      "abbreviation": "FLM"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "PAKI HEBERU MAGA",
+      "abbreviation": "HIB"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "KI YAKOBO",
+      "abbreviation": "YAK"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 KI PETERO",
+      "abbreviation": "1PET"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 KI PETERO",
+      "abbreviation": "2PET"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 KI YOANE",
+      "abbreviation": "1YON"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 KI YOANE",
+      "abbreviation": "2YON"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 KI YOANE",
+      "abbreviation": "3YON"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "KI YUDA",
+      "abbreviation": "YUD"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "APOKALUPESI",
+      "abbreviation": "APUK"
+    }
+  ]
+}

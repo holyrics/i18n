@@ -1,0 +1,408 @@
+{
+  "id": "ga",
+  "language": "ga",
+  "name": "Irish",
+  "alt_name": "Gaeilge (cló Gaelach)",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Genesis",
+      "abbreviation": "Genesis"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Exodus",
+      "abbreviation": "Exodus"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Leḃiticus",
+      "abbreviation": "Leḃ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Uiḃreaċa",
+      "abbreviation": "Uiḃr"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Deuteronomi",
+      "abbreviation": "Deut"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Iosua",
+      "abbreviation": "Iosua"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Breiṫeaṁuin",
+      "abbreviation": "Breiṫ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rut",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "I Samuel",
+      "abbreviation": "1Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "II Samuel",
+      "abbreviation": "2Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "I Rioġ",
+      "abbreviation": "1Rioġ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "II Rioġ",
+      "abbreviation": "2Rioġ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "I Croinicoiḃ",
+      "abbreviation": "1Croinic"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "II Croinicliḃ",
+      "abbreviation": "2Croinic"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Esra",
+      "abbreviation": "Esra"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemia",
+      "abbreviation": "Nehemia"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ester",
+      "abbreviation": "Ester"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Job",
+      "abbreviation": "Job"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Psailm",
+      "abbreviation": "Psailm"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Seanraite",
+      "abbreviation": "Seanraite"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Ecclesiastes",
+      "abbreviation": "Eccl"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Caintic Ṡolaiṁ",
+      "abbreviation": "Caintic"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Isaiah",
+      "abbreviation": "Isaiah"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Ieremiah",
+      "abbreviation": "Ieremiah"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Triaḃuin",
+      "abbreviation": "Triaḃuin"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Eseċiel",
+      "abbreviation": "Eseċiel"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniel",
+      "abbreviation": "Daniel"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hosea",
+      "abbreviation": "Hosea"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Ioel",
+      "abbreviation": "Ioel"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amos",
+      "abbreviation": "Amos"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadiah",
+      "abbreviation": "Obadiah"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jonah",
+      "abbreviation": "Jonah"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Micah",
+      "abbreviation": "Micah"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahum",
+      "abbreviation": "Nahum"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habaccuc",
+      "abbreviation": "Habac"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Seṗaniah",
+      "abbreviation": "Seṗ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Haggai",
+      "abbreviation": "Haggai"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Seċariah",
+      "abbreviation": "Seċ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malaċi",
+      "abbreviation": "Malaċi"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Ṁaṫa",
+      "abbreviation": "Ṁaṫa"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Marcus",
+      "abbreviation": "Marcus"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Lúcas",
+      "abbreviation": "Lúcas"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Eóin",
+      "abbreviation": "Eóin"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Gníoṁarṫa",
+      "abbreviation": "Gníoṁ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Roṁánaċ",
+      "abbreviation": "Rom"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "I Ccorintiánaċ",
+      "abbreviation": "1Ccor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "II Ccorintiánaċ",
+      "abbreviation": "2Ccor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galatiánaċ",
+      "abbreviation": "Galat"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Heṗesiánaċ",
+      "abbreviation": "Heṗ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Ḃfilippiánaċ",
+      "abbreviation": "Ḃfil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Ccolossianaċ",
+      "abbreviation": "Ccol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "I Ttessalonicanaċ",
+      "abbreviation": "1Ttess"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "II Ttessalonicanaċ",
+      "abbreviation": "2Ttess"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "I Timóteuis",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "II Timóteuis",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tituis",
+      "abbreviation": "Tituis"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Ṗilémoin",
+      "abbreviation": "Ṗilém"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Neaḃruiḋeaċ",
+      "abbreviation": "Neaḃ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Ṡeamuis",
+      "abbreviation": "Ṡeamuis"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "I Ṗeadair",
+      "abbreviation": "1Ṗead"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "II Ṗeadair",
+      "abbreviation": "2Ṗead"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "I Eóin",
+      "abbreviation": "1Eóin"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "II Eóin",
+      "abbreviation": "2Eóin"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "III Eóin",
+      "abbreviation": "3Eóin"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Iudais",
+      "abbreviation": "Iudais"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Taisbeunaḋ",
+      "abbreviation": "Taisb"
+    }
+  ]
+}

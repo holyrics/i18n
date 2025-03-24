@@ -1,0 +1,408 @@
+{
+  "id": "fud",
+  "language": "fud",
+  "name": "East Futuna",
+  "alt_name": "Futuna, East",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Senesi",
+      "abbreviation": "Senesi"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Ekesote",
+      "abbreviation": "Ekesote"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Levitiko",
+      "abbreviation": "Levitiko"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Numelo",
+      "abbreviation": "Numelo"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Tetelonome",
+      "abbreviation": "Tetelonome"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Sosue",
+      "abbreviation": "Sosue"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Tuifakamaau",
+      "abbreviation": "Tuifakamaau"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Lute",
+      "abbreviation": "Lute"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "Uluaki tosi a Samuele",
+      "abbreviation": "Uluaki tosi a Samuele"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "Lua tosi a Samuele",
+      "abbreviation": "Lua tosi a Samuele"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "Uluaki tosi o Sau",
+      "abbreviation": "Uluaki tosi o Sau"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "Lua tosi o Sau",
+      "abbreviation": "Lua tosi o Sau"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "Uluaki tosi o Koloniko",
+      "abbreviation": "Uluaki tosi o Koloniko"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "Lua tosi o Koloniko",
+      "abbreviation": "Lua tosi o Koloniko"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Esetalasi",
+      "abbreviation": "Esetalasi"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Neemia",
+      "abbreviation": "Neemia"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Esitele",
+      "abbreviation": "Esitele"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Sopo",
+      "abbreviation": "Sopo"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Pesalemo",
+      "abbreviation": "Pesalemo"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Taagapati",
+      "abbreviation": "Taagapati"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Ekelesiasi",
+      "abbreviation": "Ekelesiasi"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Katiko o Katiko",
+      "abbreviation": "Katiko o Katiko"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Esaia",
+      "abbreviation": "Esaia"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Selemia",
+      "abbreviation": "Selemia"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Tagi laulau a Selemia",
+      "abbreviation": "Tagi laulau a Selemia"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Esekiele",
+      "abbreviation": "Esekiele"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Taniela",
+      "abbreviation": "Taniela"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Oseo",
+      "abbreviation": "Oseo"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Soele",
+      "abbreviation": "Soele"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amosi",
+      "abbreviation": "Amosi"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Apetiasi",
+      "abbreviation": "Apetiasi"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Sonasi",
+      "abbreviation": "Sonasi"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mikea",
+      "abbreviation": "Mikea"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Naume",
+      "abbreviation": "Naume"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Apakuki",
+      "abbreviation": "Apakuki"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sofoni",
+      "abbreviation": "Sofoni"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Akeseo",
+      "abbreviation": "Akeseo"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Sakalia",
+      "abbreviation": "Sakalia"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malakia",
+      "abbreviation": "Malakia"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Mateo",
+      "abbreviation": "Mateo"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Maleko",
+      "abbreviation": "Maleko"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luka",
+      "abbreviation": "Luka"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Soane",
+      "abbreviation": "Soane"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Gaoi",
+      "abbreviation": "Gaoi"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Loma",
+      "abbreviation": "Loma"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "Uluaki tosi ki le kau Kolinto",
+      "abbreviation": "Uluaki tosi ki le kau Kolinto"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "Lua tosi ki le kau Kolinto",
+      "abbreviation": "Lua tosi ki le kau Kolinto"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Kalate",
+      "abbreviation": "Kalate"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efeso",
+      "abbreviation": "Efeso"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipe",
+      "abbreviation": "Filipe"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolose",
+      "abbreviation": "Kolose"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "Uluaki tosi ki le kau Tesalonika",
+      "abbreviation": "Uluaki tosi ki le kau Tesalonika"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "Lua tosi ki le kau Tesalonika",
+      "abbreviation": "Lua tosi ki le kau Tesalonika"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "Uluaki tosi kia Timoteo",
+      "abbreviation": "Uluaki tosi kia Timoteo"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "Lua tosi kia Timoteo",
+      "abbreviation": "Lua tosi kia Timoteo"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tito",
+      "abbreviation": "Tito"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemo",
+      "abbreviation": "Filemo"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Epelo",
+      "abbreviation": "Epelo"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Sakopo",
+      "abbreviation": "Sakopo"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "Uluaki tosi a Petelo",
+      "abbreviation": "Uluaki tosi a Petelo"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "Lua tosi a Petelo",
+      "abbreviation": "Lua tosi a Petelo"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "Uluaki tosi a Soane",
+      "abbreviation": "Uluaki tosi a Soane"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "Lua tosi a Soane",
+      "abbreviation": "Lua tosi a Soane"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "Tolu tosi a Soane",
+      "abbreviation": "Tolu tosi a Soane"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Suta",
+      "abbreviation": "Suta"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Apokalipisi",
+      "abbreviation": "Apokalipisi"
+    }
+  ]
+}

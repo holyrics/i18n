@@ -1,0 +1,408 @@
+{
+  "id": "iai",
+  "language": "iai",
+  "name": "Iaai",
+  "alt_name": "Iaai",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Genese",
+      "abbreviation": "Genese"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Esodo",
+      "abbreviation": "Esodo"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Levitiko",
+      "abbreviation": "Levitiko"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Numera",
+      "abbreviation": "Numera"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Deuteronomi",
+      "abbreviation": "Deuteronomi"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Josua",
+      "abbreviation": "Josua"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Owisa",
+      "abbreviation": "Owisa"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rutha",
+      "abbreviation": "Rutha"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "I. Samuela",
+      "abbreviation": "I. Samuela"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "II. Samuela",
+      "abbreviation": "II. Samuela"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "I. Je Than",
+      "abbreviation": "I. Je Than"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "II. Je Than",
+      "abbreviation": "II. Je Than"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "I. Man Ûlabainy Je Than.",
+      "abbreviation": "I. Man Ûlabainy Je Than"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "II. Man Ûlabainy Je Than.",
+      "abbreviation": "II. Man Ûlabainy Je Than"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ezera",
+      "abbreviation": "Ezera"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemia",
+      "abbreviation": "Tusi Nehemia"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Esetera",
+      "abbreviation": "Esetera"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Jobu",
+      "abbreviation": "Jobu"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Salamo",
+      "abbreviation": "Salamo"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Ta je Vejec",
+      "abbreviation": "Ta je Vejec"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "At Khet",
+      "abbreviation": "At Khet"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Khumöng Hwanyi Solomona.",
+      "abbreviation": "Khumöng Hwanyi Solomona"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Isaia",
+      "abbreviation": "Isaia"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jeremia",
+      "abbreviation": "Jeremia"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Je tenge anyi Jeremi",
+      "abbreviation": "Je tenge anyi Jeremia"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ezekiela",
+      "abbreviation": "Ezekiela"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniela",
+      "abbreviation": "Daniela"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hosea",
+      "abbreviation": "Hosea"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Joela",
+      "abbreviation": "Joela"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amosa",
+      "abbreviation": "Amosa"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadia",
+      "abbreviation": "Obadia"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jona",
+      "abbreviation": "Jona"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mika",
+      "abbreviation": "Mika"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahuma",
+      "abbreviation": "Nahuma"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habakuka",
+      "abbreviation": "Habakuka"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Zefania",
+      "abbreviation": "Zefania"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Hagai",
+      "abbreviation": "Hagai"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zakaria",
+      "abbreviation": "Zakaria"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malaki",
+      "abbreviation": "Malaki"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Mataio",
+      "abbreviation": "Mataio"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Mareko",
+      "abbreviation": "Mareko"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luka",
+      "abbreviation": "Luka"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Ioane",
+      "abbreviation": "Ioane"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Ta je huliwa",
+      "abbreviation": "Ta je huliwa"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Roma",
+      "abbreviation": "Roma"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "I. Korinito",
+      "abbreviation": "I. Korinito"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "II. Korinito",
+      "abbreviation": "II. Korinito"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galatia",
+      "abbreviation": "Galatia"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efeso",
+      "abbreviation": "Efeso"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipi",
+      "abbreviation": "Filipi"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolose",
+      "abbreviation": "Kolose"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "I. Thesalonika",
+      "abbreviation": "I. Thesalonika"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "II. Thesalonika.",
+      "abbreviation": "II. Thesalonika"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "I. Timoteo",
+      "abbreviation": "I. Timoteo"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "II. Timoteo",
+      "abbreviation": "II. Timoteo"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tito",
+      "abbreviation": "Tito"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemona",
+      "abbreviation": "Filemona"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Heberu",
+      "abbreviation": "Heberu"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Iakobo",
+      "abbreviation": "jm"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "I. Peteru",
+      "abbreviation": "I. Peteru"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "II. Peteru",
+      "abbreviation": "II. Peteru"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "I. Ioane",
+      "abbreviation": "I. Ioane"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "II. Ioane",
+      "abbreviation": "II. Ioane"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "III. Ioane",
+      "abbreviation": "III. Ioane"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Juda",
+      "abbreviation": "Juda"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Hna Omanenâ",
+      "abbreviation": "Hna Omanenâ"
+    }
+  ]
+}

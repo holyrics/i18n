@@ -1,0 +1,408 @@
+{
+  "id": "nbc",
+  "language": "nbc",
+  "name": "Chang Naga",
+  "alt_name": "Chang Naga",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "KAOBAK",
+      "abbreviation": "Kao"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "LEIYENBÜ",
+      "abbreviation": "Leiy"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "LEVI",
+      "abbreviation": "Lev"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "WEJAKBÜ",
+      "abbreviation": "Wej"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "NGÜHKÜPAIBÜ",
+      "abbreviation": "NA"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "JOSHUA",
+      "abbreviation": "Jos"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "MATJEMBÜSHUONG",
+      "abbreviation": "Matj"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "RUT",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 SAMUEL",
+      "abbreviation": "1Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 SAMUEL",
+      "abbreviation": "2Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 CHOBA SHUONG",
+      "abbreviation": "1Cho"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 CHOBA SHUONG",
+      "abbreviation": "2Cho"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 LÜNGBÜDOBÜ",
+      "abbreviation": "1Ld"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 LÜNGBÜDOBÜ",
+      "abbreviation": "2Ld"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "EZRA",
+      "abbreviation": "Ezr"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "NEHEMIA",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ESTHER",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "JOB",
+      "abbreviation": "Job"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "NYENSANG CHIA",
+      "abbreviation": "NC"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "TETENTANBÜ",
+      "abbreviation": "Tet"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "SONGLENDOLEN",
+      "abbreviation": "Song"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "SOLOMON CHIA",
+      "abbreviation": "Chia"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ISAIA",
+      "abbreviation": "Isa"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "JEREMIA",
+      "abbreviation": "Jer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ÜGÜTÜ",
+      "abbreviation": "Ügü"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "EZEKIEL",
+      "abbreviation": "Eze"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "DANIEL",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "HOSEA",
+      "abbreviation": "Hos"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "JOEL",
+      "abbreviation": "Jol"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "AMOS",
+      "abbreviation": "Amo"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "OBADIA",
+      "abbreviation": "Oba"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "JONA",
+      "abbreviation": "Jon"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "MIKA",
+      "abbreviation": "Mik"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "NAHUM",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "HABAKUK",
+      "abbreviation": "Hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ZEFANIA",
+      "abbreviation": "Zef"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "HAGAI",
+      "abbreviation": "Hag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ZEKHARIA",
+      "abbreviation": "Zec"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "MALAKHI",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "MATHI",
+      "abbreviation": "Mt"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "MARK",
+      "abbreviation": "Mk"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "LUK",
+      "abbreviation": "Lk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "JOHAN",
+      "abbreviation": "Jn"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "YOUKOIKJAI",
+      "abbreviation": "Ykj"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ROM",
+      "abbreviation": "Rom"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 KORINT",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 KORINT",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "GALATIA",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "EFESIA",
+      "abbreviation": "Efe"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "FILIPI",
+      "abbreviation": "Fil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "KOLOSI",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 THESALONIKA",
+      "abbreviation": "1Thes"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 THESALONIKA",
+      "abbreviation": "2Thes"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 TIMOTI",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 TIMOTI",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "TITA",
+      "abbreviation": "Tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "FILEMON",
+      "abbreviation": "File"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "IBRI",
+      "abbreviation": "Ibr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "JAKOB",
+      "abbreviation": "Jkb"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 PETER",
+      "abbreviation": "1Pet"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 PETER",
+      "abbreviation": "2Pet"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 JOHAN",
+      "abbreviation": "1Jn"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 JOHAN",
+      "abbreviation": "2Jn"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 JOHAN",
+      "abbreviation": "3Jn"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "JUDA",
+      "abbreviation": "Jda"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "TANGKHITBÜ",
+      "abbreviation": "Tk"
+    }
+  ]
+}

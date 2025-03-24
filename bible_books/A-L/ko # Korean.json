@@ -1,0 +1,408 @@
+{
+  "id": "ko",
+  "language": "ko",
+  "name": "Korean",
+  "alt_name": "한국어",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "창세기",
+      "abbreviation": "창"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "출애굽기",
+      "abbreviation": "출"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "레위기",
+      "abbreviation": "레"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "민수기",
+      "abbreviation": "민"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "신명기",
+      "abbreviation": "신"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "여호수아",
+      "abbreviation": "수"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "사사기",
+      "abbreviation": "삿"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "룻기",
+      "abbreviation": "룻"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "사무엘상",
+      "abbreviation": "삼상"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "사무엘하",
+      "abbreviation": "삼하"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "열왕기상",
+      "abbreviation": "왕상"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "열왕기하",
+      "abbreviation": "왕하"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "역대상",
+      "abbreviation": "대상"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "역대하",
+      "abbreviation": "대하"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "에스라",
+      "abbreviation": "스"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "느헤미야",
+      "abbreviation": "느"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "에스더",
+      "abbreviation": "에"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "욥기",
+      "abbreviation": "욥"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "시편",
+      "abbreviation": "시"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "잠언",
+      "abbreviation": "잠"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "전도서",
+      "abbreviation": "전"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "아가",
+      "abbreviation": "아"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "이사야",
+      "abbreviation": "사"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "예레미야",
+      "abbreviation": "렘"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "예레미야애가",
+      "abbreviation": "애"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "에스겔",
+      "abbreviation": "겔"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "다니엘",
+      "abbreviation": "단"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "호세아",
+      "abbreviation": "호"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "요엘",
+      "abbreviation": "욜"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "아모스",
+      "abbreviation": "암"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "오바댜",
+      "abbreviation": "옵"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "요나",
+      "abbreviation": "욘"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "미가",
+      "abbreviation": "미"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "나훔",
+      "abbreviation": "나"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "하박국",
+      "abbreviation": "합"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "스바냐",
+      "abbreviation": "습"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "학개",
+      "abbreviation": "학"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "스가랴",
+      "abbreviation": "슥"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "말라기",
+      "abbreviation": "말"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "마태복음",
+      "abbreviation": "마"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "마가복음",
+      "abbreviation": "막"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "누가복음",
+      "abbreviation": "눅"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "요한복음",
+      "abbreviation": "요"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "사도행전",
+      "abbreviation": "행"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "로마서",
+      "abbreviation": "롬"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "고린도전서",
+      "abbreviation": "고전"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "고린도후서",
+      "abbreviation": "고후"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "갈라디아서",
+      "abbreviation": "갈"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "에베소서",
+      "abbreviation": "엡"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "빌립보서",
+      "abbreviation": "빌"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "골로새서",
+      "abbreviation": "골"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "데살로니가전서",
+      "abbreviation": "살전"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "데살로니가후서",
+      "abbreviation": "살후"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "디모데전서",
+      "abbreviation": "딤전"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "디모데후서",
+      "abbreviation": "딤후"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "디도서",
+      "abbreviation": "딛"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "빌레몬서",
+      "abbreviation": "본"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "히브리서",
+      "abbreviation": "히"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "야고보서",
+      "abbreviation": "약"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "베드로전서",
+      "abbreviation": "벧전"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "베드로후서",
+      "abbreviation": "벧후"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "요한일서",
+      "abbreviation": "요일"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "요한이서",
+      "abbreviation": "요이"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "요한삼서",
+      "abbreviation": "요삼"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "유다서",
+      "abbreviation": "유"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "요한계시록",
+      "abbreviation": "계"
+    }
+  ]
+}

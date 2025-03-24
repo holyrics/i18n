@@ -1,0 +1,408 @@
+{
+  "id": "sgw",
+  "language": "sgw",
+  "name": "Sebat Bet Gurage",
+  "alt_name": "ሰባትቤት",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ፍጥ.",
+      "abbreviation": "gn"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ዘፃት",
+      "abbreviation": "ex"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ሌዊ",
+      "abbreviation": "lv"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ዝር",
+      "abbreviation": "nm"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ዘዳ.",
+      "abbreviation": "dt"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "ኢያሱ",
+      "abbreviation": "jos"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "መሳ.",
+      "abbreviation": "jg"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ሩት",
+      "abbreviation": "ru"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1ነ ሳሙ.",
+      "abbreviation": "1sm"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2ነ ሳሙ.",
+      "abbreviation": "2sm"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1ነ ነገ.",
+      "abbreviation": "1ki"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2ነ ነገ.",
+      "abbreviation": "2ki"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1ነ ዜና",
+      "abbreviation": "1ch"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2ነ ዜና",
+      "abbreviation": "2ch"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "እዝራ",
+      "abbreviation": "ezr"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ነኽ",
+      "abbreviation": "ne"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "አስ",
+      "abbreviation": "es"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ኢዮብ",
+      "abbreviation": "jb"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ዝምራ",
+      "abbreviation": "ps"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ወማ",
+      "abbreviation": "pr"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ሰባ",
+      "abbreviation": "ec"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "መጣፍ ተዝምራ ዝም",
+      "abbreviation": "so"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ኢሳ",
+      "abbreviation": "is"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ኤር",
+      "abbreviation": "jr"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ኤርብ",
+      "abbreviation": "la"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ኽዝ",
+      "abbreviation": "eze"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ዳን",
+      "abbreviation": "dn"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ኾሴ",
+      "abbreviation": "ho"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "ኢዩ",
+      "abbreviation": "jl"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "አሞፅ",
+      "abbreviation": "am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "አብ",
+      "abbreviation": "ob"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "ዮናስ",
+      "abbreviation": "jon"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "ሚክ",
+      "abbreviation": "mic"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ናኾም",
+      "abbreviation": "na"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "እን",
+      "abbreviation": "hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ሶፎ",
+      "abbreviation": "zp"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ኻጌ",
+      "abbreviation": "hg"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ዘካ",
+      "abbreviation": "zc"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ሚል",
+      "abbreviation": "ml"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "ማቴ.",
+      "abbreviation": "mt"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "ማር.",
+      "abbreviation": "mk"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ሉቃ.",
+      "abbreviation": "lk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "ዮኻ.",
+      "abbreviation": "jn"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "ና. ሜና.",
+      "abbreviation": "ac"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ሮሜ",
+      "abbreviation": "rm"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1ነ ቆሮ.",
+      "abbreviation": "1co"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2ነ ቆሮ.",
+      "abbreviation": "2co"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ገላ",
+      "abbreviation": "ga"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ኤፌ",
+      "abbreviation": "eph"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ፊል",
+      "abbreviation": "php"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ቆላ",
+      "abbreviation": "col"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1ነ ተሰ",
+      "abbreviation": "1th"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2ነ ተሰ",
+      "abbreviation": "2th"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1ነ ጢሞ",
+      "abbreviation": "1ti"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2ነ ጢሞ",
+      "abbreviation": "2ti"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ቲቶ",
+      "abbreviation": "tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ፊልሞና",
+      "abbreviation": "phm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "እብ",
+      "abbreviation": "heb"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ያእ",
+      "abbreviation": "jm"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1ነ ጴጥ",
+      "abbreviation": "1pe"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2ነ ጴጥ",
+      "abbreviation": "2pe"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1ነ ዮኻ",
+      "abbreviation": "1jo"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2ነ ዮኻ",
+      "abbreviation": "2jo"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3ነ ዮኻ",
+      "abbreviation": "3jo"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ይኹዳ",
+      "abbreviation": "jud"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ራዕይ",
+      "abbreviation": "rev"
+    }
+  ]
+}

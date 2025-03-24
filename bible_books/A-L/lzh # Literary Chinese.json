@@ -1,0 +1,408 @@
+{
+  "id": "lzh",
+  "language": "lzh",
+  "name": "Literary Chinese",
+  "alt_name": "文言（中文）",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "創世記",
+      "abbreviation": "創"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "出埃及記",
+      "abbreviation": "出"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "利未記",
+      "abbreviation": "利"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "民數記",
+      "abbreviation": "民"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "申命記",
+      "abbreviation": "申"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "約書亞記",
+      "abbreviation": "書"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "士師記",
+      "abbreviation": "士"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "路得記",
+      "abbreviation": "得"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "撒母耳記上",
+      "abbreviation": "撒上"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "撒母耳記下",
+      "abbreviation": "撒下"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "列王紀上",
+      "abbreviation": "王上"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "列王紀下",
+      "abbreviation": "王下"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "歷代志上",
+      "abbreviation": "代上"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "歷代志下",
+      "abbreviation": "代下"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "以斯拉記",
+      "abbreviation": "拉"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "尼希米記",
+      "abbreviation": "尼"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "以斯帖記",
+      "abbreviation": "斯"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "約伯記",
+      "abbreviation": "伯"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "詩篇",
+      "abbreviation": "詩"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "箴言",
+      "abbreviation": "箴"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "傳道書",
+      "abbreviation": "傳"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "雅歌",
+      "abbreviation": "歌"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "以賽亞書",
+      "abbreviation": "賽"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "耶利米書",
+      "abbreviation": "耶"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "耶利米哀歌",
+      "abbreviation": "哀"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "以西結書",
+      "abbreviation": "結"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "但以理書",
+      "abbreviation": "但"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "何西阿書",
+      "abbreviation": "何"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "約珥書",
+      "abbreviation": "珥"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "阿摩司書",
+      "abbreviation": "摩"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "俄巴底亞書",
+      "abbreviation": "俄"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "約拿書",
+      "abbreviation": "拿"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "彌迦書",
+      "abbreviation": "彌"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "那鴻書",
+      "abbreviation": "鴻"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "哈巴谷書",
+      "abbreviation": "哈"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "西番雅書",
+      "abbreviation": "番"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "哈該書",
+      "abbreviation": "該"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "撒迦利亞書",
+      "abbreviation": "亞"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "瑪拉基書",
+      "abbreviation": "瑪"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "馬太福音",
+      "abbreviation": "太"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "馬可福音",
+      "abbreviation": "可"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "路加福音",
+      "abbreviation": "路"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "約翰福音",
+      "abbreviation": "約"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "使徒行傳",
+      "abbreviation": "徒"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "羅馬書",
+      "abbreviation": "羅"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "哥林多前書",
+      "abbreviation": "林前"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "哥林多後書",
+      "abbreviation": "林後"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "加拉太書",
+      "abbreviation": "加"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "以弗所書",
+      "abbreviation": "弗"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "腓立比書",
+      "abbreviation": "腓"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "歌羅西書",
+      "abbreviation": "西"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "帖撒羅尼迦前書",
+      "abbreviation": "帖前"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "帖撒羅尼迦後書",
+      "abbreviation": "帖後"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "提摩太前書",
+      "abbreviation": "提前"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "提摩太後書",
+      "abbreviation": "提後"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "提多書",
+      "abbreviation": "多"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "腓利門書",
+      "abbreviation": "門"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "希伯來書",
+      "abbreviation": "來"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "雅各書",
+      "abbreviation": "雅"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "彼得前書",
+      "abbreviation": "彼前"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "彼得後書",
+      "abbreviation": "彼後"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "約翰一書",
+      "abbreviation": "約壹"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "約翰二書",
+      "abbreviation": "約贰"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "約翰三書",
+      "abbreviation": "約叁"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "猶大書",
+      "abbreviation": "猶"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "啟示錄",
+      "abbreviation": "啟"
+    }
+  ]
+}

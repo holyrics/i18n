@@ -1,0 +1,408 @@
+{
+  "id": "pov",
+  "language": "pov",
+  "name": "Upper Guinea Crioulo",
+  "alt_name": "Crioulo, Upper Guinea",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Kumsada",
+      "abbreviation": "Kum"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Saida",
+      "abbreviation": "Sai"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Sirmonias",
+      "abbreviation": "Sir"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Numerus",
+      "abbreviation": "Num"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Ripitison di Lei",
+      "abbreviation": "Lei"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Josué",
+      "abbreviation": "Jos"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Ŝefis",
+      "abbreviation": "Ŝef"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Ruti",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Samuel",
+      "abbreviation": "1Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Samuel",
+      "abbreviation": "2Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 Reis",
+      "abbreviation": "1Re"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 Reis",
+      "abbreviation": "2Re"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Kronikas",
+      "abbreviation": "1Kron"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Kronikas",
+      "abbreviation": "2Kron"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Esdras",
+      "abbreviation": "Esd"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Neemias",
+      "abbreviation": "Ne"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ester",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Jo",
+      "abbreviation": "Jo"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Salmus",
+      "abbreviation": "Sal"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Ditus",
+      "abbreviation": "Dit"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Eklesiastis",
+      "abbreviation": "Ekl"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Kantiga di Salomon",
+      "abbreviation": "Kan"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Isaias",
+      "abbreviation": "Is"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jeremias",
+      "abbreviation": "Jer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Miskiñu di Jeremias",
+      "abbreviation": "Mis"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ezekiel",
+      "abbreviation": "Ez"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniel",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Oseias",
+      "abbreviation": "Os"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Joel",
+      "abbreviation": "Joe"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amos",
+      "abbreviation": "Am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadias",
+      "abbreviation": "Ob"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jonas",
+      "abbreviation": "Jona"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mikeias",
+      "abbreviation": "Mik"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Naun",
+      "abbreviation": "Naun"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Abakuk",
+      "abbreviation": "Ab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sofonias",
+      "abbreviation": "Sof"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Aẑeu",
+      "abbreviation": "Aẑeu"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zakarias",
+      "abbreviation": "Zak"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malakias",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Mateus",
+      "abbreviation": "Mat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Markus",
+      "abbreviation": "Mar"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Lukas",
+      "abbreviation": "Luk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Jon",
+      "abbreviation": "Jon"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Atus",
+      "abbreviation": "At"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Romanus",
+      "abbreviation": "Rom"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Koríntius",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Koríntius",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Gálatas",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efésius",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipensis",
+      "abbreviation": "Fil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolosensis",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Tesalonisensis",
+      "abbreviation": "1Tes"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Tesalonisensis",
+      "abbreviation": "2Tes"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Timótiu",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Timótiu",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Titu",
+      "abbreviation": "Titu"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemon",
+      "abbreviation": "Filem"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Ebreus",
+      "abbreviation": "Eb"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Tiagu",
+      "abbreviation": "Tia"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Pedru",
+      "abbreviation": "1Ped"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Pedru",
+      "abbreviation": "2Ped"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Jon",
+      "abbreviation": "1Jon"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Jon",
+      "abbreviation": "2Jon"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Jon",
+      "abbreviation": "3Jon"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Judas",
+      "abbreviation": "Jud"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Apokalipsi",
+      "abbreviation": "Apok"
+    }
+  ]
+}

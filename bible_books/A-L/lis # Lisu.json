@@ -1,0 +1,408 @@
+{
+  "id": "lis",
+  "language": "lis",
+  "name": "Lisu",
+  "alt_name": "Lisu",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "yi ce yi wu To L",
+      "abbreviation": "wu"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "do je To L",
+      "abbreviation": "do"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "lE-yi To L",
+      "abbreviation": "lE"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "p xy U To L",
+      "abbreviation": "U"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "jU k bA m. To L",
+      "abbreviation": "jU"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "yo-xu To L",
+      "abbreviation": "xu"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "bA mu xy, P To L",
+      "abbreviation": "bA"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ru-TE To L",
+      "abbreviation": "ru"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 s-mu-ye To L",
+      "abbreviation": "1mu"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 s-mu-ye To L",
+      "abbreviation": "2mu"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 w ti To L",
+      "abbreviation": "1w"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 w ti To L",
+      "abbreviation": "2w"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 c mi To L",
+      "abbreviation": "1mi"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 c mi To L",
+      "abbreviation": "2mi"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "E,-sL-l To L",
+      "abbreviation": "sL"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ni-y-m-y To L",
+      "abbreviation": "ni"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "E-sL-TE To L",
+      "abbreviation": "E"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "yo-be To L",
+      "abbreviation": "be"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "mu gw To L",
+      "abbreviation": "gw"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Vo jE To L",
+      "abbreviation": "jE"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "m. mi c P To L",
+      "abbreviation": "c"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "so-lo-mo mu gw To L",
+      "abbreviation": "so"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "yi-s-y To L",
+      "abbreviation": "s"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ye-li-mi To L",
+      "abbreviation": "ye"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "a CyH jE To L",
+      "abbreviation": "Cy"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "yi-xi-ce To L",
+      "abbreviation": "ce"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "d-ni-le To L",
+      "abbreviation": "d"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ho-xi-y To L",
+      "abbreviation": "ho"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "yo-L To L",
+      "abbreviation": "L"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "a-mo-si To L",
+      "abbreviation": "a"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "o-bD-d-y; To L",
+      "abbreviation": "o"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "yo,-n To L",
+      "abbreviation": "n"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "mi-KD: To L",
+      "abbreviation": "KD"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ne-yu-mD To L",
+      "abbreviation": "ne"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "h-b-KL To L",
+      "abbreviation": "h"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "RD-J-n-y; To L",
+      "abbreviation": "J"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "h-kD To L",
+      "abbreviation": "kD"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "s-cy-li-y To L",
+      "abbreviation": "cy"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "mA-lD-KD To L",
+      "abbreviation": "mA"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "m-Ti To L",
+      "abbreviation": "m"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "m-Ko To L",
+      "abbreviation": "Ko"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "lu-K To L",
+      "abbreviation": "lu"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "yo-v To L",
+      "abbreviation": "yo"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "fi du To L",
+      "abbreviation": "fi"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ro-m To L",
+      "abbreviation": "ro"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Ko-lE-Tu To L",
+      "abbreviation": "1lE"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Ko-lE-Tu To L",
+      "abbreviation": "2lE"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "g-l-Ti-y To L",
+      "abbreviation": "g"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "yi-Ju-so To L",
+      "abbreviation": "yi"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Pi-li-Pi To L",
+      "abbreviation": "li"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ko-lo-xi To L",
+      "abbreviation": "ko"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Te-s-lo-ni-y To L",
+      "abbreviation": "1Te"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Te-s-lo-ni-y To L",
+      "abbreviation": "2Te"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Ti-mo-Ti-wu To L",
+      "abbreviation": "1Ti"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Ti-mo-Ti-wu To L",
+      "abbreviation": "2Ti"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Ti-to To L",
+      "abbreviation": "to"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Pi-li-mD To L",
+      "abbreviation": "mD"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "vi-bE-ru To L",
+      "abbreviation": "vi"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "y-ku To L",
+      "abbreviation": "y"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Pi-TE To L",
+      "abbreviation": "1Pi"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Pi-TE To L",
+      "abbreviation": "2Pi"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 yo-v To L",
+      "abbreviation": "1yo"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 yo-v To L",
+      "abbreviation": "2yo"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 yo-v To L",
+      "abbreviation": "3yo"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "yu-t To L",
+      "abbreviation": "yu"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "mo gL du To L",
+      "abbreviation": "mo"
+    }
+  ]
+}

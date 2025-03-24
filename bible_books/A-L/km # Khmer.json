@@ -1,0 +1,408 @@
+{
+  "id": "km",
+  "language": "km",
+  "name": "Khmer",
+  "alt_name": "ភាសាខ្មែរ",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "លោកុប្បត្តិ",
+      "abbreviation": "លប"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "និក្ខមនំ",
+      "abbreviation": "នក"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "លេវីវិន័យ",
+      "abbreviation": "លវ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ជនគណនា",
+      "abbreviation": "ជគ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ទុតិយកថា",
+      "abbreviation": "ទក"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "យ៉ូស្វេ",
+      "abbreviation": "យស"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ចៅហ្វាយ",
+      "abbreviation": "ចហ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "នាងរស់",
+      "abbreviation": "រស់"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "១ សាំយូអែល",
+      "abbreviation": "១សយ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "២ សាំយូអែល",
+      "abbreviation": "២សយ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "១ ពង្សាវតារក្សត្រ",
+      "abbreviation": "១ពង្ស"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "២ ពង្សាវតារក្សត្រ",
+      "abbreviation": "២ពង្ស"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "១ របាក្សត្រ",
+      "abbreviation": "១របា"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "២ របាក្សត្រ",
+      "abbreviation": "២របា"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "អែសរ៉ា",
+      "abbreviation": "អរ"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "នេហេមា",
+      "abbreviation": "នហ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "នាងអេសធើរ",
+      "abbreviation": "អធ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "យ៉ូប",
+      "abbreviation": "យ៉ូប"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ទំនុកតម្កើង",
+      "abbreviation": "ទំន"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "សុភាសិត",
+      "abbreviation": "សុភ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "សាស្ដា",
+      "abbreviation": "សស"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "បទចម្រៀង",
+      "abbreviation": "បច"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "អេសាយ",
+      "abbreviation": "អស"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "យេរេមា",
+      "abbreviation": "យរ"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "បរិទេវ",
+      "abbreviation": "បរ"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "អេសេគាល",
+      "abbreviation": "អគ"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ដានីយ៉ែល",
+      "abbreviation": "ដន"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ហូសេ",
+      "abbreviation": "ហស"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "យ៉ូអែល",
+      "abbreviation": "យអ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "អេម៉ុស",
+      "abbreviation": "អម"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "អូបាឌា",
+      "abbreviation": "អឌ"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "យ៉ូណាស",
+      "abbreviation": "យណ"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "មីកា",
+      "abbreviation": "មីក"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ណាហ៊ូម",
+      "abbreviation": "ណហ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ហាបាគូក",
+      "abbreviation": "ហគ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "សេផានា",
+      "abbreviation": "សផ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ហាកាយ",
+      "abbreviation": "ហក"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "សាការី",
+      "abbreviation": "សក"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ម៉ាឡាគី",
+      "abbreviation": "មគ"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "ម៉ាថាយ",
+      "abbreviation": "មថ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "ម៉ាកុស",
+      "abbreviation": "មក"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "លូកា",
+      "abbreviation": "លក"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "យ៉ូហាន",
+      "abbreviation": "យហ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "កិច្ចការ",
+      "abbreviation": "កក"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "រ៉ូម",
+      "abbreviation": "រ៉ូម"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "១ កូរិនថូស",
+      "abbreviation": "១ករ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "២ កូរិនថូស",
+      "abbreviation": "២ករ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "កាឡាទី",
+      "abbreviation": "កាឡ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "អេភេសូ",
+      "abbreviation": "អភ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ភីលីព",
+      "abbreviation": "ភីល"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "កូឡូស",
+      "abbreviation": "កូឡ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "១ ថេស្សាឡូនិក",
+      "abbreviation": "១ថស"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "២ ថេស្សាឡូនិក",
+      "abbreviation": "២ថស"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "១ ធីម៉ូថេ",
+      "abbreviation": "១ធម"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "២ ធីម៉ូថេ",
+      "abbreviation": "២ធម"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ទីតុស",
+      "abbreviation": "ទត"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ភីលេម៉ូន",
+      "abbreviation": "ភល"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ហេប្រឺ",
+      "abbreviation": "ហប"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "យ៉ាកុប",
+      "abbreviation": "យក"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "១ ពេត្រុស",
+      "abbreviation": "១ពត្រ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "២ ពេត្រុស",
+      "abbreviation": "២ពត្រ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "១ យ៉ូហាន",
+      "abbreviation": "១យហ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "២ យ៉ូហាន",
+      "abbreviation": "២យហ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "៣ យ៉ូហាន",
+      "abbreviation": "៣យហ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "យូដាស",
+      "abbreviation": "យដ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "វិវរណៈ",
+      "abbreviation": "វវ"
+    }
+  ]
+}

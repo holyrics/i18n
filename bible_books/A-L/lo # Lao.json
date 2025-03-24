@@ -1,0 +1,408 @@
+{
+  "id": "lo",
+  "language": "lo",
+  "name": "Lao",
+  "alt_name": "ລາວ",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ປະຖົມມະການ",
+      "abbreviation": "ປຖກ"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ອົບພະຍົບ",
+      "abbreviation": "ອພຍ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ລະບຽບ^ພວກເລວີ",
+      "abbreviation": "ລລວ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ຈົດບັນຊີ",
+      "abbreviation": "ຈບຊ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ພຣະບັນຍັດສອງ",
+      "abbreviation": "ພບຍ"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "ໂຢຊວຍ",
+      "abbreviation": "ຢຊ"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ພວກ^ຜູ້ປົກຄອງ",
+      "abbreviation": "ຜປ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ນາງຣຸດ",
+      "abbreviation": "ນຣ"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 ຊາມູເອນ",
+      "abbreviation": "1ຊມອ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 ຊາມູເອນ",
+      "abbreviation": "2ຊມອ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 ກະສັດ",
+      "abbreviation": "1ກສ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 ກະສັດ",
+      "abbreviation": "2ກສ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 ຂ່າວຄາວ",
+      "abbreviation": "1ຂຄ"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 ຂ່າວຄາວ",
+      "abbreviation": "2ຂຄ"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ເອຊະຣາ",
+      "abbreviation": "ອຊຣ"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ເນເຫມີຢາ",
+      "abbreviation": "ນມຢ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ເອສະເທີ",
+      "abbreviation": "ອສທ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ໂຢບ",
+      "abbreviation": "ໂຢບ"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ເພງ^ສັນລະເສີນ",
+      "abbreviation": "ພສສ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ສຸພາສິດ",
+      "abbreviation": "ສພສ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ປັນຍາຈານ",
+      "abbreviation": "ປຍຈ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "ຍອດເພງ",
+      "abbreviation": "ຍພ"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ເອຊາຢາ",
+      "abbreviation": "ອຊຢ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ເຢເຣມີຢາ",
+      "abbreviation": "ຢມຢ"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ເພງ^ຄໍ່າຄວນ",
+      "abbreviation": "ພຄຄ"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ເອເຊກຽນ",
+      "abbreviation": "ອຊກ"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ດານີເອນ",
+      "abbreviation": "ດນອ"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ໂຮເສອາ",
+      "abbreviation": "ຮສອ"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "ໂຢເອນ",
+      "abbreviation": "ຢອ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ອາໂມດ",
+      "abbreviation": "ອມ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ໂອບາດີຢາ",
+      "abbreviation": "ອບຢ"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "ໂຢນາ",
+      "abbreviation": "ຢນ"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "ມີກາ",
+      "abbreviation": "ມກ"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ນາຮູມ",
+      "abbreviation": "ນຮ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ຮາບາກຸກ",
+      "abbreviation": "ຮບກ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ເຊຟານີຢາ",
+      "abbreviation": "ຊຟຢ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ຮັກກາຍ",
+      "abbreviation": "ຮກ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ເຊກາຣີຢາ",
+      "abbreviation": "ຊກຢ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ມາລາກີ",
+      "abbreviation": "ມລກ"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "ມັດທາຍ",
+      "abbreviation": "ມທ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "ມາຣະໂກ",
+      "abbreviation": "ມຣກ"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ລູກາ",
+      "abbreviation": "ລກ"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "ໂຢຮັນ",
+      "abbreviation": "ຢຮ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "ກິດຈະການ",
+      "abbreviation": "ກຈກ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ໂຣມ",
+      "abbreviation": "ຣມ"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 ໂກຣິນໂທ",
+      "abbreviation": "1ກຣທ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 ໂກຣິນໂທ",
+      "abbreviation": "2ກຣທ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ຄາລາເຕຍ",
+      "abbreviation": "ຄລຕ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ເອເຟໂຊ",
+      "abbreviation": "ອຟຊ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ຟີລິບປອຍ",
+      "abbreviation": "ຟລປ"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ໂກໂລຊາຍ",
+      "abbreviation": "ກລຊ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 ເທສະໂລນິກ",
+      "abbreviation": "1ທສນ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 ເທສະໂລນິກ",
+      "abbreviation": "2ທສນ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 ຕີໂມທຽວ",
+      "abbreviation": "1ຕມທ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 ຕີໂມທຽວ",
+      "abbreviation": "2ຕມທ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ຕີໂຕ",
+      "abbreviation": "ຕຕ"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ຟີເລໂມນ",
+      "abbreviation": "ຟລມ"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ເຮັບເຣີ",
+      "abbreviation": "ຮຣ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ຢາໂກໂບ",
+      "abbreviation": "ຢກບ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 ເປໂຕ",
+      "abbreviation": "1ປຕ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 ເປໂຕ",
+      "abbreviation": "2ປຕ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 ໂຢຮັນ",
+      "abbreviation": "1ຢຮ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 ໂຢຮັນ",
+      "abbreviation": "2ຢຮ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 ໂຢຮັນ",
+      "abbreviation": "3ຢຮ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ຢູດາ",
+      "abbreviation": "ຢດ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ພຣະນິມິດ",
+      "abbreviation": "ພນມ"
+    }
+  ]
+}

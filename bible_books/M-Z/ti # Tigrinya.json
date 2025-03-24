@@ -1,0 +1,408 @@
+{
+  "id": "ti",
+  "language": "ti",
+  "name": "Tigrinya",
+  "alt_name": "ትግርኛ",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ዘፍጥረት",
+      "abbreviation": "ዘፍ"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ዘፀኣት",
+      "abbreviation": "ዘፀ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ዘሌዋውያን",
+      "abbreviation": "ዘሌ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ዘሑልቍ",
+      "abbreviation": "ዘሑ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ዘዳግም",
+      "abbreviation": "ዘዳ"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "ኢያሱ",
+      "abbreviation": "ኢያሱ"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "መሳፍንት",
+      "abbreviation": "መሳ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ሩት",
+      "abbreviation": "ሩት"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1ይ ሳሙኤል",
+      "abbreviation": "1ሳሙ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2ይ ሳሙኤል",
+      "abbreviation": "2ሳሙ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1ይ ነገስት",
+      "abbreviation": "1ነገ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2ይ ነገስት",
+      "abbreviation": "2ነገ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1ይ ዜና",
+      "abbreviation": "1ዜና"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2ይ ዜና",
+      "abbreviation": "2ዜና"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "እዝራ",
+      "abbreviation": "እዝራ"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ነህምያ",
+      "abbreviation": "ነህ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ኣስቴር",
+      "abbreviation": "ኣስ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ኢዮብ",
+      "abbreviation": "ኢዮብ"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ዳዊት",
+      "abbreviation": "መዝ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ምሳሌ",
+      "abbreviation": "ምሳ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "መክብብ",
+      "abbreviation": "መክ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "መሃልየ",
+      "abbreviation": "መሃ"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ኢሳይያስ",
+      "abbreviation": "ኢሳ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ኤርሚያስ",
+      "abbreviation": "ኤር"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ሰቆቃወ",
+      "abbreviation": "ሰቆ"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ሕዝቅኤል",
+      "abbreviation": "ሕዝ"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ዳንኤል",
+      "abbreviation": "ዳን"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ሆሴዕ",
+      "abbreviation": "ሆሴዕ"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "ኢዩኤል",
+      "abbreviation": "ኢዩ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ኣሞፅ",
+      "abbreviation": "ኣሞፅ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ኣብድዩ",
+      "abbreviation": "ኣብ"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "ዮናስ",
+      "abbreviation": "ዮናስ"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "ሚክያስ",
+      "abbreviation": "ሚክ"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ናሆም",
+      "abbreviation": "ናሆም"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "እንባቆም",
+      "abbreviation": "እንባ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ሶፎንያስ",
+      "abbreviation": "ሶፎ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ሓጌ",
+      "abbreviation": "ሓጌ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ዘካርያስ",
+      "abbreviation": "ዘካ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ሚልክያስ",
+      "abbreviation": "ሚል"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "ማቴዎስ",
+      "abbreviation": "ማቴ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "ማርቆስ",
+      "abbreviation": "ማር"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ሉቃስ",
+      "abbreviation": "ሉቃ"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "ዮሃንስ",
+      "abbreviation": "ዮሓ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "ግብሪ ሃዋርያት",
+      "abbreviation": "ግ.ሓ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ሮሜ",
+      "abbreviation": "ሮሜ"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1ይ ቆሮንቶስ",
+      "abbreviation": "1ቆሮ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2ይ ቆሮንቶስ",
+      "abbreviation": "2ቆሮ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ገላትያ",
+      "abbreviation": "ገላ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ኤፌሶን",
+      "abbreviation": "ኤፌ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ፊልጵስዩስ",
+      "abbreviation": "ፊልጵ"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ቈላስይስ",
+      "abbreviation": "ቈላ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1ይ ተሰሎንቄ",
+      "abbreviation": "1ተሰ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2ይ ተሰሎንቄ",
+      "abbreviation": "2ተሰ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1ይ ጢሞቴዎስ",
+      "abbreviation": "1ጢሞ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2ይ ጢሞቴዎስ",
+      "abbreviation": "2ጢሞ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ቲቶ",
+      "abbreviation": "ቲቶ"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ፊልሞና",
+      "abbreviation": "ፊል"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ዕብራውያን",
+      "abbreviation": "ዕብ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ያእቆብ",
+      "abbreviation": "ያቆ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1ይ ጴጥሮስ",
+      "abbreviation": "1ጴጥ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2ይ ጴጥሮስ",
+      "abbreviation": "2ጴጥ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1ይ ዮሃንስ",
+      "abbreviation": "1ዮሓ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2ይ ዮሃንስ",
+      "abbreviation": "2ዮሓ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3ይ ዮሃንስ",
+      "abbreviation": "3ዮሓ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ይሁዳ",
+      "abbreviation": "ይሁዳ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ራእይ",
+      "abbreviation": "ራእይ"
+    }
+  ]
+}

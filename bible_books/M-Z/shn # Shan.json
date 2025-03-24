@@ -1,0 +1,408 @@
+{
+  "id": "shn",
+  "language": "shn",
+  "name": "Shan",
+  "alt_name": "Shan",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ငဝ်ႈ",
+      "abbreviation": "ငဝ်ႈ"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ဢွၵ်ႇၵႂႃႇ",
+      "abbreviation": "ဢွၵ်ႇ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ႁဵတ်းဝၢတ်ႈ",
+      "abbreviation": "ႁဵတ်း"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ၼႂ်းထိူၼ်ႇ",
+      "abbreviation": "ထိူၼ်ႇ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ႁေႃးတြႃး",
+      "abbreviation": "ႁေႃး"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "ယေႃးသု",
+      "abbreviation": "ယေႃးသု"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ၵူၼ်းလူင်",
+      "abbreviation": "ၵူၼ်းလူင်"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ရုထႃႉ",
+      "abbreviation": "ရု"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 သမူၺ်ႇ",
+      "abbreviation": "1သမူၺ်ႇ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 သမူၺ်ႇ",
+      "abbreviation": "2သမူၺ်ႇ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 ၶုၼ်ႁေႃၶမ်း",
+      "abbreviation": "1ၶုၼ်"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 ၶုၼ်ႁေႃၶမ်း",
+      "abbreviation": "2ၶုၼ်"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 ရႃႇၶျုၵ်ႈ",
+      "abbreviation": "1ရႃႇ"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 ရႃႇၶျုၵ်ႈ",
+      "abbreviation": "2ရႃႇ"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ဢေးၸရႃႇ",
+      "abbreviation": "ဢေးၸ"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ၼေႇ",
+      "abbreviation": "ၼေႇ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ဢေးသတႃႇ",
+      "abbreviation": "ဢေးသ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ယေႃးၽႃႉ",
+      "abbreviation": "ယေႃး"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "သႃႇလၢမ်ႇ",
+      "abbreviation": "သႃႇ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "သုၵ်ႉတၢမ်ႇ",
+      "abbreviation": "သုၵ်ႉ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "တေႇသၼႃႇ",
+      "abbreviation": "တေႇ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "သေႃးလမုၼ်ႇ",
+      "abbreviation": "သေႃး"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ဢိ",
+      "abbreviation": "ဢိ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ယေႇရမိ",
+      "abbreviation": "ယေႇ"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ပွင်ႉၶၢင်း",
+      "abbreviation": "ပွင်ႉၶၢင်း"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ယေႇၸၵျေႇလႃႉ",
+      "abbreviation": "ယေႇၸ"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "တၢၼ်ႇယေႇလႃႉ",
+      "abbreviation": "တၢၼ်ႇ"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ႁူဝ်းသေႇ",
+      "abbreviation": "ႁူဝ်း"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "ယူဝ်းဢေႇလႃႉ",
+      "abbreviation": "ယူဝ်းဢေႇ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ဢႃႇမူတ်ႉ",
+      "abbreviation": "ဢႃႇ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ဢေႃးပတိ",
+      "abbreviation": "ဢေႃး"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "ယူဝ်းၼႃႉ",
+      "abbreviation": "ယူဝ်းၼႃႉ"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "မိၶႃႇ",
+      "abbreviation": "မိ"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ၼႃႇႁုမ်ႇ",
+      "abbreviation": "ၼႃႇ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ႁပၵ်ႉၵုၵ်ႉ",
+      "abbreviation": "ႁပၵ်ႉ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ၸေႇၽၼိ",
+      "abbreviation": "ၸေႇ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ႁၵ်ႉၵႄး",
+      "abbreviation": "ႁၵ်ႉ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ၸႃႇၶရိ",
+      "abbreviation": "ၸႃႇ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "မႃႇလၶိ",
+      "abbreviation": "မႃႇလ"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "မတ်ႈ",
+      "abbreviation": "မတ်ႈ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "မႃႇ",
+      "abbreviation": "မႃႇ"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "လု",
+      "abbreviation": "လု"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "ယူဝ်း",
+      "abbreviation": "ယူဝ်း"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "တမၢၼ်ႇ",
+      "abbreviation": "တမၢၼ်ႇ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ရူဝ်းမႃႉ",
+      "abbreviation": "ရူဝ်း"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 ၵေႃး",
+      "abbreviation": "1ၵေႃး"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 ၵေႃး",
+      "abbreviation": "2ၵေႃး"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ၵလႃႇတိ",
+      "abbreviation": "ၵလႃႇ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ဢေးၽႅတ်ႈ",
+      "abbreviation": "ဢေး"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ၽိလိပ်ႉပိ",
+      "abbreviation": "ၽိ"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ၵေႃးလေႃးသေး",
+      "abbreviation": "ၵေႃး"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 ထိတ်ႉသႃႇလေႃးၼိၵ်ႈ",
+      "abbreviation": "1ထိတ်ႉ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 ထိတ်ႉသႃႇလေႃးၼိၵ်ႈ",
+      "abbreviation": "2ထိတ်ႉ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 တိမေႃးသေႇ",
+      "abbreviation": "1တိ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 တိမေႃးသေႇ",
+      "abbreviation": "2တိ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "တိတု",
+      "abbreviation": "တိတု"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ၽိလေႇမုၼ်ႇ",
+      "abbreviation": "ၽိလေႇ"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ႁေႇပြႄး",
+      "abbreviation": "ႁေႇ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ယႃႇၵုပ်ႈ",
+      "abbreviation": "ယႃႇၵုပ်ႈ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 ပေႇတရု",
+      "abbreviation": "1ပေႇ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 ပေႇတရု",
+      "abbreviation": "2ပေႇ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 ယူဝ်း",
+      "abbreviation": "1ယူဝ်း"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 ယူဝ်း",
+      "abbreviation": "2ယူဝ်း"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 ယူဝ်း",
+      "abbreviation": "3ယူဝ်း"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ယုတႃႉ",
+      "abbreviation": "ယု"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ပျႃႇတိၵ်ႈ",
+      "abbreviation": "ပျႃႇ"
+    }
+  ]
+}

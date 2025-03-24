@@ -1,0 +1,408 @@
+{
+  "id": "mi",
+  "language": "mi",
+  "name": "Maori",
+  "alt_name": "Māori",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Kenehi",
+      "abbreviation": "Kene"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Ekoruhe",
+      "abbreviation": "Ekor"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Rewitikuha",
+      "abbreviation": "Rewi"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Tauanga",
+      "abbreviation": "Taua"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Tiuteronomi",
+      "abbreviation": "Tiut"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Hohua",
+      "abbreviation": "Hohu"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Kaiwhakariterite",
+      "abbreviation": "Kwhk"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rutu",
+      "abbreviation": "Rutu"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Hamuera",
+      "abbreviation": "1Ham"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Hamuera",
+      "abbreviation": "2Ham"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 Kingi",
+      "abbreviation": "1Kng"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 Kingi",
+      "abbreviation": "2Kng"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Whakapapa",
+      "abbreviation": "1Wkp"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Whakapapa",
+      "abbreviation": "2Wkp"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Etera",
+      "abbreviation": "Eter"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemia",
+      "abbreviation": "Nehe"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ehetere",
+      "abbreviation": "Ehet"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Hopa",
+      "abbreviation": "Hopa"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Waiata",
+      "abbreviation": "Waia"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Whakatauki",
+      "abbreviation": "Wtki"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Kaikauwhau",
+      "abbreviation": "Kkwh"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Waiata a Horomona",
+      "abbreviation": "Waih"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Ihaia",
+      "abbreviation": "Ihai"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Heremaia",
+      "abbreviation": "Here"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Tangi",
+      "abbreviation": "Tang"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ehekiera",
+      "abbreviation": "Ehek"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Raniera",
+      "abbreviation": "Rani"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hohea",
+      "abbreviation": "Hohe"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Hoera",
+      "abbreviation": "Hoer"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amoho",
+      "abbreviation": "Amoh"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Oparia",
+      "abbreviation": "Opar"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Hona",
+      "abbreviation": "Hona"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mika",
+      "abbreviation": "Mika"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahumu",
+      "abbreviation": "Nahu"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Hapakuku",
+      "abbreviation": "Hapa"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Tepania",
+      "abbreviation": "Tepa"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Hakai",
+      "abbreviation": "Haka"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Hakaraia",
+      "abbreviation": "Hakr"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Maraki",
+      "abbreviation": "Mara"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Matiu",
+      "abbreviation": "Mati"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Maka",
+      "abbreviation": "Maka"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Ruka",
+      "abbreviation": "Ruka"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Hoani",
+      "abbreviation": "Hoan"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Mahi",
+      "abbreviation": "Mahi"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Roma",
+      "abbreviation": "Roma"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Koriniti",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Koriniti",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Karatia",
+      "abbreviation": "Kara"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Epeha",
+      "abbreviation": "Epeha"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Piripai",
+      "abbreviation": "Pirp"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Korohe",
+      "abbreviation": "Koro"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Teharonika",
+      "abbreviation": "1Teh"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Teharonika",
+      "abbreviation": "2Teh"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Timoti",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Timoti",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Taituha",
+      "abbreviation": "Tait"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Pirimona",
+      "abbreviation": "Prmn"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Hiperu",
+      "abbreviation": "Hepe"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Hemi",
+      "abbreviation": "Hemi"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Pita",
+      "abbreviation": "1Pit"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Pita",
+      "abbreviation": "2Pit"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Hoani",
+      "abbreviation": "1Hoa"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Hoani",
+      "abbreviation": "2Hoa"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Hoani",
+      "abbreviation": "3Hoa"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Hura",
+      "abbreviation": "Hura"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Whakakitenga",
+      "abbreviation": "Kite"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": "awa",
+  "language": "awa",
+  "name": "Awadhi",
+  "alt_name": "Awadhi",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "उत्पत्ति",
+      "abbreviation": "उतपतति"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "निर्गमन",
+      "abbreviation": "निरग"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "लैव्यव्यवस्था",
+      "abbreviation": "लवय"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "गनती",
+      "abbreviation": "गनती"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "व्यवस्था विवरण",
+      "abbreviation": "वयवसथा"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "यहोसू",
+      "abbreviation": "यहोस"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "निआवाधीसन",
+      "abbreviation": "निआवाधीसन"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "रूत",
+      "abbreviation": "रत"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "पहिला समूएल",
+      "abbreviation": "1सम"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "दूसर समूएल",
+      "abbreviation": "2सम"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "पहिला राजा",
+      "abbreviation": "1राजा"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "दूसर राजा",
+      "abbreviation": "2राजा"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "पहिला इतिहास",
+      "abbreviation": "1इति"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "दूसर इतिहास",
+      "abbreviation": "2इति"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "एज्रा",
+      "abbreviation": "एजरा"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "नहेमायाह",
+      "abbreviation": "नह"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "एस्तेर",
+      "abbreviation": "एसतर"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "अय्यूब",
+      "abbreviation": "अययब"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "भजन संहिता",
+      "abbreviation": "भ. स"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "नीतिवचन",
+      "abbreviation": "नीति"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "सभोपदेसक",
+      "abbreviation": "सभो"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "स्रेस्ठगीत",
+      "abbreviation": "सरसठगीत"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "यसायाह",
+      "abbreviation": "यसा"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "यिर्मयाह",
+      "abbreviation": "यिरम"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "विलापगीत",
+      "abbreviation": "विलाप"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "यहेजकेल",
+      "abbreviation": "यहजकल"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "दानिय्येल",
+      "abbreviation": "दानिययल"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "होसे",
+      "abbreviation": "होस"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "योएल",
+      "abbreviation": "योए"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "आमोस",
+      "abbreviation": "आमोस"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ओबद्याह",
+      "abbreviation": "ओबदयाह"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "योना",
+      "abbreviation": "योना"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "मीका",
+      "abbreviation": "मीका"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "नहूम",
+      "abbreviation": "नहम"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "हबक्कूक",
+      "abbreviation": "हबककक"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "सपन्याह",
+      "abbreviation": "सपनयाह"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "हाग्गै",
+      "abbreviation": "हागग"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "जकर्याह",
+      "abbreviation": "जकरयाह"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "मलाकी",
+      "abbreviation": "मलाकी"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "मत्ती रचित सुसमाचार",
+      "abbreviation": "मतती"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "मरकुस रचित सुसमाचार",
+      "abbreviation": "मरकस"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "लूका रचित सुसमाचार",
+      "abbreviation": "लका"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "यूहन्ना रचित सुसमाचार",
+      "abbreviation": "यहनना"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "प्रेरितन क काम",
+      "abbreviation": "पररितन"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "रोमियन क पत्र",
+      "abbreviation": "रोमि"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "कुरिन्थियन क पहिली पत्र",
+      "abbreviation": "1करिनथि"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "कुरिन्थियन क दूसरी पत्र",
+      "abbreviation": "2करिनथि"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "गलातियन क पत्र",
+      "abbreviation": "गलाति"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "इफिसियन क पत्र",
+      "abbreviation": "इफि"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "फिलिप्पियन क पत्र",
+      "abbreviation": "फिलिपपि"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "कुलुस्सियन क पत्र",
+      "abbreviation": "कल"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "थिस्सलुनीकियन क पहिली पत्र",
+      "abbreviation": "1थिसस"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "थिस्सलुनीकियन क दूसरी पत्र",
+      "abbreviation": "2थिसस"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "तीमुथियुस क पहिली पत्र",
+      "abbreviation": "1तीम"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "तीमुथियुस क दूसरी पत्र",
+      "abbreviation": "2तीम"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "तीतुस क पत्र",
+      "abbreviation": "तीतस"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "फिलेमोन क पत्र",
+      "abbreviation": "फिल"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "इब्रनियन क पत्र",
+      "abbreviation": "इबरनि"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "याकूब क पत्र",
+      "abbreviation": "याकब"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "पतरस क पहिली पत्र",
+      "abbreviation": "1पतरस"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "पतरस क दूसरी पत्र",
+      "abbreviation": "2पतरस"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "यूहन्ना क पहिली पत्र",
+      "abbreviation": "1यहनना"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "यूहन्ना क दूसरी पत्र",
+      "abbreviation": "2यहनना"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "यूहन्ना क तीसरी पत्र",
+      "abbreviation": "3यहनना"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "यहूदा क पत्र",
+      "abbreviation": "यहदा"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "प्रकासित वाक्य",
+      "abbreviation": "पर. वा"
+    }
+  ]
+}

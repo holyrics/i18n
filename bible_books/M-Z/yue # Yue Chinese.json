@@ -1,0 +1,408 @@
+{
+  "id": "yue",
+  "language": "yue",
+  "name": "Yue Chinese",
+  "alt_name": "Kwóng-tung wâ",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "CH‘ÒNG‐SHAÌ KEÌ",
+      "abbreviation": "GEN"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "CH‘UT OI‐K‘ĀP KEÌ",
+      "abbreviation": "EXO"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "LEÎ‐MEÎ‐KEÌ",
+      "abbreviation": "LEV"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "MĀN‐SHÒ KEÍ LEŪK",
+      "abbreviation": "NUM"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "FŪK‐CH‘UĒN LŪT‐LAÎ KEÌ",
+      "abbreviation": "DEU"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "YEUKₒ‐SHUE‐À",
+      "abbreviation": "JOS"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "SẐ‐SZ KEÌ",
+      "abbreviation": "JDG"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Lô-tak shî",
+      "abbreviation": "Lô-tak"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "I. SAATₒ‐MŎ‐Ĭ",
+      "abbreviation": "1SA"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "II. SAATₒ‐MŎ‐Ĭ",
+      "abbreviation": "2SA"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "I. LĪT‐WŌNG KEÍ‐LEŪK",
+      "abbreviation": "1KI"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "II. LĪT‐WŌNG KEÍ‐LEŪK",
+      "abbreviation": "2KI"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "I. LĪK‐TOÎ CHÌ‐LEŪK",
+      "abbreviation": "1CH"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "II. LĪK‐TOÎ CHÌ‐LEŪK",
+      "abbreviation": "2CH"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ĭ‐SẐ‐LA",
+      "abbreviation": "EZR"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "NEĬ‐HEI‐MAĬ",
+      "abbreviation": "NEH"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ĭ‐SẐ‐T‘IPₒ",
+      "abbreviation": "EST"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "YEUKₒ‐PAAKₒ",
+      "abbreviation": "JOB"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "SHI‐P‘IN",
+      "abbreviation": "PSA"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "CHAM‐ĪN",
+      "abbreviation": "PRO"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "CH‘UĒN‐TÔ",
+      "abbreviation": "ECC"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "NGĂ‐KOH",
+      "abbreviation": "SNG"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Ĭ‐TSOI‐À",
+      "abbreviation": "ISA"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "YĒ‐LEÎ‐MAĬ",
+      "abbreviation": "JER"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "YĒ‐LEÎ‐MAĬ OI‐KOH",
+      "abbreviation": "LAM"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ĭ‐SAI‐KITₒ",
+      "abbreviation": "EZK"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "TAÂN‐Ĭ‐LEĬ",
+      "abbreviation": "DAN"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "HŌH‐SAI",
+      "abbreviation": "HOS"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "YEUKₒ‐Ĭ",
+      "abbreviation": "JOL"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "À‐MOH‐SẐ",
+      "abbreviation": "AMO"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "OH‐PA‐TAÍ",
+      "abbreviation": "OBA"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "YEUKₒ‐NĀ",
+      "abbreviation": "JON"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "MAĬ‐KA",
+      "abbreviation": "MIC"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "NĀ‐YUNG",
+      "abbreviation": "NAM"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "HAP‐PA‐KUK",
+      "abbreviation": "HAB"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "SAI‐FAAN‐NGĂ",
+      "abbreviation": "ZEP"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "HAP‐KEI",
+      "abbreviation": "HAG"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "SAATₒ‐KA‐LEÎ‐À",
+      "abbreviation": "ZEC"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "MĂ‐LA‐KEI",
+      "abbreviation": "MAL"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Mă‐t‘aaì",
+      "abbreviation": "Mă‐t‘aaì"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Mă‐Hóh",
+      "abbreviation": "Mă‐Hóh"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Lô‐Ka",
+      "abbreviation": "Lô‐Ka"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Yeukₒ‐Hôn",
+      "abbreviation": "Yeukₒ‐Hôn"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Sz̀‐T‘ō Hâng‐Chuên",
+      "abbreviation": "Sz‐T‘ō Hâng‐Chuên"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Lōh‐Mă",
+      "abbreviation": "Lōh‐Mă"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Koh‐Lām‐Toh",
+      "abbreviation": "1Koh"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Koh‐Lām‐Toh",
+      "abbreviation": "2Koh"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Ka‐La‐T‘aaì",
+      "abbreviation": "Ka‐La‐T‘aaì"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Ĭ‐Fat‐Shóh",
+      "abbreviation": "Ĭ‐Fat‐Shóh"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Feī‐Laāp‐Peí",
+      "abbreviation": "Feī‐Laāp‐Peí"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Koh‐Lōh‐Sai",
+      "abbreviation": "Koh‐Lōh‐Sai"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 T‘ipₒ‐Saatₒ‐Lōh‐Neī‐Ka",
+      "abbreviation": "1T‘ipₒ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 T‘ipₒ‐Saatₒ‐Lōh‐Neī‐Ka",
+      "abbreviation": "2T‘ipₒ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 T‘aī‐Moh‐T‘aaì",
+      "abbreviation": "1T‘aī‐Moh"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 T‘aī‐Moh‐T‘aaì",
+      "abbreviation": "2T‘aī‐Moh"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "T‘aī‐Toh",
+      "abbreviation": "T‘aī‐Toh"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Feī‐Leî‐Moōn",
+      "abbreviation": "Feī‐Leî"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Hei‐Paakₒ‐Loī",
+      "abbreviation": "Hei‐Paakₒ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Ngă‐Kokₒ",
+      "abbreviation": "Ngă‐Kokₒ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Peí‐Tak",
+      "abbreviation": "1Peí‐Tak"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Peí‐Tak",
+      "abbreviation": "2Peí‐Tak"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Yeukₒ‐Hôn",
+      "abbreviation": "1Yeukₒ‐Hôn"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Yeukₒ‐hôn",
+      "abbreviation": "2Yeukₒ‐hôn"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Yeukₒ‐Hôn",
+      "abbreviation": "3Yeukₒ‐Hôn"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Yaū‐Taaî",
+      "abbreviation": "Yaū"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Māk‐Shî‐Lūk",
+      "abbreviation": "Māk"
+    }
+  ]
+}

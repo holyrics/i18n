@@ -1,0 +1,408 @@
+{
+  "id": "ktb",
+  "language": "ktb",
+  "name": "Kambaata",
+  "alt_name": "Kambaata",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Qooccanchi Matsaafa",
+      "abbreviation": "Qooc"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Fuli Matsaafa",
+      "abbreviation": "Ful"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Leew manni Matsaafa",
+      "abbreviation": "Leew"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Wollo Matsaafa",
+      "abbreviation": "Wol"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Azzazo Matsaafa",
+      "abbreviation": "Azz"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Iyyaaso Matsaafa",
+      "abbreviation": "Iys"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Gashshaanni Matsaafa",
+      "abbreviation": "Gash"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Ruute Matsaafa",
+      "abbreviation": "Ruut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "Saamueele Wona Matsaafa",
+      "abbreviation": "1Saam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "Saamueele Lanki Matsaafa",
+      "abbreviation": "2Saam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "Wommaakka Wona Matsaafa",
+      "abbreviation": "1Wom"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "Wommaakka Lanki Matsaafa",
+      "abbreviation": "2Wom"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "Dudubi Wona Matsaafa",
+      "abbreviation": "1Dud"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "Dudubi Lanki Matsaafa",
+      "abbreviation": "2Dud"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Izra Matsaafa",
+      "abbreviation": "Izr"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nahimiya Matsaafa",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Asteere Matsaafa",
+      "abbreviation": "Ast"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Iyyoobe Matsaafa",
+      "abbreviation": "Iyb"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Mazmuri Matsaafa",
+      "abbreviation": "Maz"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Agudiishsha Matsaafa",
+      "abbreviation": "Agu"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Qoorima Matsaafa",
+      "abbreviation": "Qoor"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Abba Mazmura",
+      "abbreviation": "Amaz"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Hiraagaancho Issiyaase Matsaafa",
+      "abbreviation": "Iss"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Hiraagaancho Ermiyaase Matsaafa",
+      "abbreviation": "Erm"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Aayyeeshsha Matsaafa",
+      "abbreviation": "Aay"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Hiraagaancho Hizqe\u0027eele Matsaafa",
+      "abbreviation": "Hiz"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Hiraagaancho Daanieele Matsaafa",
+      "abbreviation": "Daan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hiraagaancho Hoose\u0027e Matsaafa",
+      "abbreviation": "Hoos"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Hiraagaancho Iyyoeele Maaxaafa",
+      "abbreviation": "Iyl"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Hiraagaancho Amootse Matsaafa",
+      "abbreviation": "Amo"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Hiraagaancho Abdiyo Matsaafa",
+      "abbreviation": "Abd"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Hiraagaancho Yoonaase Matsaafa",
+      "abbreviation": "Yoon"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Hiraagaancho Mikkiyaase Matsaafa",
+      "abbreviation": "Mik"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Hiraagaancho Naahoome Matsaafa",
+      "abbreviation": "Naah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Hiraagaancho Imbaaqoome Matsaafa",
+      "abbreviation": "Imb"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Hiraagaancho Sofooniyaase Matsaafa",
+      "abbreviation": "Sof"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Hiraagaancho Haage Matsaafa",
+      "abbreviation": "Haag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Hiraagaancho Zakkaariyaase Matsaafa",
+      "abbreviation": "Zak"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Hiraagaancho Milkiyaase Matsaafa",
+      "abbreviation": "Mil"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Maatoose Mishiraachchi Matsaafa",
+      "abbreviation": "Maat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Maarqoose Mishiraachchi Matsaafa",
+      "abbreviation": "Maar"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luqaase Mishiraachchi Matsaafa",
+      "abbreviation": "Luq"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Yohaannise Mishiraachchi Matsaafa",
+      "abbreviation": "Yoh"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Soqqamaanni Huje Matsaafa",
+      "abbreviation": "Soq"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Roome Sohinuta",
+      "abbreviation": "Room"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "Qorontoosi Wona Sohinuta",
+      "abbreviation": "1Qor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "Qorontoosi Lanki Sohinuta",
+      "abbreviation": "2Qor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galaatiyi Sohinuta",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efesooni Sohinuta",
+      "abbreviation": "Efn"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filiphsuusi Sohinuta",
+      "abbreviation": "Flph"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Qollaasiyaasi Sohinuta",
+      "abbreviation": "Qol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "Tasaloonqe Wona Sohinuta",
+      "abbreviation": "1Tas"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "Tasaloonqe Lanki Sohinta",
+      "abbreviation": "2Tas"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "Ximaatoose Wona Sohinuta",
+      "abbreviation": "1Xim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "Ximaatoose Lanki Sohinuta",
+      "abbreviation": "2Xim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tiito Sohinuta",
+      "abbreviation": "Tiit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filimoone Sohinuta",
+      "abbreviation": "Flm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Ibr manni Sohinuta",
+      "abbreviation": "Ibr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Yaaqoobe Sohinuta",
+      "abbreviation": "Yaaq"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "Pheexiroose Wona Sohinuta",
+      "abbreviation": "1Pheex"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "Pheexroose Lanki Sohinuta",
+      "abbreviation": "2Pheex"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "Yohaannise Wona Sohinuta",
+      "abbreviation": "1Yoh"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "Yohaannise Lanki Sohinuta",
+      "abbreviation": "2Yoh"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "Yohaannise Sakki Sohinuta",
+      "abbreviation": "3Yoh"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Yihudi Sohinuta",
+      "abbreviation": "Yih"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Caakki Matsaafa",
+      "abbreviation": "Caak"
+    }
+  ]
+}

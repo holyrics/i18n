@@ -1,0 +1,408 @@
+{
+  "id": "eu",
+  "language": "eu",
+  "name": "Basque",
+  "alt_name": "Euskara",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "JENESA",
+      "abbreviation": "JENESA"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ECSODOA",
+      "abbreviation": "ECSODOA"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "LEBITICOA",
+      "abbreviation": "LEBITICOA"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "NOMBREAC",
+      "abbreviation": "NOMBREAC"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "DUTERONOMA",
+      "abbreviation": "DUTERONOMA"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "JOSUE",
+      "abbreviation": "JOSUE"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "JUIEAC",
+      "abbreviation": "JUIEAC"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ERRUTH",
+      "abbreviation": "ERRUTH"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 ERREGUEAC",
+      "abbreviation": "1ERREGUEAC"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 ERREGUEAC",
+      "abbreviation": "2ERREGUEAC"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 ERREGUEAC",
+      "abbreviation": "1ERREGUEAC"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 ERREGUEAC",
+      "abbreviation": "2ERREGUEAC"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 PARALIPOMENAC",
+      "abbreviation": "1PARALIPOMENAC"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 PARALIPOMENAC",
+      "abbreviation": "2PARALIPOMENAC"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ESDRAS",
+      "abbreviation": "ESDRAS"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "NEHEMIAS",
+      "abbreviation": "NEHEMIAS"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ESTHER",
+      "abbreviation": "ESTHER"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "JOB",
+      "abbreviation": "JOB"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "PSALMOAC",
+      "abbreviation": "PSALMOAC"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ERRAN-ÇAHARRAC",
+      "abbreviation": "ERRAN-ÇAHARRAC"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ECLESIASTESA",
+      "abbreviation": "ECLESIASTESA"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "SALOMONEN CANTIQUETACO CANTICA",
+      "abbreviation": "SALOMONEN CANTIQUETACO CANTICA"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ISAIASEN PROFECIA",
+      "abbreviation": "ISAIASEN PROFECIA"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "JEREMIASEN PROFECIA",
+      "abbreviation": "JEREMIASEN PROFECIA"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "JEREMIAS PROFETAREN DEITHOREAC",
+      "abbreviation": "JEREMIAS PROFETAREN DEITHOREAC"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ECEQUIELEN PROFECIA",
+      "abbreviation": "ECEQUIELEN PROFECIA"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "DANIELEN PROFECIA",
+      "abbreviation": "DANIELEN PROFECIA"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "OSEEREN PROFECIA",
+      "abbreviation": "OSEEREN PROFECIA"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "JOELEN PROFECIA",
+      "abbreviation": "JOELEN PROFECIA"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "AMOSEN PROFECIA",
+      "abbreviation": "AMOSEN PROFECIA"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ABDIASEN PROFECIA",
+      "abbreviation": "ABDIASEN PROFECIA"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "JONASEN PROFECIA",
+      "abbreviation": "JONASEN PROFECIA"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "MIQUEASEN PROFECIA",
+      "abbreviation": "MIQUEASEN PROFECIA"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "NAHUMEN PROFECIA",
+      "abbreviation": "NAHUMEN PROFECIA"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "HABACUQUEN PROFECIA",
+      "abbreviation": "HABACUQUEN PROFECIA"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "SOPHONIASEN PROFECIA",
+      "abbreviation": "SOPHONIASEN PROFECIA"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "AGJEOREN PROFECIA",
+      "abbreviation": "AGJEOREN PROFECIA"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ÇACARIASEN PROFECIA",
+      "abbreviation": "ÇACARIASEN PROFECIA"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "MALAQUIASEN PROFECIA",
+      "abbreviation": "MALAQUIASEN PROFECIA"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "MATEO",
+      "abbreviation": "MATEO"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "MARKOS",
+      "abbreviation": "MARKOS"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "LUKAS",
+      "abbreviation": "LUKAS"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "JOAN",
+      "abbreviation": "JOAN"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "EGINAK",
+      "abbreviation": "EGINAK"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ERROMATARREI",
+      "abbreviation": "ERROMATARREI"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 KORINTOARREI",
+      "abbreviation": "1KORINTOARREI"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 KORINTOARREI",
+      "abbreviation": "2KORINTOARREI"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "GALAZIARREI",
+      "abbreviation": "GALAZIARREI"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "EFESOARREI",
+      "abbreviation": "EFESOARREI"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "FILIPOARREI",
+      "abbreviation": "FILIPOARREI"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "KOLOSARREI",
+      "abbreviation": "KOLOSARREI"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 TESALONIKARREI",
+      "abbreviation": "1TESALONIKARREI"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 TESALONIKARREI",
+      "abbreviation": "2TESALONIKARREI"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 TIMOTEORI",
+      "abbreviation": "1TIMOTEORI"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 TIMOTEORI",
+      "abbreviation": "2TIMOTEORI"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "TITORI",
+      "abbreviation": "TITORI"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "FILEMONI",
+      "abbreviation": "FILEMONI"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "HEBREARREI",
+      "abbreviation": "HEBREARREI"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "SANTIAGO",
+      "abbreviation": "SANTIAGO"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 PEDRO",
+      "abbreviation": "1PEDRO"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 PEDRO",
+      "abbreviation": "2PEDRO"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 JOAN",
+      "abbreviation": "1JOAN"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 JOAN",
+      "abbreviation": "2JOAN"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 JOAN",
+      "abbreviation": "3JOAN"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "JUDAS",
+      "abbreviation": "JUDAS"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "APOKALIPSIA",
+      "abbreviation": "APOKALIPSIA"
+    }
+  ]
+}

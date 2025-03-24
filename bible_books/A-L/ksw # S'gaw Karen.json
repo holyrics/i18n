@@ -1,0 +1,408 @@
+{
+  "id": "ksw",
+  "language": "ksw",
+  "name": "S\u0027gaw Karen",
+  "alt_name": "ကညီကျိာ်",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "လံာ်တၢ်ကဲထီၣ်အခီၣ်ထံး",
+      "abbreviation": "ကဲထီၣ်"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "လံာ်တၢ်ဟးထီၣ်ကွံာ်",
+      "abbreviation": "ဟးထီၣ်"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "လံာ်တၢ်ဘူၣ်ထီၣ်ဘါထီၣ်",
+      "abbreviation": "ဘူၣ်ဘါ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "လံာ်တၢ်ဂံၢ်",
+      "abbreviation": "တၢ်ဂံၢ်"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "လံာ်သိၣ်လီၤသီလီၤတၢ်",
+      "abbreviation": "သိၣ်သီ"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "လံာ်စီၤယိၤၡူ",
+      "abbreviation": "ၡူ"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "လံာ်ပှၤစံၣ်ညီၣ်ကွီၢ်",
+      "abbreviation": "စံၣ်ညီၣ်"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "လံာ်နီၢ်ရူၤသး",
+      "abbreviation": "ရူၤ"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "လံာ်စီၤၡမူၤအ့လးအခီၣ်ထံးတဘ့ၣ်",
+      "abbreviation": "၁ မူၤ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "လံာ်စီၤၡမူၤအ့လးခံဘ့ၣ်တဘ့ၣ်",
+      "abbreviation": "၂ မူၤ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "လံာ်စီၤပၤအခီၣ်ထံးတဘ့ၣ်",
+      "abbreviation": "၁စီၤပၤ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "လံာ်စီၤပၤခံဘ့ၣ်တဘ့ၣ်",
+      "abbreviation": "၂စီၤပၤ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "လံာ်ကွဲးနီၣ်တၢ်အခီၣ်ထံးတဘ့ၣ်",
+      "abbreviation": "၁ကွဲး"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "လံာ်ကွဲးနီၣ်တၢ်ခံဘ့ၣ်တဘ့ၣ်",
+      "abbreviation": "၂ကွဲး"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "လံာ်စီၤဧ့စြၤ",
+      "abbreviation": "ဧ့"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "လံာ်စီၤနဃ့မယၤ",
+      "abbreviation": "ဃ့"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "လံာ်နီၢ်အ့ၤစတၢ်",
+      "abbreviation": "အ့ၤ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "လံာ်စီၤယိၤဘး",
+      "abbreviation": "ယိၤဘး"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "စံးထီၣ်ပတြၢၤ",
+      "abbreviation": "စံး"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "လံာ်တၢ်ကူၣ်သ့အတၢ်ကတိၤ",
+      "abbreviation": "ကူၣ်သ့"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "လံာ်ပှၤစံၣ်တဲၤတဲလီၤတၢ်",
+      "abbreviation": "စံၣ်"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "လံာ်တၢ်သးဝံၣ်တဖၣ်အတၢ်သးဝံၣ်",
+      "abbreviation": "တၢ်"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "လံာ်ယၡါယၤ",
+      "abbreviation": "ၡါ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "လံာ်ယံးရမံယၤ",
+      "abbreviation": "ယံး"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "လံာ်သးသယုၢ်တၢ်",
+      "abbreviation": "သး"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "လံာ်ယဃ့းစက့လး",
+      "abbreviation": "ဃ့း"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "လံာ်ဒၤနံးယ့လး",
+      "abbreviation": "ဒၤ"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "လံာ်ဟိၤၡ့",
+      "abbreviation": "ဟိၤ"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "လံာ်ယိၤအ့လး",
+      "abbreviation": "အ့"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "လံာ်ဧၤမိၣ်",
+      "abbreviation": "ဧၤ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "လံာ်ဧိၤဘါဒယၤ",
+      "abbreviation": "ဧိၤ"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "လံာ်ယိၤနါ",
+      "abbreviation": "နါ"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "လံာ်မံကၤ",
+      "abbreviation": "မံ"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "လံာ်နၤဃူၣ်",
+      "abbreviation": "နၤ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "လံာ်ဃဘးကူာ်",
+      "abbreviation": "ဃဘး"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "လံာ်စဖါနယၤ",
+      "abbreviation": "စဖါ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "လံာ်ဃးကဲ",
+      "abbreviation": "ဃး"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "လံာ်စကၤရယၤ",
+      "abbreviation": "စကၤ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "လံာ်မၤလကံ",
+      "abbreviation": "မၤ"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "လံာ်မးသဲ",
+      "abbreviation": "မး"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "လံာ်မၢ်ကူး",
+      "abbreviation": "မၢ်"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "လံာ်လူၤကၣ်",
+      "abbreviation": "လူၤ"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "လံာ်ယိၤဟၣ်",
+      "abbreviation": "ယိၤ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "မၤတၢ်",
+      "abbreviation": "မၤတၢ်"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ရိမ့ၤ",
+      "abbreviation": "ရိ"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 ကရံၣ်သူး",
+      "abbreviation": "၁ကရံၣ်"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "၂ ကရံၣ်သူး",
+      "abbreviation": "၂ကရံၣ်"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ကလၤတံ",
+      "abbreviation": "ကလၤ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "အ့းဖ့းစူး",
+      "abbreviation": "အ့း"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ဖံလံးပံၤ",
+      "abbreviation": "ဖံလံး"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ကလီးစဲ",
+      "abbreviation": "ကလီး"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "၁ သ့းစၤလနံ",
+      "abbreviation": "၁သ့း"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "၂ သ့းစၤလနံ",
+      "abbreviation": "၂သ့း"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "၁ တံၤမသ့း",
+      "abbreviation": "၁တံၤ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "၂ တံၤမသ့း",
+      "abbreviation": "၂တံၤ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "တံတူး",
+      "abbreviation": "တံ"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ဖံၤလ့မိၣ်",
+      "abbreviation": "ဖံၤ"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ဧ့ၤဘြံၤ",
+      "abbreviation": "ဧ့ၤ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ယၤကိာ်",
+      "abbreviation": "ယၤ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "၁ ပ့းတရူး",
+      "abbreviation": "၁ပ့း"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "၂ ပ့းတရူး",
+      "abbreviation": "၂ပ့း"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "၁ ယိၤဟၣ်",
+      "abbreviation": "၁ယိၤ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "၂ ယိၤဟၣ်",
+      "abbreviation": "၂ယိၤ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "၃ ယိၤဟၣ်",
+      "abbreviation": "၃ယိၤ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ယူဒၤ",
+      "abbreviation": "ယူ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "လံာ်လီၣ်ဖျါ",
+      "abbreviation": "လီၣ်"
+    }
+  ]
+}

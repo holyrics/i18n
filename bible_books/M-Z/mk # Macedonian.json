@@ -1,0 +1,408 @@
+{
+  "id": "mk",
+  "language": "mk",
+  "name": "Macedonian",
+  "alt_name": "Македонски",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Создавање",
+      "abbreviation": "1Мојс"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Излез",
+      "abbreviation": "2Мојс"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Левитска",
+      "abbreviation": "3Мојс"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Броеви",
+      "abbreviation": "4Мојс"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Повторени закони",
+      "abbreviation": "5Мојс"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Исус Навин",
+      "abbreviation": "Ис.Н"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Судии",
+      "abbreviation": "Суд"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Рута",
+      "abbreviation": "Рута"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Самоилова",
+      "abbreviation": "1Сам"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Самоилова",
+      "abbreviation": "2Сам"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 Царевите",
+      "abbreviation": "1Цар"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 Царевите",
+      "abbreviation": "2Цар"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Летописи",
+      "abbreviation": "1Лет"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Летописи",
+      "abbreviation": "2Лет"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ездра",
+      "abbreviation": "Езд"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Неемија",
+      "abbreviation": "Неем"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Естира",
+      "abbreviation": "Ест"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Јов",
+      "abbreviation": "Јов"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Псалми",
+      "abbreviation": "Пс"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Изреки",
+      "abbreviation": "Изреки"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Проповедник",
+      "abbreviation": "Проп"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Песна над песните",
+      "abbreviation": "Песна"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Исаија",
+      "abbreviation": "Ис"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Еремија",
+      "abbreviation": "Ер"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Плачот",
+      "abbreviation": "Плач"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Езекиел",
+      "abbreviation": "Ез"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Даниел",
+      "abbreviation": "Дан"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Осија",
+      "abbreviation": "Ос"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Јоил",
+      "abbreviation": "Јоил"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Амос",
+      "abbreviation": "Амос"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Авдиј",
+      "abbreviation": "Авд"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Јона",
+      "abbreviation": "Јона"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Михеј",
+      "abbreviation": "Мих"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Наум",
+      "abbreviation": "Наум"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Авакум",
+      "abbreviation": "Авак"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Софонија",
+      "abbreviation": "Соф"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Агеј",
+      "abbreviation": "Агеј"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Захарија",
+      "abbreviation": "Зах"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Малахија",
+      "abbreviation": "Мал"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Матеј",
+      "abbreviation": "Мт"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Марко",
+      "abbreviation": "Мк"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Лука",
+      "abbreviation": "Лк"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Јован",
+      "abbreviation": "Јн"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Дела",
+      "abbreviation": "Дела"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Римјаните",
+      "abbreviation": "Рим"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Коринтјаните",
+      "abbreviation": "1Кор"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Коринтјаните",
+      "abbreviation": "2Кор"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Галатјаните",
+      "abbreviation": "Гал"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Ефесјаните",
+      "abbreviation": "Ефес"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Филипјаните",
+      "abbreviation": "Фил"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Колосјаните",
+      "abbreviation": "Кол"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Солуњаните",
+      "abbreviation": "1Сол"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Солуњаните",
+      "abbreviation": "2Сол"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Тимотеј",
+      "abbreviation": "1Тим"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Тимотеј",
+      "abbreviation": "2Тим"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Тит",
+      "abbreviation": "Тит"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Филимон",
+      "abbreviation": "Флмн"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Евреите",
+      "abbreviation": "Евр"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Јаков",
+      "abbreviation": "Јк"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Петар",
+      "abbreviation": "1Птр"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Петар",
+      "abbreviation": "2Птр"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Јован",
+      "abbreviation": "1Јн"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Јован",
+      "abbreviation": "2Јн"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Јован",
+      "abbreviation": "3Јн"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Јуда",
+      "abbreviation": "Јуда"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Откровение",
+      "abbreviation": "Откр"
+    }
+  ]
+}

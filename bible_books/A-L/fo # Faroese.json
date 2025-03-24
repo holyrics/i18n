@@ -1,0 +1,408 @@
+{
+  "id": "fo",
+  "language": "fo",
+  "name": "Faroese",
+  "alt_name": "Føroyskt",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Genesis",
+      "abbreviation": "Genesis"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Exodus",
+      "abbreviation": "Exodus"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Triðja Mósebók",
+      "abbreviation": "3Mós"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Fjórða Mósebók",
+      "abbreviation": "4Mós"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Fimta Mósebók",
+      "abbreviation": "5Mós"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Jósvabók",
+      "abbreviation": "Jós"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Dómarabókin",
+      "abbreviation": "Dóm"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rutarbók",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "Fyrra Sámuelsbók",
+      "abbreviation": "1Sám"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "Seinna Sámuelsbók",
+      "abbreviation": "2Sám"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "Fyrra Kongabók",
+      "abbreviation": "1Kong"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "Seinna Kongabók",
+      "abbreviation": "2Kong"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "Fyrra Krýnikubók",
+      "abbreviation": "1Krýn"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "Seinna Krýnikubók",
+      "abbreviation": "2Krýn"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ezra",
+      "abbreviation": "Ezra"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemia",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Esterarbók",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Jobsbók",
+      "abbreviation": "Job"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Sálmarnir",
+      "abbreviation": "Sl"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Orðtøk Sálomons",
+      "abbreviation": "Orðt"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Prædikarin",
+      "abbreviation": "Præd"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Hásongurin",
+      "abbreviation": "Hás"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Jesaja",
+      "abbreviation": "Jes"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jeremia",
+      "abbreviation": "Jer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Harmljóðini",
+      "abbreviation": "Harmlj"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ezekiel",
+      "abbreviation": "Ez"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Dánjal",
+      "abbreviation": "Dán"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hósea",
+      "abbreviation": "Hós"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Jóel",
+      "abbreviation": "Jóel"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Ámos",
+      "abbreviation": "Ám"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Óbadia",
+      "abbreviation": "Óbad"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jónas",
+      "abbreviation": "Jón"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mika",
+      "abbreviation": "Mika"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Náhum",
+      "abbreviation": "Náh"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Hábakkuk",
+      "abbreviation": "Háb"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sefanja",
+      "abbreviation": "Sef"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Haggai",
+      "abbreviation": "Hagg"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zakarja",
+      "abbreviation": "Zak"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Málaki",
+      "abbreviation": "Mál"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Evangeliið eftir Matteus",
+      "abbreviation": "Matt"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Evangeliið eftir Markus",
+      "abbreviation": "Mark"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Evangeliið eftir Lukas",
+      "abbreviation": "Luk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Evangeliið eftir Jóhannes",
+      "abbreviation": "Jóh"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Ápostlasøgan",
+      "abbreviation": "Áps"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Bræv Paulusar ápostuls til Rómverja",
+      "abbreviation": "Róm"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "Fyrra Korintbrævið",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "Seinna Korintbrævið",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galatabrævið",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efesusbrævið",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filippibrævið",
+      "abbreviation": "Fil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolossubrævið",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "Fyrra Tessalónikubrævið",
+      "abbreviation": "1Tess"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "Seinna Tessalónikubrævið",
+      "abbreviation": "2Tess"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "Fyrra Timoteusarbrævið",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "Seinna Timoteusarbrævið",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Titusarbrævið",
+      "abbreviation": "Tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemonsbrævið",
+      "abbreviation": "Filem"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Hebrearabrævið",
+      "abbreviation": "Hebr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Hitt almenna bræv Jákups",
+      "abbreviation": "Ják"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "Hitt fyrra almenna bræv Pæturs",
+      "abbreviation": "1Pæt"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "Hitt seinna almenna bræv Pæturs",
+      "abbreviation": "2Pæt"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 John",
+      "abbreviation": "1John"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "Annað bræv Jóhannesar",
+      "abbreviation": "2Jóh"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "Triðja bræv Jóhannesar",
+      "abbreviation": "3Jóh"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Hitt almenna bræv Judasar",
+      "abbreviation": "Jud"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Jóhannesar opinbering",
+      "abbreviation": "Opb"
+    }
+  ]
+}

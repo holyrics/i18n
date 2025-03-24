@@ -1,0 +1,408 @@
+{
+  "id": "bci",
+  "language": "bci",
+  "name": "Baoulé",
+  "alt_name": "Baoulé",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Bo Bolɛ",
+      "abbreviation": "Bob"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Ezipt Lɔ Tulɛ\u0027n",
+      "abbreviation": "Tul"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Saun Yolɛ",
+      "abbreviation": "Sau"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Kalɛ",
+      "abbreviation": "Kal"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Mmla\u0027n",
+      "abbreviation": "Mml"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Zozie",
+      "abbreviation": "Zoz"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Jɔlɛ Difuɛ Mun",
+      "abbreviation": "Jɔl"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rit",
+      "abbreviation": "Rit"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Samiɛl",
+      "abbreviation": "1Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Samiɛl",
+      "abbreviation": "2Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 Famiɛn Mun",
+      "abbreviation": "1Fam"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 Famiɛn Mun",
+      "abbreviation": "2Fam"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Be Nyoliɛ",
+      "abbreviation": "1Nyo"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Be Nyoliɛ",
+      "abbreviation": "2Nyo"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ɛsdras",
+      "abbreviation": "Ɛsd"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Neemi",
+      "abbreviation": "Nee"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ɛstɛr",
+      "abbreviation": "Ɛst"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Zɔb",
+      "abbreviation": "Zɔb"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Jue Mun",
+      "abbreviation": "Jue"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Nyanndra Mun",
+      "abbreviation": "Nya"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Akunndanfuɛ\u0027n",
+      "abbreviation": "Aku"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Ngɔjue Fɛfɛ Kpa\u0027n",
+      "abbreviation": "Fɛf"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Ezai",
+      "abbreviation": "Eza"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Zeremi",
+      "abbreviation": "Zer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Ngwlɛ Yilɛ",
+      "abbreviation": "Ngw"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ezekiɛl",
+      "abbreviation": "Eze"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniɛl",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Oze",
+      "abbreviation": "Oze"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Zoɛl",
+      "abbreviation": "Zoɛ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amɔs",
+      "abbreviation": "Amɔ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Abdias",
+      "abbreviation": "Abd"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Zonas",
+      "abbreviation": "Zon"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mise",
+      "abbreviation": "Mis"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Naɔm",
+      "abbreviation": "Naɔ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Abakik",
+      "abbreviation": "Aba"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Sofoni",
+      "abbreviation": "Sof"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Aze",
+      "abbreviation": "Aze"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zakari",
+      "abbreviation": "Zkr"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malasi",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Matie",
+      "abbreviation": "Mat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Mark",
+      "abbreviation": "Mar"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Lik",
+      "abbreviation": "Lik"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Zan",
+      "abbreviation": "Zan"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Sa Nga Be Yoli\u0027n",
+      "abbreviation": "Yol"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Rɔmfuɛ Mun",
+      "abbreviation": "Rɔm"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 Korɛntfuɛ Mun",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 Korɛntfuɛ Mun",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galasifuɛ Mun",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efɛzfuɛ Mun",
+      "abbreviation": "Efɛ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipfuɛ Mun",
+      "abbreviation": "Fil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolɔsfuɛ Mun",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 Tɛsalonikfuɛ Mun",
+      "abbreviation": "1Tɛs"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 Tɛsalonikfuɛ Mun",
+      "abbreviation": "2Tɛs"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Timote",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Timote",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tit",
+      "abbreviation": "Tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemɔn",
+      "abbreviation": "Flm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Ebre Mun",
+      "abbreviation": "Ebr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Zak",
+      "abbreviation": "Zak"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Piɛr",
+      "abbreviation": "1Piɛ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Piɛr",
+      "abbreviation": "2Piɛ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Zan",
+      "abbreviation": "1Zan"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Zan",
+      "abbreviation": "2Zan"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Zan",
+      "abbreviation": "3Zan"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Zid",
+      "abbreviation": "Zid"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Sa Nglo Yilɛ",
+      "abbreviation": "Ngl"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": "ikk",
+  "language": "ikk",
+  "name": "Ika",
+  "alt_name": "Ika",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Jẹnẹsisi",
+      "abbreviation": "Jẹn"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Ọpụpụ",
+      "abbreviation": "Ọpụ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Lẹvitikọsụ",
+      "abbreviation": "Lẹv"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Ọgụngụn",
+      "abbreviation": "Ọgụ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Ditrọnọmi",
+      "abbreviation": "Dit"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Joshụa",
+      "abbreviation": "Jos"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Ndị Han Eṅẹn",
+      "abbreviation": "Eṅẹ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rutu",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "Samuẹlụ Nke Ibuzọ",
+      "abbreviation": "1Sa"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "Samuẹlụ Nke Ẹbụọ",
+      "abbreviation": "2Sa"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "Ndị-nze Nke Ibuzọ",
+      "abbreviation": "1Nz"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "Ndị-nze Nke Ẹbụọ",
+      "abbreviation": "2Nz"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "Ihiẹn Mẹni Nke Ibuzọ",
+      "abbreviation": "1Hm"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "Ihiẹn Mẹni Nke Ẹbụọ",
+      "abbreviation": "2Hm"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ẹzra",
+      "abbreviation": "Ẹzr"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemiah",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ẹsta",
+      "abbreviation": "Ẹst"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Jobu",
+      "abbreviation": "Job"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Ẹbụ-ọma",
+      "abbreviation": "Ẹbụ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Itẹn",
+      "abbreviation": "Itẹ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Ẹkịliziastisi",
+      "abbreviation": "Ẹkị"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Ẹbụ Solomọnụ",
+      "abbreviation": "Ẹbs"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Azaya",
+      "abbreviation": "Aza"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jerimaya",
+      "abbreviation": "Jer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Ẹkwan",
+      "abbreviation": "Ẹkw"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Izikẹlụ",
+      "abbreviation": "Izi"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniẹlụ",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hosia",
+      "abbreviation": "Hos"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Juwẹlụ",
+      "abbreviation": "Juẹ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Emọsụ",
+      "abbreviation": "Emọ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadaya",
+      "abbreviation": "Oba"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jona",
+      "abbreviation": "Jna"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Maịka",
+      "abbreviation": "Maị"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahum",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habakọkụ",
+      "abbreviation": "Hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Zẹfanaya",
+      "abbreviation": "Zẹf"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Hagaị",
+      "abbreviation": "Hag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zẹkaraya",
+      "abbreviation": "Zẹk"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malakaị",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Matiu",
+      "abbreviation": "Mat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Makị",
+      "abbreviation": "Mak"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luku",
+      "abbreviation": "Luk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Jọnụ",
+      "abbreviation": "Jọn"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Ọrụn Ndị-ozi",
+      "abbreviation": "Ọrụn"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Ndị Rom",
+      "abbreviation": "Rom"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "Ndị Kọrẹntị Ibuzọ",
+      "abbreviation": "1Kọ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "Ndị Kọrẹntị Nke Ẹbụọ",
+      "abbreviation": "2Kọ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Ndị Galeshịa",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Ndị Ẹfẹsọsụ",
+      "abbreviation": "Ẹfẹ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Ndị Filipi",
+      "abbreviation": "Fil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Ndị Kolosị",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "Ndị Tẹsalonika Ibuzọ",
+      "abbreviation": "1Tẹ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "Ndị Tẹsalonika Nke Ẹbụọ",
+      "abbreviation": "2Tẹ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "Timoti Ibuzọ",
+      "abbreviation": "1Ti"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "Timoti Nke Ẹbụọ",
+      "abbreviation": "2Ti"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Taịtọsụ",
+      "abbreviation": "Taị"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemọnụ",
+      "abbreviation": "Fim"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Hibru",
+      "abbreviation": "Hib"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Jemisi",
+      "abbreviation": "Jem"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "Pita Ibuzọ",
+      "abbreviation": "1Pi"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "Pita Nke Ẹbụọ",
+      "abbreviation": "2Pi"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "Jọnụ Ibuzọ",
+      "abbreviation": "1Jn"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "Jọnụ Nke Ẹbụọ",
+      "abbreviation": "2Jn"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "Jọnụ Nke Ẹtọ",
+      "abbreviation": "3Jn"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Judu",
+      "abbreviation": "Jud"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Rẹvẹleshọnụ",
+      "abbreviation": "Rẹv"
+    }
+  ]
+}

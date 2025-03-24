@@ -1,0 +1,408 @@
+{
+  "id": "tyz",
+  "language": "tyz",
+  "name": "Tày",
+  "alt_name": "Tày",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Tặt Có Bôn Đin",
+      "abbreviation": "Tặt"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Oóc Khói Ai Cập",
+      "abbreviation": "Oóc"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Lê-vi",
+      "abbreviation": "Lê"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Dân Slố",
+      "abbreviation": "Dân"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Chuyền Te̱o Lệ Lài",
+      "abbreviation": "Chuyền"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Dô-xuê",
+      "abbreviation": "Dôx"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Bại Quan Xét",
+      "abbreviation": "Quan"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Ru-tơ",
+      "abbreviation": "Ru"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "I Xa-mu-ên",
+      "abbreviation": "I Xam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "II Xa-mu-ên",
+      "abbreviation": "II Xam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "I Bại Vuồng",
+      "abbreviation": "I Vuồng"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "II Bại Vuồng",
+      "abbreviation": "II Vuồng"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "I Lịch Xử",
+      "abbreviation": "I Xử"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "II Lịch Xử",
+      "abbreviation": "II Xử"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "E-xơ-ra",
+      "abbreviation": "Exra"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nê-hê-mi",
+      "abbreviation": "Nê"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Ê-xơ-tê",
+      "abbreviation": "Êxtê"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Dóp",
+      "abbreviation": "Dóp"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Sli Then",
+      "abbreviation": "Sli"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Cằm Slắng Slon",
+      "abbreviation": "Cằm"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Tạy Đạo",
+      "abbreviation": "Tạy"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Bài Co",
+      "abbreviation": "Bài"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Ê-xai",
+      "abbreviation": "Êxai"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Dê-rê-mi",
+      "abbreviation": "Dê"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Bài Sli Slương Slép",
+      "abbreviation": "Slương"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ê-xê-chi-ên",
+      "abbreviation": "Êxê"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Đa-ni-ên",
+      "abbreviation": "Đa"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Ô-xê",
+      "abbreviation": "Ôxê"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Dô-ên",
+      "abbreviation": "Dôên"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "A-mốt",
+      "abbreviation": "Amốt"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Áp-đia",
+      "abbreviation": "Ápđia"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Dô-na",
+      "abbreviation": "Dôna"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mi-chê",
+      "abbreviation": "Mi"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Na-hum",
+      "abbreviation": "Na"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Ha-ba-cúc",
+      "abbreviation": "Ha"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Xô-phô-ni",
+      "abbreviation": "Xô"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "A-ngê",
+      "abbreviation": "Angê"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Xa-cha-ri",
+      "abbreviation": "Xa"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Ma-la-chi",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Ma-thi-ơ",
+      "abbreviation": "Mat"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Mác",
+      "abbreviation": "Mác"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Lu-ca",
+      "abbreviation": "Lu"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Dăng",
+      "abbreviation": "Dăng"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Công Viêc",
+      "abbreviation": "Công"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Rô-ma",
+      "abbreviation": "Rô"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "I Cô-rinh-tô",
+      "abbreviation": "I Cô"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "II Cô-rinh-tô",
+      "abbreviation": "II Cô"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Nga-la-ti",
+      "abbreviation": "Nga"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Ê-phê-xô",
+      "abbreviation": "Êph"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Phi-líp",
+      "abbreviation": "Phil"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Cô-lô-xe",
+      "abbreviation": "Côl"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "I Tê-xa-lô-ni-ca",
+      "abbreviation": "I Tê"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "II Tê-xa-lô-ni-ca",
+      "abbreviation": "II Tê"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "I Ti-mô-thê",
+      "abbreviation": "I Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "II Ti-mô-thê",
+      "abbreviation": "II Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Tít",
+      "abbreviation": "Tít"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Phi-lê-môn",
+      "abbreviation": "Phlm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Hê-bơ-rơ",
+      "abbreviation": "Hê"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Da-cơ",
+      "abbreviation": "Da"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "I Phi-e-rơ",
+      "abbreviation": "I Phi"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "II Phi-e-rơ",
+      "abbreviation": "II Phi"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "I Dăng",
+      "abbreviation": "I Dăng"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "II Dăng",
+      "abbreviation": "II Dăng"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "III Dăng",
+      "abbreviation": "III Dăng"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Du-đe",
+      "abbreviation": "Du"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Khay Oóc",
+      "abbreviation": "Khay"
+    }
+  ]
+}

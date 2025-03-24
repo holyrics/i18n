@@ -1,0 +1,408 @@
+{
+  "id": "lv",
+  "language": "lv",
+  "name": "Latvian",
+  "alt_name": "Latviešu Valoda",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "1. Mozus",
+      "abbreviation": "1Moz"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "2. Mozus",
+      "abbreviation": "2Moz"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "3. Mozus",
+      "abbreviation": "3Moz"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "4. Mozus",
+      "abbreviation": "4Moz"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "5. Mozus",
+      "abbreviation": "5Moz"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Jozuas",
+      "abbreviation": "Joz"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Soģu",
+      "abbreviation": "Soģ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Rutes",
+      "abbreviation": "Rut"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1. Samuēla",
+      "abbreviation": "1Sam"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2. Samuēla",
+      "abbreviation": "2Sam"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1. Ķēniņu",
+      "abbreviation": "1Ķēn"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2. Ķēniņu",
+      "abbreviation": "2Ķēn"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1. Laiku",
+      "abbreviation": "1L"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2. Laiku",
+      "abbreviation": "2L"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ezras",
+      "abbreviation": "Ezr"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemijas",
+      "abbreviation": "Neh"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Esteres",
+      "abbreviation": "Est"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Ījaba",
+      "abbreviation": "Īj"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Psalmi",
+      "abbreviation": "Ps"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Sakāmvārdi",
+      "abbreviation": "Sak"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Mācītājs",
+      "abbreviation": "Māc"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Dziesmu dziesma",
+      "abbreviation": "Dz"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Jesajas",
+      "abbreviation": "Jes"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Jeremijas",
+      "abbreviation": "Jer"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Vaimanu dziesmas",
+      "abbreviation": "Vdz"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ecehiēla",
+      "abbreviation": "Ech"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniēla",
+      "abbreviation": "Dan"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hozejas",
+      "abbreviation": "Hoz"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Joēla",
+      "abbreviation": "Jl"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amosa",
+      "abbreviation": "Am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadjas",
+      "abbreviation": "Ob"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Jonas",
+      "abbreviation": "Jon"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mihas",
+      "abbreviation": "Mih"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahūma",
+      "abbreviation": "Nah"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habakuka",
+      "abbreviation": "Hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Cefanjas",
+      "abbreviation": "Cef"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Hagaja",
+      "abbreviation": "Hag"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zaharijas",
+      "abbreviation": "Zah"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Maleahija",
+      "abbreviation": "Mal"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Mateja",
+      "abbreviation": "Mt"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Marka",
+      "abbreviation": "Mk"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Lūkas",
+      "abbreviation": "Lk"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Jāņa",
+      "abbreviation": "Jņ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Apustuļu darbi",
+      "abbreviation": "Apd"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "Romiešiem",
+      "abbreviation": "Rm"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1. Korintiešiem",
+      "abbreviation": "1Kor"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2. Korintiešiem",
+      "abbreviation": "2Kor"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "Galatiešiem",
+      "abbreviation": "Gal"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "Efesiešiem",
+      "abbreviation": "Ef"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "Filipiešiem",
+      "abbreviation": "Flp"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "Kolosiešiem",
+      "abbreviation": "Kol"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1. Tesalonīkiešiem",
+      "abbreviation": "1Tes"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2. Tesalonīkiešiem",
+      "abbreviation": "2Tes"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1. Timotejam",
+      "abbreviation": "1Tim"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2. Timotejam",
+      "abbreviation": "2Tim"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Titam",
+      "abbreviation": "Tit"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemonam",
+      "abbreviation": "Flm"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "Ebrejiem",
+      "abbreviation": "Ebr"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Jēkaba",
+      "abbreviation": "Jk"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1. Pētera",
+      "abbreviation": "1Pēt"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2. Pētera",
+      "abbreviation": "2Pēt"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1. Jāņa",
+      "abbreviation": "1Jņ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2. Jāņa",
+      "abbreviation": "2Jņ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3. Jāņa",
+      "abbreviation": "3Jņ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Jūdas",
+      "abbreviation": "Jūd"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Atklāsmes",
+      "abbreviation": "Atkl"
+    }
+  ]
+}

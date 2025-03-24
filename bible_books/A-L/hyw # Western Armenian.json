@@ -1,0 +1,408 @@
+{
+  "id": "hyw",
+  "language": "hyw",
+  "name": "Western Armenian",
+  "alt_name": "հայերէն (Արեւմտահայերէն)",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ԾՆՆԴՈՑ",
+      "abbreviation": "Ծննդ"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ԵԼԻՑ",
+      "abbreviation": "Ելից"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ՂԵՒՏԱՑՒՈՑ",
+      "abbreviation": "Ղեւտ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ԹՈՒՈՑ",
+      "abbreviation": "Թուոց"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Բ. ՕՐԻՆԱՑ",
+      "abbreviation": "Բ. Օր"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "ՅԵՍՈՒԱՅ",
+      "abbreviation": "Յես"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ԴԱՏԱՒՈՐԱՑ",
+      "abbreviation": "Դատ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ՀՌՈՒԹ",
+      "abbreviation": "ru"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "Ա. ԹԱԳԱՒՈՐԱՑ",
+      "abbreviation": "Ա. Թագ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "Բ. ԹԱԳԱՒՈՐԱՑ",
+      "abbreviation": "Բ. Թագ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "Գ. ԹԱԳԱՒՈՐԱՑ",
+      "abbreviation": "Գ. Թագ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "Դ. ԹԱԳԱՒՈՐԱՑ",
+      "abbreviation": "Դ. Թագ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "Ա. ՄՆԱՑՈՐԴԱՑ",
+      "abbreviation": "Ա. Մնաց"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "Բ. ՄՆԱՑՈՐԴԱՑ",
+      "abbreviation": "Բ. Մնաց"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ԵԶՐԱՍ",
+      "abbreviation": "Եզրաս"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ՆԷԵՄԵԱՅ",
+      "abbreviation": "Նէեմ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ԵՍԹԵՐ",
+      "abbreviation": "es"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ՅՈԲԱՅ",
+      "abbreviation": "jb"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ՍԱՂՄՈՍ",
+      "abbreviation": "Սաղմ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ԱՌԱԿԱՑ",
+      "abbreviation": "pr"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ԺՈՂՈՎՈՂԻ",
+      "abbreviation": "ec"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "ԵՐԳ ԵՐԳՈՑ",
+      "abbreviation": "so"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ԵՍԱՅԵԱՅ",
+      "abbreviation": "Եսայ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ԵՐԵՄԵԱՅ",
+      "abbreviation": "Երեմ"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ՈՂԲՔ ԵՐԵՄԵԱՅ",
+      "abbreviation": "la"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ԵԶԵԿԻԷԼԻ",
+      "abbreviation": "Եզեկ"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ԴԱՆԻԷԼ",
+      "abbreviation": "dn"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ՈՎՍԵԱՅ",
+      "abbreviation": "ho"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "ՅՈՎԵԼԵԱՅ",
+      "abbreviation": "jl"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ԱՄՈՎՍԱՅ",
+      "abbreviation": "am"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ԱԲԴԻՈՒ",
+      "abbreviation": "ob"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "ՅՈՎՆԱՆՈՒ",
+      "abbreviation": "jon"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "ՄԻՔԻԱՅ",
+      "abbreviation": "mic"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ՆԱՒՈՒՄԱՅ",
+      "abbreviation": "na"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ԱՄԲԱԿՈՒՄԱՅ",
+      "abbreviation": "hab"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ՍՈՓՈՆԵԱՅ",
+      "abbreviation": "zp"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ԱՆԳԵԱՅ",
+      "abbreviation": "hg"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ԶԱՔԱՐԵԱՅ",
+      "abbreviation": "zc"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ՄԱՂԱՔԵԱՅ",
+      "abbreviation": "ml"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "ՄԱՏԹԷՈՍ",
+      "abbreviation": "Մատթ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "ՄԱՐԿՈՍ",
+      "abbreviation": "Մարկ"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ՂՈԻԿԱՍ",
+      "abbreviation": "Ղուկ"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "ՅՈՎՀԱՆՆՈԻ",
+      "abbreviation": "Յովհ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "ԳՈՐԾՔ ԱՌԱՔԵԼՈՑ",
+      "abbreviation": "Գործ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ՀՌՈՎՄԱՅԵՑԻՍ",
+      "abbreviation": "Հռովմ"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "ԱՌԱՋԻՆ ԿՈՐՆԹԱՑԻՍ",
+      "abbreviation": "Ա. Կորթ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "ԵՐԿՐՈՐԴ ԿՈՐՆԹԱՑԻՍ",
+      "abbreviation": "Բ. Կորթ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ԳԱՂԱՏԱՑԻՍ",
+      "abbreviation": "Գաղ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ԵՓԵՍԱՑԻՍ",
+      "abbreviation": "Եփս"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ՓԻԼԻՊՊԵՑԻՍ",
+      "abbreviation": "Փիլպ"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ԿՈՂՈՍԱՑԻՍ",
+      "abbreviation": "Կող"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "ԱՌԱՋԻՆ ԹԵՍԱՂՈՆԻԿԵՑԻՍ",
+      "abbreviation": "Ա. Թես"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "ԵՐԿՐՈՐԴ ԹԵՍԱՂՈՆԻԿԵՑԻՍ",
+      "abbreviation": "Բ. Թես"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "ԱՌԱՋԻՆ ՏԻՄՈԹԷՈՍ",
+      "abbreviation": "Ա. Տիմ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "ԵՐԿՐՈՐԴ ՏԻՄՈԹԷՈՍ",
+      "abbreviation": "Բ. Տիմ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ՏԻՏՈՍ",
+      "abbreviation": "ՏԻՏ"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ՓԻԼԻՄՈՆ",
+      "abbreviation": "Փիլ"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ԵԲՐԱՅԵՑԻՍ",
+      "abbreviation": "Եբր"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ՅԱԿՈԲՈՒ",
+      "abbreviation": "Յակ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "ԱՌԱՋԻՆ ՊԵՏՐՈՍԻ",
+      "abbreviation": "Ա. Պետ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "ԵՐԿՐՈՐԴ ՊԵՏՐՈՍԻ",
+      "abbreviation": "Բ. Պետ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "ԱՌԱՋԻՆ ՅՈՎՀԱՆՆՈՒ",
+      "abbreviation": "Ա. Յովհ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "ԵՐԿՐՈՐԴ ՅՈՎՀԱՆՆՈՒ",
+      "abbreviation": "Բ. Յովհ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "ԵՐՐՈՐԴ ՅՈՎՀԱՆՆՈՒ",
+      "abbreviation": "Գ. Յովհ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ՅՈՒԴԱՅԻ",
+      "abbreviation": "Յուդ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ՅԱՅՏՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+      "abbreviation": "Յայտ. Յովհ"
+    }
+  ]
+}

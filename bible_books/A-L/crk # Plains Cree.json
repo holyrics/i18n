@@ -1,0 +1,408 @@
+{
+  "id": "crk",
+  "language": "crk",
+  "name": "Plains Cree",
+  "alt_name": "ᓀᐦᐃᔭᐍᐏᐣ",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "ᒉᓂᓯᐢ",
+      "abbreviation": "ᒉᓂᓯᐢ"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "ᐁᐠᓴᑕᐢ",
+      "abbreviation": "ᐁᐠᓴᑕᐢ"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "ᓬᐃᐱᑎᑲᐢ",
+      "abbreviation": "ᓬᐃᐱᑎᑲᐢ"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "ᓇᒼᐸᕒᐢ",
+      "abbreviation": "ᓇᒼᐸᕒᐢ"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "ᑎᔪᑕᕒᐊᓇᒥ",
+      "abbreviation": "ᑎᔪᑕᕒᐊᓇᒥ"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "ᒑᐢᔪᐊ",
+      "abbreviation": "ᒑᐢᔪᐊ"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "ᐅᔭᓱᐁᐧᐊᐧᐠ",
+      "abbreviation": "ᐅᔭᓱᐁᐧᐊᐧᐠ"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "ᕒᐅᐦᐟ",
+      "abbreviation": "ᕒᐅᐦᐟ"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "ᓂᐢᑕᒼ ᓵᒼᔪᐃᓬ",
+      "abbreviation": "1ᓵᒼᔪᐃᓬ"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "ᓃᓵᐧᐤ ᓵᒼᔪᐃᓬ",
+      "abbreviation": "2ᓵᒼᔪᐃᓬ"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "ᓂᐢᑕᑦ ᑭᐦᒋ ᐅᑭᒫᐊᐧᐠ",
+      "abbreviation": "1ᑭᐦᒋ ᐅᑭᒫᐊᐧᐠ"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "ᓃᓵᐧᐤ ᑭᐦᒋ ᐅᑭᒫᐊᐧᐠ",
+      "abbreviation": "2ᑭᐦᒋ ᐅᑭᒫᐊᐧᐠ"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "ᓂᐢᑕᑦ ᐊᑭᓀ ᐋᒋᒧᐃᐧᓇ",
+      "abbreviation": "1ᐊᑭᓀ ᐋᒋᒧᐃᐧᓇ"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "ᓃᓵᐧᐤ ᐊᑭᓀ ᐋᒋᒧᐃᐧᓇ",
+      "abbreviation": "2ᐊᑭᓀ ᐋᒋᒧᐃᐧᓇ"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "ᐁᐢᕒᐊ",
+      "abbreviation": "ᐁᐢᕒᐊ"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "ᓂᐦᐃᒫᔭ",
+      "abbreviation": "ᓂᐦᐃᒫᔭ"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "ᐁᐢᑕᕒ",
+      "abbreviation": "ᐁᐢᑕᕒ"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "ᒍᑊ",
+      "abbreviation": "ᒍᑊ"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "ᓂᑲᒧᓇ",
+      "abbreviation": "ᓂᑲᒧᓇ"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "ᑲᑫᐦᑖᐁᐧᐃᐧᓇ",
+      "abbreviation": "ᑲᑫᐦᑖᐁᐧᐃᐧᓇ"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "ᐃᑭᓬᐃᓯᔮᐢᑎᐢ",
+      "abbreviation": "ᐃᑭᓬᐃᓯᔮᐢᑎᐢ"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "ᓂᑲᒧᓇ ᐅ ᓂᑲᒧᐣ",
+      "abbreviation": "ᓂᑲᒧᓇ ᐅ ᓂᑲᒧᐣ"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "ᐊᐩᓵᔭ",
+      "abbreviation": "ᐊᐩᓵᔭ"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "ᒉᕒᐃᒫᔭ",
+      "abbreviation": "ᒉᕒᐃᒫᔭ"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "ᒥᐦᑖᑌᐧᐃᐧᓇ",
+      "abbreviation": "ᒥᐦᑖᑌᐧᐃᐧᓇ"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "ᐃᓯᑭᐁᓬ",
+      "abbreviation": "ᐃᓯᑭᐁᓬ"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "ᑖᓂᐁᓬ",
+      "abbreviation": "ᑖᓂᐁᓬ"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "ᐦᐋᓯᔭ",
+      "abbreviation": "ᐦᐋᓯᔭ"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "ᒍᐃᓬ",
+      "abbreviation": "ᒍᐃᓬ"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "ᐁᒫᐢ",
+      "abbreviation": "ᐁᒫᐢ"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "ᐅᐸᑖᔭ",
+      "abbreviation": "ᐅᐸᑖᔭ"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "ᒎᓇ",
+      "abbreviation": "ᒎᓇ"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "ᒪᐃᑲ",
+      "abbreviation": "ᒪᐃᑲ"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "ᓀᐦᐊᒼ",
+      "abbreviation": "ᓀᐦᐊᒼ"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "ᐦᐋᐹᑲᐠ",
+      "abbreviation": "ᐦᐋᐹᑲᐠ"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "ᓭᐸᓈᔭ",
+      "abbreviation": "ᓭᐸᓈᔭ"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "ᐦᐊᑫᐊᐩ",
+      "abbreviation": "ᐦᐊᑫᐊᐩ"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "ᓭᑲᕒᐋᔭ",
+      "abbreviation": "ᓭᑲᕒᐋᔭ"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "ᒫᓬᐊᑲᐩ",
+      "abbreviation": "ᒫᓬᐊᑲᐩ"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "ᓭᐣᐟ ᒫᐟᔪ",
+      "abbreviation": "ᒫᐟᔪ"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "ᓭᐣᐟ ᒫᕒᐠ",
+      "abbreviation": "ᒫᕒᐠ"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "ᓭᐣᐟ ᓬᐅᐠ",
+      "abbreviation": "ᓬᐅᐠ"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "ᓭᐣᐟ ᒑᐣ",
+      "abbreviation": "ᒑᐣ"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "ᐃᓯᐦᒋᑫᐃᐧᓂᐋᐧᐊᐧ",
+      "abbreviation": "ᐃᓯᐦᒋᑫᐃᐧᓂᐋᐧᐊᐧ"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "ᕒᐅᒪᓇ",
+      "abbreviation": "ᕒᐅᒪᓇ"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "ᓂᐢᑕᒼ ᑲᕒᐃᐣᑎᔭᓇ",
+      "abbreviation": "1ᑲᕒᐃᐣᑎᔭᓇ"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "ᓃᓵᐧᐤ ᑲᕒᐃᐣᑎᔭᓇ",
+      "abbreviation": "2ᑲᕒᐃᐣᑎᔭᓇ"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "ᑲᓬᐁᓯᔭᓇ",
+      "abbreviation": "ᑲᓬᐁᓯᔭᓇ"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "ᐃᐱᓯᔭᓇ",
+      "abbreviation": "ᐃᐱᓯᔭᓇ"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "ᐱᓬᐃᐱᔭᓇ",
+      "abbreviation": "ᐱᓬᐃᐱᔭᓇ"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "ᑲᓬᐋᓯᔭᓇ",
+      "abbreviation": "ᑲᓬᐋᓯᔭᓇ"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "ᓂᐢᑕᒼ ᑌᓴᓬᐋᓂᔭᓇ",
+      "abbreviation": "1ᑌᓴᓬᐋᓂᔭᓇ"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "ᓃᓵᐧᐤ ᑌᓴᓬᐋᓂᔭᓇ",
+      "abbreviation": "2ᑌᓴᓬᐋᓂᔭᓇ"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "ᓂᐢᑕᒼ ᑎᒪᑏ",
+      "abbreviation": "1ᑎᒪᑏ"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "ᓃᓵᐧᐤ ᑎᒪᑏ",
+      "abbreviation": "2ᑎᒪᑏ"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "ᑖᐃᑕᐢ",
+      "abbreviation": "ᑖᐃᑕᐢ"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "ᐹᐃᓬᐃᒪᐣ",
+      "abbreviation": "ᐹᐃᓬᐃᒪᐣ"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "ᐦᐃᐸᕒᐅᐊᐧ",
+      "abbreviation": "ᐦᐃᐸᕒᐅᐊᐧ"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "ᒉᒥᐢ",
+      "abbreviation": "ᒉᒥᐢ"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "ᓂᐢᑕᒼ ᐱᑕᕒ",
+      "abbreviation": "1ᐱᑕᕒ"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "ᓃᓵᐧᐤ ᐱᑕᕒ",
+      "abbreviation": "2ᐱᑕᕒ"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "ᓂᐢᑕᒼ ᒑᐣ",
+      "abbreviation": "1ᒑᐣ"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "ᓃᓵᐧᐤ ᒑᐣ",
+      "abbreviation": "2ᒑᐣ"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "ᓂᐢᑖᐧᐤ ᒑᐣ",
+      "abbreviation": "3ᒑᐣ"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "ᒍᐟ",
+      "abbreviation": "ᒍᐟ"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "ᑭᐢᑫᔨᐦᑖᑯᐦᑫᐃᐧᐣ",
+      "abbreviation": "ᑭᐢᑫᔨᐦᑖᑯᐦᑫᐃᐧᐣ"
+    }
+  ]
+}

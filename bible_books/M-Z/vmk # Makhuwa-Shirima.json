@@ -1,0 +1,408 @@
+{
+  "id": "vmk",
+  "language": "vmk",
+  "name": "Makhuwa-Shirima",
+  "alt_name": "Makua",
+  "old_testament": null,
+  "new_testament": null,
+  "old_testament_abbreviation": null,
+  "new_testament_abbreviation": null,
+  "books": [
+    {
+      "id": "01",
+      "usfx_code": "GEN",
+      "name": "Epacerero",
+      "abbreviation": "Epacerero"
+    },
+    {
+      "id": "02",
+      "usfx_code": "EXO",
+      "name": "Okhuma",
+      "abbreviation": "Okhuma"
+    },
+    {
+      "id": "03",
+      "usfx_code": "LEV",
+      "name": "Levitiku",
+      "abbreviation": "Levitiku"
+    },
+    {
+      "id": "04",
+      "usfx_code": "NUM",
+      "name": "Nuumeru",
+      "abbreviation": "Nuumeru"
+    },
+    {
+      "id": "05",
+      "usfx_code": "DEU",
+      "name": "Deuteronomiyo",
+      "abbreviation": "Deuteronomiyo"
+    },
+    {
+      "id": "06",
+      "usfx_code": "JOS",
+      "name": "Yoxuwa",
+      "abbreviation": "Yoxuwa"
+    },
+    {
+      "id": "07",
+      "usfx_code": "JDG",
+      "name": "Ahooleli",
+      "abbreviation": "Ahooleli"
+    },
+    {
+      "id": "08",
+      "usfx_code": "RUT",
+      "name": "Ruuti",
+      "abbreviation": "Ruuti"
+    },
+    {
+      "id": "09",
+      "usfx_code": "1SA",
+      "name": "1 Samuweli",
+      "abbreviation": "1Samuweli"
+    },
+    {
+      "id": "10",
+      "usfx_code": "2SA",
+      "name": "2 Samuweli",
+      "abbreviation": "2Samuweli"
+    },
+    {
+      "id": "11",
+      "usfx_code": "1KI",
+      "name": "1 Mamwene",
+      "abbreviation": "1Mamwene"
+    },
+    {
+      "id": "12",
+      "usfx_code": "2KI",
+      "name": "2 Mamwene",
+      "abbreviation": "2Mamwene"
+    },
+    {
+      "id": "13",
+      "usfx_code": "1CH",
+      "name": "1 Nyaha",
+      "abbreviation": "1Nyaha"
+    },
+    {
+      "id": "14",
+      "usfx_code": "2CH",
+      "name": "2 Nyaha",
+      "abbreviation": "2Nyaha"
+    },
+    {
+      "id": "15",
+      "usfx_code": "EZR",
+      "name": "Ezera",
+      "abbreviation": "Ezera"
+    },
+    {
+      "id": "16",
+      "usfx_code": "NEH",
+      "name": "Nehemiya",
+      "abbreviation": "Nehemiya"
+    },
+    {
+      "id": "17",
+      "usfx_code": "EST",
+      "name": "Exteri",
+      "abbreviation": "Exteri"
+    },
+    {
+      "id": "18",
+      "usfx_code": "JOB",
+      "name": "Yobi",
+      "abbreviation": "Yobi"
+    },
+    {
+      "id": "19",
+      "usfx_code": "PSA",
+      "name": "Icipo",
+      "abbreviation": "Icipo"
+    },
+    {
+      "id": "20",
+      "usfx_code": "PRO",
+      "name": "Masu a Miruku",
+      "abbreviation": "Masu a Miruku"
+    },
+    {
+      "id": "21",
+      "usfx_code": "ECC",
+      "name": "Namalaleiya",
+      "abbreviation": "Namalaleiya"
+    },
+    {
+      "id": "22",
+      "usfx_code": "SNG",
+      "name": "Ecipo Yooreeraxa",
+      "abbreviation": "Ecipo Yooreeraxa"
+    },
+    {
+      "id": "23",
+      "usfx_code": "ISA",
+      "name": "Yesaya",
+      "abbreviation": "Yesaya"
+    },
+    {
+      "id": "24",
+      "usfx_code": "JER",
+      "name": "Yeremiya",
+      "abbreviation": "Yeremiya"
+    },
+    {
+      "id": "25",
+      "usfx_code": "LAM",
+      "name": "Icipo Soolalamika",
+      "abbreviation": "Icipo Soolalamika"
+    },
+    {
+      "id": "26",
+      "usfx_code": "EZK",
+      "name": "Ezekiyeli",
+      "abbreviation": "Ezekiyeli"
+    },
+    {
+      "id": "27",
+      "usfx_code": "DAN",
+      "name": "Daniyeli",
+      "abbreviation": "Daniyeli"
+    },
+    {
+      "id": "28",
+      "usfx_code": "HOS",
+      "name": "Hoxeya",
+      "abbreviation": "Hoxeya"
+    },
+    {
+      "id": "29",
+      "usfx_code": "JOL",
+      "name": "Yoweli",
+      "abbreviation": "Yoweli"
+    },
+    {
+      "id": "30",
+      "usfx_code": "AMO",
+      "name": "Amosi",
+      "abbreviation": "Amosi"
+    },
+    {
+      "id": "31",
+      "usfx_code": "OBA",
+      "name": "Obadiya",
+      "abbreviation": "Obadiya"
+    },
+    {
+      "id": "32",
+      "usfx_code": "JON",
+      "name": "Yoonasi",
+      "abbreviation": "Yoonasi"
+    },
+    {
+      "id": "33",
+      "usfx_code": "MIC",
+      "name": "Mikeyasi",
+      "abbreviation": "Mikeyasi"
+    },
+    {
+      "id": "34",
+      "usfx_code": "NAM",
+      "name": "Nahumi",
+      "abbreviation": "Nahumi"
+    },
+    {
+      "id": "35",
+      "usfx_code": "HAB",
+      "name": "Habakuki",
+      "abbreviation": "Habakuki"
+    },
+    {
+      "id": "36",
+      "usfx_code": "ZEP",
+      "name": "Zefaniya",
+      "abbreviation": "Zefaniya"
+    },
+    {
+      "id": "37",
+      "usfx_code": "HAG",
+      "name": "Axewu",
+      "abbreviation": "Axewu"
+    },
+    {
+      "id": "38",
+      "usfx_code": "ZEC",
+      "name": "Zakariya",
+      "abbreviation": "Zakariya"
+    },
+    {
+      "id": "39",
+      "usfx_code": "MAL",
+      "name": "Malekiya",
+      "abbreviation": "Malekiya"
+    },
+    {
+      "id": "40",
+      "usfx_code": "MAT",
+      "name": "Matheyo",
+      "abbreviation": "Matheyo"
+    },
+    {
+      "id": "41",
+      "usfx_code": "MRK",
+      "name": "Marku",
+      "abbreviation": "Marku"
+    },
+    {
+      "id": "42",
+      "usfx_code": "LUK",
+      "name": "Luuka",
+      "abbreviation": "Luuka"
+    },
+    {
+      "id": "43",
+      "usfx_code": "JHN",
+      "name": "Yohaane",
+      "abbreviation": "Yohaane"
+    },
+    {
+      "id": "44",
+      "usfx_code": "ACT",
+      "name": "Miteko",
+      "abbreviation": "Miteko"
+    },
+    {
+      "id": "45",
+      "usfx_code": "ROM",
+      "name": "aRooma",
+      "abbreviation": "aRooma"
+    },
+    {
+      "id": "46",
+      "usfx_code": "1CO",
+      "name": "1 aKorinto",
+      "abbreviation": "1aKorinto"
+    },
+    {
+      "id": "47",
+      "usfx_code": "2CO",
+      "name": "2 aKorinto",
+      "abbreviation": "2aKorinto"
+    },
+    {
+      "id": "48",
+      "usfx_code": "GAL",
+      "name": "aGalata",
+      "abbreviation": "aGalata"
+    },
+    {
+      "id": "49",
+      "usfx_code": "EPH",
+      "name": "awEfeso",
+      "abbreviation": "awEfeso"
+    },
+    {
+      "id": "50",
+      "usfx_code": "PHP",
+      "name": "aFilipi",
+      "abbreviation": "aFilipi"
+    },
+    {
+      "id": "51",
+      "usfx_code": "COL",
+      "name": "aKolosi",
+      "abbreviation": "aKolosi"
+    },
+    {
+      "id": "52",
+      "usfx_code": "1TH",
+      "name": "1 aTesalonika",
+      "abbreviation": "1aTesalonika"
+    },
+    {
+      "id": "53",
+      "usfx_code": "2TH",
+      "name": "2 aTesalonika",
+      "abbreviation": "2aTesalonika"
+    },
+    {
+      "id": "54",
+      "usfx_code": "1TI",
+      "name": "1 Timootheyo",
+      "abbreviation": "1Timootheyo"
+    },
+    {
+      "id": "55",
+      "usfx_code": "2TI",
+      "name": "2 Timootheyo",
+      "abbreviation": "2Timootheyo"
+    },
+    {
+      "id": "56",
+      "usfx_code": "TIT",
+      "name": "Titu",
+      "abbreviation": "Titu"
+    },
+    {
+      "id": "57",
+      "usfx_code": "PHM",
+      "name": "Filemone",
+      "abbreviation": "Filemone"
+    },
+    {
+      "id": "58",
+      "usfx_code": "HEB",
+      "name": "aHeberi",
+      "abbreviation": "aHeberi"
+    },
+    {
+      "id": "59",
+      "usfx_code": "JAS",
+      "name": "Yakobe",
+      "abbreviation": "Yakobe"
+    },
+    {
+      "id": "60",
+      "usfx_code": "1PE",
+      "name": "1 Pedru",
+      "abbreviation": "1Pedru"
+    },
+    {
+      "id": "61",
+      "usfx_code": "2PE",
+      "name": "2 Pedru",
+      "abbreviation": "2Pedru"
+    },
+    {
+      "id": "62",
+      "usfx_code": "1JN",
+      "name": "1 Yohaane",
+      "abbreviation": "1Yohaane"
+    },
+    {
+      "id": "63",
+      "usfx_code": "2JN",
+      "name": "2 Yohaane",
+      "abbreviation": "2Yohaane"
+    },
+    {
+      "id": "64",
+      "usfx_code": "3JN",
+      "name": "3 Yohaane",
+      "abbreviation": "3Yohaane"
+    },
+    {
+      "id": "65",
+      "usfx_code": "JUD",
+      "name": "Yuda",
+      "abbreviation": "Yuda"
+    },
+    {
+      "id": "66",
+      "usfx_code": "REV",
+      "name": "Ethupululo",
+      "abbreviation": "Ethupululo"
+    }
+  ]
+}
