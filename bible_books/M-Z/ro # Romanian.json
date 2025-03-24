@@ -11,98 +11,98 @@
     {
       "id": "01",
       "usfx_code": "GEN",
-      "name": "Postanaku",
-      "abbreviation": "Post"
+      "name": "Geneza",
+      "abbreviation": "Gen"
     },
     {
       "id": "02",
       "usfx_code": "EXO",
-      "name": "Išjala",
-      "abbreviation": "Iš"
+      "name": "Exodul",
+      "abbreviation": "Ex"
     },
     {
       "id": "03",
       "usfx_code": "LEV",
-      "name": "Leviti",
+      "name": "Leviticul",
       "abbreviation": "Lev"
     },
     {
       "id": "04",
       "usfx_code": "NUM",
-      "name": "Brojurlje",
-      "abbreviation": "Br"
+      "name": "Numeri",
+      "abbreviation": "Num"
     },
     {
       "id": "05",
       "usfx_code": "DEU",
-      "name": "Zakonu s ponavljaštje",
-      "abbreviation": "ZakPon"
+      "name": "Deuteronomul",
+      "abbreviation": "Deut"
     },
     {
       "id": "06",
       "usfx_code": "JOS",
-      "name": "Jošua",
-      "abbreviation": "Jš"
+      "name": "Iosua",
+      "abbreviation": "Ios"
     },
     {
       "id": "07",
       "usfx_code": "JDG",
-      "name": "Sudacă",
-      "abbreviation": "Sud"
+      "name": "Judecătorii",
+      "abbreviation": "Jud"
     },
     {
       "id": "08",
       "usfx_code": "RUT",
-      "name": "Ruta",
-      "abbreviation": "Ruta"
+      "name": "Rut",
+      "abbreviation": "Rut"
     },
     {
       "id": "09",
       "usfx_code": "1SA",
-      "name": "1. Samuel",
+      "name": "1 Samuel",
       "abbreviation": "1Sam"
     },
     {
       "id": "10",
       "usfx_code": "2SA",
-      "name": "2. Samuel",
+      "name": "2 Samuel",
       "abbreviation": "2Sam"
     },
     {
       "id": "11",
       "usfx_code": "1KI",
-      "name": "1. Carulje",
-      "abbreviation": "1Car"
+      "name": "1 Regi",
+      "abbreviation": "1Reg"
     },
     {
       "id": "12",
       "usfx_code": "2KI",
-      "name": "2. Carurj",
-      "abbreviation": "2Car"
+      "name": "2 Regi",
+      "abbreviation": "2Reg"
     },
     {
       "id": "13",
       "usfx_code": "1CH",
-      "name": "1. Dnevniku",
-      "abbreviation": "1Dnev"
+      "name": "1 Cronici",
+      "abbreviation": "1Cron"
     },
     {
       "id": "14",
       "usfx_code": "2CH",
-      "name": "2. Dnevniku",
-      "abbreviation": "2Dnev"
+      "name": "2 Cronici",
+      "abbreviation": "2Cron"
     },
     {
       "id": "15",
       "usfx_code": "EZR",
       "name": "Ezra",
-      "abbreviation": "Ezr"
+      "abbreviation": "Ezra"
     },
     {
       "id": "16",
       "usfx_code": "NEH",
-      "name": "Nehemija",
-      "abbreviation": "Neh"
+      "name": "Neemia",
+      "abbreviation": "Neem"
     },
     {
       "id": "17",
@@ -113,229 +113,229 @@
     {
       "id": "18",
       "usfx_code": "JOB",
-      "name": "Job",
-      "abbreviation": "Job"
+      "name": "Iov",
+      "abbreviation": "Iov"
     },
     {
       "id": "19",
       "usfx_code": "PSA",
-      "name": "Psalmi",
+      "name": "Psalmii",
       "abbreviation": "Ps"
     },
     {
       "id": "20",
       "usfx_code": "PRO",
-      "name": "Mudre",
-      "abbreviation": "MV"
+      "name": "Proverbele",
+      "abbreviation": "Prov"
     },
     {
       "id": "21",
       "usfx_code": "ECC",
-      "name": "ănvacă",
-      "abbreviation": "Ănvacă"
+      "name": "Eclesiastul",
+      "abbreviation": "Ecl"
     },
     {
       "id": "22",
       "usfx_code": "SNG",
-      "name": "kătiku",
-      "abbreviation": "KaS"
+      "name": "Cântarea Cântărilor",
+      "abbreviation": "Cânt"
     },
     {
       "id": "23",
       "usfx_code": "ISA",
-      "name": "Izaija",
-      "abbreviation": "Iz"
+      "name": "Isaia",
+      "abbreviation": "Is"
     },
     {
       "id": "24",
       "usfx_code": "JER",
-      "name": "Jeremija",
-      "abbreviation": "Jr"
+      "name": "Ieremia",
+      "abbreviation": "Ier"
     },
     {
       "id": "25",
       "usfx_code": "LAM",
-      "name": "Plănđe",
-      "abbreviation": "JP"
+      "name": "Plângerile",
+      "abbreviation": "Plâng"
     },
     {
       "id": "26",
       "usfx_code": "EZK",
-      "name": "Ezekiel",
-      "abbreviation": "Ez"
+      "name": "Ezechiel",
+      "abbreviation": "Ezec"
     },
     {
       "id": "27",
       "usfx_code": "DAN",
       "name": "Daniel",
-      "abbreviation": "Dn"
+      "abbreviation": "Dan"
     },
     {
       "id": "28",
       "usfx_code": "HOS",
-      "name": "Hošea",
-      "abbreviation": "Hoš"
+      "name": "Osea",
+      "abbreviation": "Osea"
     },
     {
       "id": "29",
       "usfx_code": "JOL",
-      "name": "Joel",
-      "abbreviation": "Jl"
+      "name": "Ioel",
+      "abbreviation": "Ioel"
     },
     {
       "id": "30",
       "usfx_code": "AMO",
       "name": "Amos",
-      "abbreviation": "Am"
+      "abbreviation": "Amos"
     },
     {
       "id": "31",
       "usfx_code": "OBA",
-      "name": "Obadija",
-      "abbreviation": "Ob"
+      "name": "Obadia",
+      "abbreviation": "Obad"
     },
     {
       "id": "32",
       "usfx_code": "JON",
-      "name": "Jona",
-      "abbreviation": "Jon"
+      "name": "Iona",
+      "abbreviation": "Iona"
     },
     {
       "id": "33",
       "usfx_code": "MIC",
-      "name": "Mihej",
-      "abbreviation": "Mih"
+      "name": "Mica",
+      "abbreviation": "Mica"
     },
     {
       "id": "34",
       "usfx_code": "NAM",
-      "name": "Nahum",
-      "abbreviation": "Nah"
+      "name": "Naum",
+      "abbreviation": "Naum"
     },
     {
       "id": "35",
       "usfx_code": "HAB",
-      "name": "Habakuk",
+      "name": "Habacuc",
       "abbreviation": "Hab"
     },
     {
       "id": "36",
       "usfx_code": "ZEP",
-      "name": "Sefanija",
-      "abbreviation": "Sef"
+      "name": "Țefania",
+      "abbreviation": "Țef"
     },
     {
       "id": "37",
       "usfx_code": "HAG",
-      "name": "Hagaj",
+      "name": "Hagai",
       "abbreviation": "Hag"
     },
     {
       "id": "38",
       "usfx_code": "ZEC",
-      "name": "Zaharija",
+      "name": "Zaharia",
       "abbreviation": "Zah"
     },
     {
       "id": "39",
       "usfx_code": "MAL",
-      "name": "Malahija",
+      "name": "Maleahi",
       "abbreviation": "Mal"
     },
     {
       "id": "40",
       "usfx_code": "MAT",
-      "name": "Matej",
-      "abbreviation": "Mt"
+      "name": "Matei",
+      "abbreviation": "Mat"
     },
     {
       "id": "41",
       "usfx_code": "MRK",
-      "name": "Marko",
-      "abbreviation": "Mk"
+      "name": "Marcu",
+      "abbreviation": "Mc"
     },
     {
       "id": "42",
       "usfx_code": "LUK",
-      "name": "Luka",
-      "abbreviation": "Lk"
+      "name": "Luca",
+      "abbreviation": "Lc"
     },
     {
       "id": "43",
       "usfx_code": "JHN",
-      "name": "Ivan",
-      "abbreviation": "Iv"
+      "name": "Ioan",
+      "abbreviation": "In"
     },
     {
       "id": "44",
       "usfx_code": "ACT",
-      "name": "Apostoli",
-      "abbreviation": "Ap"
+      "name": "Faptele Apostolilor",
+      "abbreviation": "Fapte"
     },
     {
       "id": "45",
       "usfx_code": "ROM",
-      "name": "Rimljani",
-      "abbreviation": "Rim"
+      "name": "Romani",
+      "abbreviation": "Rom"
     },
     {
       "id": "46",
       "usfx_code": "1CO",
-      "name": "1. Korinćani",
-      "abbreviation": "1Kor"
+      "name": "1 Corinteni",
+      "abbreviation": "1Cor"
     },
     {
       "id": "47",
       "usfx_code": "2CO",
-      "name": "2. Korinćani",
-      "abbreviation": "2Kor"
+      "name": "2 Corinteni",
+      "abbreviation": "2Cor"
     },
     {
       "id": "48",
       "usfx_code": "GAL",
-      "name": "Galačani",
+      "name": "Galateni",
       "abbreviation": "Gal"
     },
     {
       "id": "49",
       "usfx_code": "EPH",
-      "name": "Efežani",
+      "name": "Efeseni",
       "abbreviation": "Ef"
     },
     {
       "id": "50",
       "usfx_code": "PHP",
-      "name": "Filipljani",
+      "name": "Filipeni",
       "abbreviation": "Fil"
     },
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Kološani",
-      "abbreviation": "Kol"
+      "name": "Coloseni",
+      "abbreviation": "Col"
     },
     {
       "id": "52",
       "usfx_code": "1TH",
-      "name": "1. Solunjani",
-      "abbreviation": "1Sol"
+      "name": "1 Tesaloniceni",
+      "abbreviation": "1Tes"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
-      "name": "2. Solunjani",
-      "abbreviation": "2Sol"
+      "name": "2 Tesaloniceni",
+      "abbreviation": "2Tes"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
-      "name": "1. Timotej",
+      "name": "1 Timotei",
       "abbreviation": "1Tim"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
-      "name": "2. Timotej",
+      "name": "2 Timotei",
       "abbreviation": "2Tim"
     },
     {
@@ -347,62 +347,62 @@
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Filemon",
+      "name": "Filimon",
       "abbreviation": "Flm"
     },
     {
       "id": "58",
       "usfx_code": "HEB",
-      "name": "Židovulor",
-      "abbreviation": "Žid"
+      "name": "Evrei",
+      "abbreviation": "Evr"
     },
     {
       "id": "59",
       "usfx_code": "JAS",
-      "name": "Jakov",
-      "abbreviation": "Jak"
+      "name": "Iacov",
+      "abbreviation": "Iac"
     },
     {
       "id": "60",
       "usfx_code": "1PE",
-      "name": "1. Petar",
-      "abbreviation": "1Pt"
+      "name": "1 Petru",
+      "abbreviation": "1Pet"
     },
     {
       "id": "61",
       "usfx_code": "2PE",
-      "name": "2. Petar",
-      "abbreviation": "2Pt"
+      "name": "2 Petru",
+      "abbreviation": "2Pet"
     },
     {
       "id": "62",
       "usfx_code": "1JN",
-      "name": "1. Ivan",
-      "abbreviation": "1Iv"
+      "name": "1 Ioan",
+      "abbreviation": "1In"
     },
     {
       "id": "63",
       "usfx_code": "2JN",
-      "name": "2. Ivan",
-      "abbreviation": "2Iv"
+      "name": "2 Ioan",
+      "abbreviation": "2In"
     },
     {
       "id": "64",
       "usfx_code": "3JN",
-      "name": "3. Ivan",
-      "abbreviation": "3Iv"
+      "name": "3 Ioan",
+      "abbreviation": "3In"
     },
     {
       "id": "65",
       "usfx_code": "JUD",
-      "name": "Juda",
-      "abbreviation": "Jd"
+      "name": "Iuda",
+      "abbreviation": "Iuda"
     },
     {
       "id": "66",
       "usfx_code": "REV",
-      "name": "Otkrijit",
-      "abbreviation": "Otk"
+      "name": "Apocalipsa",
+      "abbreviation": "Ap"
     }
   ]
 }
