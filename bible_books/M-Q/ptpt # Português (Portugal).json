@@ -11,14 +11,14 @@
     {
       "id": "01",
       "usfx_code": "GEN",
-      "name": "Gênesis",
+      "name": "Génesis",
       "abbreviation": "Gn"
     },
     {
       "id": "02",
       "usfx_code": "EXO",
       "name": "Êxodo",
-      "abbreviation": "Ex"
+      "abbreviation": "Êx"
     },
     {
       "id": "03",
@@ -35,7 +35,7 @@
     {
       "id": "05",
       "usfx_code": "DEU",
-      "name": "Deuteronômio",
+      "name": "Deuteronómio",
       "abbreviation": "Dt"
     },
     {
@@ -53,7 +53,7 @@
     {
       "id": "08",
       "usfx_code": "RUT",
-      "name": "Rute",
+      "name": "Ruth",
       "abbreviation": "Rt"
     },
     {
@@ -83,13 +83,13 @@
     {
       "id": "13",
       "usfx_code": "1CH",
-      "name": "1 Crônicas",
+      "name": "1 Crónicas",
       "abbreviation": "1Cr"
     },
     {
       "id": "14",
       "usfx_code": "2CH",
-      "name": "2 Crônicas",
+      "name": "2 Crónicas",
       "abbreviation": "2Cr"
     },
     {
@@ -113,8 +113,8 @@
     {
       "id": "18",
       "usfx_code": "JOB",
-      "name": "Jó",
-      "abbreviation": "Jó"
+      "name": "Job",
+      "abbreviation": "Jb"
     },
     {
       "id": "19",
@@ -173,7 +173,7 @@
     {
       "id": "28",
       "usfx_code": "HOS",
-      "name": "Oséias",
+      "name": "Oséas",
       "abbreviation": "Os"
     },
     {
@@ -203,19 +203,19 @@
     {
       "id": "33",
       "usfx_code": "MIC",
-      "name": "Miquéias",
+      "name": "Miquéas",
       "abbreviation": "Mq"
     },
     {
       "id": "34",
       "usfx_code": "NAM",
-      "name": "Naum",
+      "name": "Naúm",
       "abbreviation": "Na"
     },
     {
       "id": "35",
       "usfx_code": "HAB",
-      "name": "Habacuque",
+      "name": "Habacuc",
       "abbreviation": "Hc"
     },
     {
@@ -347,7 +347,7 @@
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Filemom",
+      "name": "Filémon",
       "abbreviation": "Fm"
     },
     {
