@@ -7754,5 +7754,1025 @@
   {
     "k": "Os módulos deverão ser criados dentro de uma subpasta de %folder_jsc_modules%.",
     "v": "The modules should be created inside a subfolder of %folder_jsc_modules%."
+  },
+  {
+    "k": "Obter os grupos de múltipla escolha existentes",
+    "v": "Get the existing multiple choice groups"
+  },
+  {
+    "k": "Executar uma ação pública de um módulo",
+    "v": "Execute a public action of a module"
+  },
+  {
+    "k": "id do módulo",
+    "v": "module id"
+  },
+  {
+    "k": "id da ação",
+    "v": "action ID"
+  },
+  {
+    "k": "Mapa chave/valor com os parâmetros para execução da ação, onde cada chave é o respectivo id do input declarado na ação do módulo",
+    "v": "Key/value map with the parameters for executing the action, where each key is the respective id of the input declared in the module's action"
+  },
+  {
+    "k": "Lista das Tags criadas para organização de Temas e Backgrounds",
+    "v": "List of Tags created for organizing Themes and Backgrounds"
+  },
+  {
+    "k": "Lista com o nome das Tags",
+    "v": "List with the names of the Tags"
+  },
+  {
+    "k": "Adiciona os itens no final da lista em vez de substituir",
+    "v": "Adds the items to the end of the list instead of replacing"
+  },
+  {
+    "k": "Lista de módulos",
+    "v": "List of modules"
+  },
+  {
+    "k": "ID global do item no repositório JSCommunity",
+    "v": "Global ID of the item in the JSCommunity repository"
+  },
+  {
+    "k": "Se o módulo está ativado pelo usuário (checkbox na interface)",
+    "v": "If the module is enabled by the user (checkbox in the interface)"
+  },
+  {
+    "k": "Se o módulo está ativado baseado nas possíveis execuções condicionais definidos a ele pelo usuário",
+    "v": "If the module is activated based on the possible conditional executions defined for it by the user"
+  },
+  {
+    "k": "Exibir o módulo no painel Módulos",
+    "v": "Display the module in the Modules panel"
+  },
+  {
+    "k": "Módulo disponível para uso no painel da janela principal",
+    "v": "Module available for use in the main window panel"
+  },
+  {
+    "k": "Módulo disponível para uso no painel da janela da Bíblia",
+    "v": "Module available for use in the Bible window panel"
+  },
+  {
+    "k": "Ações públicas disponíveis para o módulo",
+    "v": "Public actions available for the module"
+  },
+  {
+    "k": "Lista de parâmetros requeridos para execução da ação",
+    "v": "List of required parameters for action execution"
+  },
+  {
+    "k": "Bloquear quebra de linha",
+    "v": "Block line break"
+  },
+  {
+    "k": "Cor de fundo transparente",
+    "v": "Transparent background color"
+  },
+  {
+    "k": "Exibir contador de página",
+    "v": "Display page counter"
+  },
+  {
+    "k": "Adicionar tags avançadas na página",
+    "v": "Add advanced tags on the page"
+  },
+  {
+    "k": "Para alterar a lista de reprodução de um culto ou evento específico",
+    "v": "To change the playlist of a specific worship or event"
+  },
+  {
+    "k": "Quando `event_id` não for declarado, a lista de reprodução atualmente selecionada na interface será editada",
+    "v": "When `event_id` is not declared, the currently selected playlist in the interface will be edited"
+  },
+  {
+    "k": "Atenção, disponível somente a partir da versão `2.26.0`, significa que em versões anteriores este método sempre vai alterar a lista de reprodução atualmente selecionada na interface, ignorando este parâmetro `event_id`",
+    "v": "Attention, available only from version `2.26.0`, which means that in previous versions this method will always change the currently selected playlist in the interface, ignoring this parameter `event_id`"
+  },
+  {
+    "k": "`true` para executar a ação de forma assíncrona, ou seja, sem retornar a resposta da ação",
+    "v": "`true` to execute the action asynchronously, that is, without returning the response of the action"
+  },
+  {
+    "k": "Tempo limite para execução da ação",
+    "v": "Timeout for action execution"
+  },
+  {
+    "k": "Resposta da ação",
+    "v": "Response to the action"
+  },
+  {
+    "k": "ID do evento",
+    "v": "Event ID"
+  },
+  {
+    "k": "Pode ser obtido de um objeto **Schedule**",
+    "v": "Can be obtained from a **Schedule** object"
+  },
+  {
+    "k": "Exibir a lista de anúncios de forma aleatória",
+    "v": "Display the list of ads randomly"
+  },
+  {
+    "k": "ID definido para o item em `function info()`",
+    "v": "ID defined for the item in `function info()`"
+  },
+  {
+    "k": "Se o módulo for de origem do JSCommunity, o valor é o mesmo de `jscommunity_id`",
+    "v": "If the module is from the JSCommunity source, the value is the same as `jscommunity_id`"
+  },
+  {
+    "k": "Se o módulo está ativo",
+    "v": "If the module is active"
+  },
+  {
+    "k": "active é um resultado de `enabled_by_user && conditional_execution`",
+    "v": "active is a result of `enabled_by_user && conditional_execution`"
+  },
+  {
+    "k": "Se o campo estiver vazio, significa que a ação está disponível para todas as origens",
+    "v": "If the field is empty, it means that the action is available for all sources"
+  },
+  {
+    "k": "Coordenada x,y da tela definida como público",
+    "v": "Screen coordinate x,y defined as public"
+  },
+  {
+    "k": "Disponível apenas para `id=public`",
+    "v": "Available only for `id=public`"
+  },
+  {
+    "k": "Configurações HTML",
+    "v": "HTML Settings"
+  },
+  {
+    "k": "Disponível somente para as saídas HTML",
+    "v": "Available only for HTML outputs"
+  },
+  {
+    "k": "Velocidade do alerta",
+    "v": "Alert speed"
+  },
+  {
+    "k": "Executa a ação",
+    "v": "Performs the action"
+  },
+  {
+    "k": "Executar a ação de forma assíncrona, ou seja, sem retornar a resposta da ação",
+    "v": "Execute the action asynchronously, that is, without returning the response of the action"
+  },
+  {
+    "k": "Ignorar notificação de arquivo salvo",
+    "v": "Ignore saved file notification"
+  },
+  {
+    "k": "Salvar um objeto em formato JSON. Pode gerar Exception.",
+    "v": "Save an object in JSON format. It may throw an Exception."
+  },
+  {
+    "k": "Gerar o arquivo com indentação e quebra de linha",
+    "v": "Generate the file with indentation and line breaks"
+  },
+  {
+    "k": "ID global do módulo no repositório JSCommunity",
+    "v": "Global module ID in the JSCommunity repository"
+  },
+  {
+    "k": "Retorna um módulo específico",
+    "v": "Returns a specific module"
+  },
+  {
+    "k": "Retorna uma ação específica de um módulo",
+    "v": "Returns a specific action from a module"
+  },
+  {
+    "k": "ID da ação do módulo",
+    "v": "Module action ID"
+  },
+  {
+    "k": "Lista com os modelos salvos de configurações de exibição",
+    "v": "List of saved display configuration models"
+  },
+  {
+    "k": "Retorna informações do servidor API",
+    "v": "Returns information from the API server"
+  },
+  {
+    "k": "Se está ativado para acesso local",
+    "v": "If it is enabled for local access"
+  },
+  {
+    "k": "Se está ativado para acesso pela internet",
+    "v": "If it is enabled for internet access"
+  },
+  {
+    "k": "Retorna a lista de tarefas agendadas",
+    "v": "Returns the list of scheduled tasks"
+  },
+  {
+    "k": "Retorna os grupos de regras salvas",
+    "v": "Returns the saved rule groups"
+  },
+  {
+    "k": "Retorna um grupo de regras salva",
+    "v": "Returns a saved group of rules"
+  },
+  {
+    "k": "ID do grupo de regras",
+    "v": "Rule group ID"
+  },
+  {
+    "k": "Retorna o resultado do teste de um grupo de regras salvas (ou de uma regra específica do respectivo grupo)",
+    "v": "Returns the result of the test of a group of saved rules (or a specific rule from the respective group)"
+  },
+  {
+    "k": "ID da regra específica a ser testada em vez de testar todo o grupo",
+    "v": "ID of the specific rule to be tested instead of testing the entire group"
+  },
+  {
+    "k": "Retorna a lista com os modelos de efeito de transição",
+    "v": "Returns the list of transition effect models"
+  },
+  {
+    "k": "Retorna um modelo de efeito de transição",
+    "v": "Returns a transition effect model"
+  },
+  {
+    "k": "ID do modelo",
+    "v": "Model ID"
+  },
+  {
+    "k": "Alterar as configurações de um modelo de efeito de transição",
+    "v": "Change the settings of a transition effect template"
+  },
+  {
+    "k": "O mesmo que `input(...)`, porém a resposta sempre será um mapa chave/valor, mesmo que haja apenas um item como entrada",
+    "v": "The same as `input(...)`, but the response will always be a key/value map, even if there is only one item as input"
+  },
+  {
+    "k": "O mesmo que `settings(...)`, porém a resposta sempre será um mapa chave/valor, mesmo que haja apenas um item como entrada",
+    "v": "The same as `settings(...)`, but the response will always be a key/value map, even if there is only one item as input"
+  },
+  {
+    "k": "Abre uma janela para selecionar um ícone",
+    "v": "Opens a window to select an icon"
+  },
+  {
+    "k": "Regras",
+    "v": "Rules"
+  },
+  {
+    "k": "Configurações de exibição (Modelo predefinido)",
+    "v": "Display settings (Default template)"
+  },
+  {
+    "k": "É um objeto com os mesmos parâmetros disponíveis em **Transition Effect Settings**, porém com alguns parâmetros adicionais",
+    "v": "It is an object with the same parameters available in **Transition Effect Settings**, but with some additional parameters"
+  },
+  {
+    "k": "Objeto que será convertido em JSON",
+    "v": "Object that will be converted to JSON"
+  },
+  {
+    "k": "Livro",
+    "v": "Book"
+  },
+  {
+    "k": "Pode ser uma `string` com o ID de cada versículo separado por vírgula",
+    "v": "It can be a `string` with the ID of each verse separated by a comma"
+  },
+  {
+    "k": "Pode ser um `array` de `string` com cada ID",
+    "v": "It can be an `array` of `string` with each ID"
+  },
+  {
+    "k": "Pode ser um `array` de objeto com cada objeto contendo o parâmetro `id` com o ID do versículo",
+    "v": "It can be an `array` of objects with each object containing the `id` parameter with the verse ID"
+  },
+  {
+    "k": "Classe para gerar uma sequência MIDI",
+    "v": "Class to generate a MIDI sequence"
+  },
+  {
+    "k": "Filtrar pelo ID global do módulo no repositório JSCommunity",
+    "v": "Filter by the global module ID in the JSCommunity repository"
+  },
+  {
+    "k": "Tipo de preset",
+    "v": "Preset type"
+  },
+  {
+    "k": "A chave é o id da respectiva ação e o valor é o código MIDI",
+    "v": "The key is the id of the respective action and the value is the MIDI code"
+  },
+  {
+    "k": "IDs disponíveis",
+    "v": "Available IDs"
+  },
+  {
+    "k": "Número base de início da oitava para código midi = 0 (zero)",
+    "v": "Base number for the start of the octave for midi code = 0 (zero)"
+  },
+  {
+    "k": "Ou seja, se `base_octave=-1`, então `código midi=0` é igual a `C-1`",
+    "v": "That is, if `base_octave=-1`, then `midi code=0` is equal to `C-1`"
+  },
+  {
+    "k": "Pode ser -1 ou -2",
+    "v": "It can be -1 or -2"
+  },
+  {
+    "k": "hora no formato",
+    "v": "time in format"
+  },
+  {
+    "k": "Valores utilizados para as comparações",
+    "v": "Values used for comparisons"
+  },
+  {
+    "k": "O array pode conter 1 ou mais itens, depende de `type.operator`",
+    "v": "The array can contain 1 or more items, depending on `type.operator`"
+  },
+  {
+    "k": "Valor padrão para executar a ação",
+    "v": "Default value to execute the action"
+  },
+  {
+    "k": "Cria uma track na sequência MIDI",
+    "v": "Create a track in the MIDI sequence"
+  },
+  {
+    "k": "Retorna a lista de `tracks` criadas",
+    "v": "Returns the list of created `tracks`"
+  },
+  {
+    "k": "Salva a sequência MIDI em um arquivo",
+    "v": "Save the MIDI sequence to a file"
+  },
+  {
+    "k": "Altera a oitava base, utilizado como parâmetro ao adicionar uma mensagem MIDI baseada em notas `CDEFGAB`",
+    "v": "Changes the eighth base, used as a parameter when adding a MIDI message based on notes `CDEFGAB`"
+  },
+  {
+    "k": "Retorna `true` se o arquivo foi salvo",
+    "v": "Returns `true` if the file was saved"
+  },
+  {
+    "k": "Retorna uma mensagem de erro se o arquivo não foi salvo",
+    "v": "Returns an error message if the file was not saved"
+  },
+  {
+    "k": "Adiciona uma mensagem MIDI na respectiva Track",
+    "v": "Adds a MIDI message to the respective Track"
+  },
+  {
+    "k": "Pode ser uma `string`, um `array` ou um `object`",
+    "v": "It can be a `string`, an `array`, or an `object`"
+  },
+  {
+    "k": "O caractere separador pode ser",
+    "v": "The separator character can be"
+  },
+  {
+    "k": "Parâmetros do objeto",
+    "v": "Object parameters"
+  },
+  {
+    "k": "Valores permitidos para cada parâmetro",
+    "v": "Allowed values for each parameter"
+  },
+  {
+    "k": "ou a respectiva nota baseada em `C` `C#` `D` etc.",
+    "v": "or the respective grade based on `C` `C#` `D` etc."
+  },
+  {
+    "k": "Tempo absoluto em milissegundos",
+    "v": "Absolute time in milliseconds"
+  },
+  {
+    "k": "Duração da nota em milissegundos (caso a mensagem seja `note_on`)",
+    "v": "Duration of the note in milliseconds (if the message is `note_on`)"
+  },
+  {
+    "k": "Retorna a lista de ações disponíveis",
+    "v": "Returns the list of available actions"
+  },
+  {
+    "k": "Retorna uma ação específica",
+    "v": "Returns a specific action"
+  },
+  {
+    "k": "ID da ação",
+    "v": "Action ID"
+  },
+  {
+    "k": "Token de segurança",
+    "v": "Security token"
+  },
+  {
+    "k": "Objeto que representa um módulo adicionado no programa",
+    "v": "Object that represents a module added to the program"
+  },
+  {
+    "k": "Nomes alternativos",
+    "v": "Alternative names"
+  },
+  {
+    "k": "Cada chave é o id da ação e cada valor é um objeto `ModuleAction`",
+    "v": "Each key is the action id and each value is a `ModuleAction` object"
+  },
+  {
+    "k": "Executar uma ação avançada em um módulo",
+    "v": "Execute an advanced action in a module"
+  },
+  {
+    "k": "O token de segurança pode ser obtido na janela de módulos, nos ícone de 3 pontinhos do respectivo módulo",
+    "v": "The security token can be obtained in the modules window, in the 3-dot icon of the respective module"
+  },
+  {
+    "k": "Tipo da ação",
+    "v": "Type of action"
+  },
+  {
+    "k": "Objeto que representa uma ação pública de um módulo adicionado no programa",
+    "v": "Object that represents a public action of a module added to the program"
+  },
+  {
+    "k": "Executar a ação e obter a resposta",
+    "v": "Execute the action and get the response"
+  },
+  {
+    "k": "Retorna `null` se houver erro",
+    "v": "Returns `null` if there is an error"
+  },
+  {
+    "k": "Parâmetros para execução da ação",
+    "v": "Parameters for executing the action"
+  },
+  {
+    "k": "Gera **Exception** se houver erro",
+    "v": "Generates **Exception** if there is an error"
+  },
+  {
+    "k": "Execução assíncrona",
+    "v": "Asynchronous execution"
+  },
+  {
+    "k": "Método que será executado com a resposta da requisição ou com a mensagem de erro",
+    "v": "Method that will be executed with the response of the request or with the error message"
+  },
+  {
+    "k": "Abre uma janela para o usuário inserir/editar os inputs e executar a ação",
+    "v": "Opens a window for the user to input/edit the inputs and execute the action"
+  },
+  {
+    "k": "Aguarda a resposta da ação",
+    "v": "Awaiting the response of the action"
+  },
+  {
+    "k": "Exibe uma notificação no canto da tela para o usuário inserir/editar os inputs e executar a ação",
+    "v": "Displays a notification in the corner of the screen for the user to input/edit the inputs and execute the action"
+  },
+  {
+    "k": "Objeto que representa um **Input** em uma ação pública de um módulo adicionado no programa",
+    "v": "Object that represents an **Input** in a public action of a module added to the program"
+  },
+  {
+    "k": "Converter o ID de um versículo da Bíblia em uma referência",
+    "v": "Convert the ID of a Bible verse into a reference"
+  },
+  {
+    "k": "Converter um versículo da Bíblia em uma referência",
+    "v": "Convert a Bible verse into a reference"
+  },
+  {
+    "k": "Converter uma lista de IDs de versículo da Bíblia em referências",
+    "v": "Convert a list of Bible verse IDs into references"
+  },
+  {
+    "k": "Adicionar espaços à esquerda",
+    "v": "Add spaces to the left"
+  },
+  {
+    "k": "(linhas selecionadas)",
+    "v": "(selected lines)"
+  },
+  {
+    "k": "Remover espaços à esquerda",
+    "v": "Remove leading spaces"
+  },
+  {
+    "k": "Disponível apenas para os tipos 'string' 'textarea' 'password'",
+    "v": "Available only for the types 'string' 'textarea' 'password'"
+  },
+  {
+    "k": "Largura do componente, baseado na quantidade de colunas.",
+    "v": "Width of the component, based on the number of columns."
+  },
+  {
+    "k": "Tamanho máximo de caracteres.",
+    "v": "Maximum character size."
+  },
+  {
+    "k": "Disponível apenas para tipo 'textarea'",
+    "v": "Available only for 'textarea' type"
+  },
+  {
+    "k": "Quantidade de linhas visíveis na interface.",
+    "v": "Number of visible rows in the interface."
+  },
+  {
+    "k": "Disponível apenas para os tipos 'audio' 'video' 'image' 'file'",
+    "v": "Available only for types 'audio' 'video' 'image' 'file'"
+  },
+  {
+    "k": "Aceitar arquivos na janela de seleção de arquivo",
+    "v": "Accept files in the file selection window"
+  },
+  {
+    "k": "Aceitar pastas na janela de seleção de arquivo",
+    "v": "Accept folders in the file selection window"
+  },
+  {
+    "k": "Disponível apenas para os tipos 'object_model' 'object_model_manage_list'",
+    "v": "Available only for the types 'object_model' 'object_model_manage_list'"
+  },
+  {
+    "k": "Disponível apenas para módulos",
+    "v": "Available only for modules"
+  },
+  {
+    "k": "**id** do modelo declarado no respectivo módulo",
+    "v": "**id** of the model declared in the respective module"
+  },
+  {
+    "k": "Disponível apenas para o tipo 'module'",
+    "v": "Available only for the 'module' type"
+  },
+  {
+    "k": "Para filtrar os itens disponíveis pelo id declarado em `info()` de um módulo",
+    "v": "To filter the available items by the id declared in `info()` of a module"
+  },
+  {
+    "k": "Para filtrar somente módulos instalados pelo **JSCommunity**",
+    "v": "To filter only modules installed by **JSCommunity**"
+  },
+  {
+    "k": "Músicas que contêm",
+    "v": "Songs that contain"
+  },
+  {
+    "k": "Músicas que contêm a palavra",
+    "v": "Songs that contain the word"
+  },
+  {
+    "k": "Músicas que contêm tema salvo:",
+    "v": "Songs that contain saved theme:"
+  },
+  {
+    "k": "Filtra apenas músicas que contêm pelo menos um slide com o nome informado.",
+    "v": "Filters only songs that contain at least one slide with the specified name."
+  },
+  {
+    "k": "Filtrar músicas que contêm um arranjo específico (pelo nome)",
+    "v": "Filter songs that contain a specific arrangement (by name)"
+  },
+  {
+    "k": "Filtrar músicas pelo link salvo nas informações 'extras' da música no respectivo streaming",
+    "v": "Filter songs by the link saved in the 'extras' information of the song in the respective streaming"
+  },
+  {
+    "k": "A busca é feita somente nos itens do tipo **\"voz\"**",
+    "v": "The search is conducted only on items of type **\"voice\"**"
+  },
+  {
+    "k": "A pesquisa pode ser feita informando apenas o **id** ou o link completo",
+    "v": "The search can be done by providing only the **id** or the complete link"
+  },
+  {
+    "k": "A busca é feita somente nos itens do tipo **\"playback\"**",
+    "v": "The search is conducted only on items of type **\"playback\"**"
+  },
+  {
+    "k": "A busca é feita nos itens do tipo **\"voz\"** e **\"playback\"**",
+    "v": "The search is made in items of type **\"voice\"** and **\"playback\"**"
+  },
+  {
+    "k": "Filtrar músicas pelo nome do arquivo de áudio associado nas informações 'extras' da música",
+    "v": "Filter songs by the name of the associated audio file in the song's 'extras' information"
+  },
+  {
+    "k": "Filtrar itens pelo **id** do tema salvo como **tema padrão** no respectivo item",
+    "v": "Filter items by the **id** of the theme saved as **default theme** in the respective item"
+  },
+  {
+    "k": "Filtrar itens pelo **nome** do tema salvo como **tema padrão** no respectivo item",
+    "v": "Filter items by the **name** of the theme saved as **default theme** in the respective item"
+  },
+  {
+    "k": "Filtrar músicas pela quantidade de vezes que foram tocadas em uma hora do dia específica.",
+    "v": "Filter songs by the number of times they were played in a specific hour of the day."
+  },
+  {
+    "k": "foi tocada mais de 10 vezes às 19 horas",
+    "v": "was played more than 10 times at 7 PM"
+  },
+  {
+    "k": "foi tocada menos de 10 vezes nos horários de 19, 20, 21 e 22 horas",
+    "v": "was played less than 10 times during the hours of 7 PM, 8 PM, 9 PM, and 10 PM"
+  },
+  {
+    "k": "foi tocada menos de 10 vezes no intervalo de 19, 20, 21 e 22 horas",
+    "v": "was played less than 10 times in the interval of 7 PM, 8 PM, 9 PM, and 10 PM"
+  },
+  {
+    "k": "Filtrar músicas pela quantidade de vezes que foram tocadas em um dia da semana específico.",
+    "v": "Filter songs by the number of times they were played on a specific day of the week."
+  },
+  {
+    "k": "foi tocada mais de 20 vezes no domingo",
+    "v": "was played more than 20 times on Sunday"
+  },
+  {
+    "k": "foi tocada 20 vezes ou menos contando sábado e domingo",
+    "v": "was played 20 times or less including Saturday and Sunday"
+  },
+  {
+    "k": "Filtrar músicas pela quantidade de vezes que foram tocadas em um mês do ano.",
+    "v": "Filter songs by the number of times they were played in a month of the year."
+  },
+  {
+    "k": "foi tocada menos de 5 vezes em janeiro",
+    "v": "was played less than 5 times in January"
+  },
+  {
+    "k": "foi tocada 5 vezes ou mais contando março, abril ou maio",
+    "v": "was played 5 times or more counting March, April, or May"
+  },
+  {
+    "k": "Filtrar músicas pela quantidade de vezes que foram tocadas em um ano específico.",
+    "v": "Filter songs by the number of times they were played in a specific year."
+  },
+  {
+    "k": "foi tocada mais de 10 vezes em 2023",
+    "v": "was played more than 10 times in 2023"
+  },
+  {
+    "k": "foi tocada 10 vezes ou menos contando 2023, 2024 e 2025",
+    "v": "was played 10 times or less counting 2023, 2024, and 2025"
+  },
+  {
+    "k": "Filtrar músicas pela quantidade de vezes que foram tocadas em um culto específico (pelo nome do culto).",
+    "v": "Filter songs by the number of times they have been played in a specific service (by the name of the service)."
+  },
+  {
+    "k": "foi tocada mais de 20 no horário do respectivo culto",
+    "v": "was played more than 20 times during the respective service time"
+  },
+  {
+    "k": "nome do culto",
+    "v": "name of the worship"
+  },
+  {
+    "k": "foi tocada 10 vezes ou menos no horário do respectivo culto",
+    "v": "was played 10 times or less during the respective service time"
+  },
+  {
+    "k": "Pesquisa Avançada de Texto",
+    "v": "Advanced Text Search"
+  },
+  {
+    "k": "É possível realizar uma pesquisa avançada na aba de textos para um filtro mais preciso dos itens, utilizando itens não disponíveis na interface e filtrando por diferentes itens simultaneamente.",
+    "v": "It is possible to perform an advanced search in the text tab for a more precise filter of items, using items not available in the interface and filtering by different items simultaneously."
+  },
+  {
+    "k": "Textos que contêm",
+    "v": "Texts that contain"
+  },
+  {
+    "k": "no texto e o tema salvo contém",
+    "v": "in the text and the saved theme contains"
+  },
+  {
+    "k": "e o campo __saved_theme_by_name__ está preenchido",
+    "v": "and the field __saved_theme_by_name__ is filled in"
+  },
+  {
+    "k": "e o campo __saved_theme_by_name__ não está preenchido",
+    "v": "and the field __saved_theme_by_name__ is not filled in"
+  },
+  {
+    "k": "Textos que contêm a palavra",
+    "v": "Texts that contain the word"
+  },
+  {
+    "k": "no texto e contém algum tema salvo com nome",
+    "v": "in the text and contains some saved theme with name"
+  },
+  {
+    "k": "Textos que contêm tema salvo:",
+    "v": "Texts that contain saved theme:"
+  },
+  {
+    "k": "Título do Texto",
+    "v": "Title of the Text"
+  },
+  {
+    "k": "Conteúdo do item Texto",
+    "v": "Item content Text"
+  },
+  {
+    "k": "Comentários nos parágrafos do Texto",
+    "v": "Comments in the paragraphs of the Text"
+  },
+  {
+    "k": "Pesquisa nos campos traduzidos do item Texto",
+    "v": "Search in the translated fields of the item Text"
+  },
+  {
+    "k": "Campo \"extra\" disponível na janela de edição de um item Texto",
+    "v": "\"extra\" field available in the edit window of a Text item"
+  },
+  {
+    "k": "Filtrar textos que tem ou não tema salvo",
+    "v": "Filter texts that have or do not have a saved theme"
+  },
+  {
+    "k": "A partir da `v2.26.0` foi adicionada possibilidade de criar uma interface de configurações que será exibida na janela para o usuário",
+    "v": "Starting from `v2.26.0`, the ability to create a settings interface that will be displayed in the window for the user has been added"
+  },
+  {
+    "k": "O objeto `settings` estará disponível globalmente em qualquer local do script para acesso às configurações pelo respectivo `id`",
+    "v": "The `settings` object will be globally available anywhere in the script for accessing the configurations by the respective `id`"
+  },
+  {
+    "k": "Método que faz uma requisição inicial para obter, se necessário, algum token de autenticação para ser utilizado no decorrer do fluxo nas próximas requisições",
+    "v": "Method that makes an initial request to obtain, if necessary, an authentication token to be used throughout the flow in the subsequent requests"
+  },
+  {
+    "k": "pode retornar uma string (url)",
+    "v": "can return a string (url)"
+  },
+  {
+    "k": "ou um objeto complexo de requisição",
+    "v": "or a complex request object"
+  },
+  {
+    "k": "Para realizar uma requisição avançada (por exemplo, do tipo **POST** ou adicionando **headers**), retorne um objeto em vez de `string`",
+    "v": "To make an advanced request (for example, of type **POST** or adding **headers**), return an object instead of `string`"
+  },
+  {
+    "k": "Abre o monitor JavaScript com o filtro padrão definido para as tarefas do módulo",
+    "v": "Open the JavaScript console with the default filter set for module tasks"
+  },
+  {
+    "k": "Abre a janela de log do módulo",
+    "v": "Open the module log window"
+  },
+  {
+    "k": "Retorna a classe de controle de um modelo de objeto",
+    "v": "Returns the control class of an object model"
+  },
+  {
+    "k": "Pode ser `null`",
+    "v": "It can be `null`"
+  },
+  {
+    "k": "ID do objeto",
+    "v": "Object ID"
+  },
+  {
+    "k": "Tempo restante em milissegundos para execução",
+    "v": "Time remaining in milliseconds for execution"
+  },
+  {
+    "k": "Árvore de submenu para organização de múltiplas ações em diferentes submenus",
+    "v": "Submenu tree for organizing multiple actions in different submenus"
+  },
+  {
+    "k": "Nome do modelo",
+    "v": "Model name"
+  },
+  {
+    "k": "Estrutura",
+    "v": "Structure"
+  },
+  {
+    "k": "Retorna a quantidade de itens",
+    "v": "Returns the quantity of items"
+  },
+  {
+    "k": "Cria um item",
+    "v": "Create an item"
+  },
+  {
+    "k": "Mapa chave/valor com os dados do objeto",
+    "v": "Key/value map with the object's data"
+  },
+  {
+    "k": "Mapa chave/valor com os dados iniciais do objeto",
+    "v": "Key/value map with the initial data of the object"
+  },
+  {
+    "k": "Remove um item",
+    "v": "Remove an item"
+  },
+  {
+    "k": "ID do objeto ou um objeto que contém o parâmetro ID com o ID do objeto",
+    "v": "Object ID or an object that contains the ID parameter with the object ID"
+  },
+  {
+    "k": "Retorna o objeto removido ou `null` se o objeto não foi encontrado",
+    "v": "Returns the removed object or `null` if the object was not found"
+  },
+  {
+    "k": "Retorna a lista de itens",
+    "v": "Returns the list of items"
+  },
+  {
+    "k": "Retorna a lista de itens em um objeto mapa chave/valor, onde cada chave é o id do objeto",
+    "v": "Returns the list of items in a key/value map object, where each key is the id of the object"
+  },
+  {
+    "k": "O mesmo que `getAll()` porém com filtro aplicado",
+    "v": "The same as `getAll()` but with a filter applied"
+  },
+  {
+    "k": "Uma função que recebe o objeto e retorna verdadeiro ou falso",
+    "v": "A function that takes the object and returns true or false"
+  },
+  {
+    "k": "O mesmo que `getAllAsMap()` porém com filtro aplicado",
+    "v": "The same as `getAllAsMap()` but with a filter applied"
+  },
+  {
+    "k": "Retorna um item",
+    "v": "Returns an item"
+  },
+  {
+    "k": "Retorna o primeiro item encontrado baseado no filtro aplicado",
+    "v": "Returns the first item found based on the applied filter"
+  },
+  {
+    "k": "Abre a janela de edição para editar o respectivo item",
+    "v": "Opens the edit window to edit the respective item"
+  },
+  {
+    "k": "Retorna a lista de ações públicas que serão disponibilizadas para execução externa por outros scripts, gatilhos ou botões na interface",
+    "v": "Returns the list of public actions that will be made available for external execution by other scripts, triggers, or buttons in the interface"
+  },
+  {
+    "k": "Retorna a lista de objetos modelos",
+    "v": "Returns the list of model objects"
+  },
+  {
+    "k": "Um objeto modelo é útil para gerar estruturas padronizadas para que o usuário possa criar, editar e remover itens com interface nativa padrão, seguindo o comportamento típico de um `CRUD`",
+    "v": "A model object is useful for generating standardized structures so that the user can create, edit, and remove items with a standard native interface, following the typical behavior of a `CRUD`"
+  },
+  {
+    "k": "Por exemplo, se seu módulo precisa administrar uma lista de itens que podem ser criados pelo usuário, basta criar um objeto modelo e usar o seu respectivo ID em um `input` do tipo `object_model` ou `object_model_manage_list`",
+    "v": "For example, if your module needs to manage a list of items that can be created by the user, just create a model object and use its respective ID in an `input` of type `object_model` or `object_model_manage_list`"
+  },
+  {
+    "k": "No próprio `input` o usuário vai ter a opção de abrir a janela de gerenciamento desse respectivo item",
+    "v": "In the `input` itself, the user will have the option to open the management window for that respective item"
+  },
+  {
+    "k": "Força a atualização da lista de ações públicas",
+    "v": "Forces the update of the public actions list"
+  },
+  {
+    "k": "Retorna os dados de um objeto modelo salvo",
+    "v": "Returns the data of a saved model object"
+  },
+  {
+    "k": "Procura em todos os modelos",
+    "v": "Search in all models"
+  },
+  {
+    "k": "Método relativo com o mesmo funcionamento do método original **JSLib**",
+    "v": "Relative method with the same functionality as the original **JSLib** method"
+  },
+  {
+    "k": "Porém os itens adicionados por aqui serão vinculados e filtrados pelo respectivo módulo na janela do **Monitor JavaScript**",
+    "v": "However, the items added here will be linked and filtered by the respective module in the **JavaScript Monitor** window"
+  },
+  {
+    "k": "Lista de parâmetros da ação",
+    "v": "List of action parameters"
+  },
+  {
+    "k": "contém o id da respectiva ação",
+    "v": "contains the id of the respective action"
+  },
+  {
+    "k": "parâmetros para execução da ação",
+    "v": "parameters for executing the action"
+  },
+  {
+    "k": "Lista de origens em que a ação estará disponibilizada para execução",
+    "v": "List of sources where the action will be available for execution"
+  },
+  {
+    "k": "Múltiplos valores separados por vírgula",
+    "v": "Multiple values separated by commas"
+  },
+  {
+    "k": "Se o campo estiver vazio, significa que a ação estará disponível para todas as origens",
+    "v": "If the field is empty, it means that the action will be available for all sources"
+  },
+  {
+    "k": "Para bloquear origens específicas utilize `unavailable_for`",
+    "v": "To block specific origins use `unavailable_for`"
+  },
+  {
+    "k": "Para uso na interface do programa, por exemplo, como um botão na barra de favoritos ou na lista de reprodução do culto/evento",
+    "v": "For use in the program interface, for example, as a button in the favorites bar or in the worship/event playlist"
+  },
+  {
+    "k": "Para uso em gatilhos",
+    "v": "For use in triggers"
+  },
+  {
+    "k": "Para execução via JavaScript",
+    "v": "For execution via JavaScript"
+  },
+  {
+    "k": "Para abrir uma janela popup via JavaScript para o usuário executar a ação",
+    "v": "To open a popup window via JavaScript for the user to perform the action"
+  },
+  {
+    "k": "Permite adicionar na lista de reprodução via JavaScript",
+    "v": "Allows adding to the playlist via JavaScript"
+  },
+  {
+    "k": "Lista de origens em que a ação estará bloqueada para execução",
+    "v": "List of sources where the action will be blocked from execution"
+  },
+  {
+    "k": "Valores baseados em `available_for`",
+    "v": "Values based on `available_for`"
+  },
+  {
+    "k": "Filtro avançado para exibir a ação somente em tipos específicos de gatilho, caso a ação esteja disponível para uso em gatilhos",
+    "v": "Advanced filter to display the action only for specific types of triggers, if the action is available for use in triggers"
+  },
+  {
+    "k": "Útil para disponibilizar a ação somente para determinados tipos de gatilho, por exemplo, somente para gatilhos de música",
+    "v": "Useful for making the action available only for certain types of triggers, for example, only for music triggers"
+  },
+  {
+    "k": "ID do campo em `struct` que será utilizado como valor que representa o objeto na interface",
+    "v": "Field ID in `struct` that will be used as the value representing the object in the interface"
+  },
+  {
+    "k": "Caso o parâmetro `to_string` não seja declarado, o campo padrão que será utilizado será um dos seguintes, na ordem:",
+    "v": "If the `to_string` parameter is not declared, the default field that will be used will be one of the following, in order:"
+  },
+  {
+    "k": "Método executado sempre que houver alguma alteração na lista de itens",
+    "v": "Method executed whenever there is a change in the item list"
+  },
+  {
+    "k": "Item criado, item editado ou item removido",
+    "v": "Item created, item edited, or item removed"
+  },
+  {
+    "k": "Está disponível o acesso direto a todos os campos do objeto conforme disponível em `struct`",
+    "v": "Direct access to all fields of the object is available as provided in `struct`"
+  },
+  {
+    "k": "Também é possível editar o item alterando o respectivo campo, o salvamento é automático",
+    "v": "It is also possible to edit the item by changing the respective field, the saving is automatic"
+  },
+  {
+    "k": "Abre uma janela para criação de um novo item pelo usuário",
+    "v": "Opens a window for the user to create a new item"
+  },
+  {
+    "k": "Executado após a criação do item",
+    "v": "Executed after the item is created"
+  },
+  {
+    "k": "Obs: Executado **somente** se o item for criado pelo usuário",
+    "v": "Note: Executed **only** if the item is created by the user"
+  },
+  {
+    "k": "Abre a janela de edição global",
+    "v": "Open the global editing window"
+  },
+  {
+    "k": "Abre uma janela para o usuário selecionar um item",
+    "v": "Opens a window for the user to select an item"
+  },
+  {
+    "k": "Executado após edição do item",
+    "v": "Executed after item editing"
+  },
+  {
+    "k": "Obs: Executado **somente** se o item for editado pelo usuário",
+    "v": "Note: Executed **only** if the item is edited by the user"
   }
 ]
