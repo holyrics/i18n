@@ -8774,5 +8774,97 @@
   {
     "k": "Obs: Executado **somente** se o item for editado pelo usuário",
     "v": "Note: Executed **only** if the item is edited by the user"
+  },
+  {
+    "k": "Regra",
+    "v": "Rule"
+  },
+  {
+    "k": "menu ferramentas",
+    "v": "tools menu"
+  },
+  {
+    "k": "regras",
+    "v": "rules"
+  },
+  {
+    "k": "Na `v2.26.0` foi disponibilizada uma opção para criar regras para execução condicional de alguns itens no programa, como gatilhos, por exemplo",
+    "v": "In `v2.26.0`, an option was made available to create rules for the conditional execution of certain items in the program, such as triggers, for example"
+  },
+  {
+    "k": "É possível criar um modelo de regra reutilizável utilizando JavaScript",
+    "v": "It is possible to create a reusable rule model using JavaScript"
+  },
+  {
+    "k": "Aqui está a documentação de como criar este modelo",
+    "v": "Here is the documentation on how to create this model"
+  },
+  {
+    "k": "Para criar novos modelos de regra disponíveis nativamente no programa para utilização por outros usuários, adicione os arquivos `.js` aqui nesta pasta",
+    "v": "To create new rule models available natively in the program for use by other users, add the `.js` files here in this folder"
+  },
+  {
+    "k": "pode ser `custom` `string` `number` `date` `time` `datetime`",
+    "v": "can be `custom` `string` `number` `date` `time` `datetime`"
+  },
+  {
+    "k": "O tipo de configuração que será exibido na interface",
+    "v": "The type of configuration that will be displayed in the interface"
+  },
+  {
+    "k": "O programa lida com modelos padrões genéricos de interface para casos em que o valor testado será, por exemplo, um número",
+    "v": "The program deals with generic standard interface models for cases where the tested value will be, for example, a number"
+  },
+  {
+    "k": "O modelo só precisará retornar o número para teste pela `function ruleGetValueToTest()` que o programa vai testar baseado nas configurações definidas pelo usuário, por exemplo \"contém\", \"é igual\", \"é maior que\", etc.",
+    "v": "The model will only need to return the number for testing by the `function ruleGetValueToTest()` that the program will test based on the configurations defined by the user, for example \"contains\", \"is equal to\", \"is greater than\", etc."
+  },
+  {
+    "k": "Se `settings_type=custom` (padrão), o modelo deve implementar as configurações na `function ruleSettings()`",
+    "v": "If `settings_type=custom` (default), the model must implement the settings in the `function ruleSettings()`"
+  },
+  {
+    "k": "Tempo limite em milissegundos para execução da function:",
+    "v": "Timeout in milliseconds for function execution:"
+  },
+  {
+    "k": "Valor padrão que será considerado como resultado do teste caso a execução da function receba `timeout`",
+    "v": "Default value that will be considered as the test result if the function execution receives a `timeout`"
+  },
+  {
+    "k": "Deve ser declarado se `settings_type` for igual a 'custom'",
+    "v": "It must be declared if `settings_type` is equal to 'custom'"
+  },
+  {
+    "k": "Exibe na interface componentes de configuração onde o usário poderá definir valores para ser utilizado como parâmetros no teste da regra",
+    "v": "Displays configuration components in the interface where the user can define values to be used as parameters in the rule testing"
+  },
+  {
+    "k": "O valor de cada item estará disponível em `evt.settings` recebido em `function ruleTest(evt)`, por exemplo, `evt.settings.example`",
+    "v": "The value of each item will be available in `evt.settings` received in `function ruleTest(evt)`, for example, `evt.settings.example`"
+  },
+  {
+    "k": "Método que deve retornar `true` ou `false`, que é o resultado do teste da regra",
+    "v": "Method that should return `true` or `false`, which is the result of the rule test"
+  },
+  {
+    "k": "Deve ser declarado se `settings_type` for diferente de 'custom'",
+    "v": "It must be declared if `settings_type` is different from 'custom'"
+  },
+  {
+    "k": "Deve retornar o valor base que será utilizado para teste baseado nas configurações definidas na interface pelo usuário",
+    "v": "It should return the base value that will be used for testing based on the settings defined in the interface by the user"
+  },
+  {
+    "k": "quantidade de itens na lista de reprodução de mídia",
+    "v": "number of items in the media playlist"
+  },
+  {
+    "k": "Deve ser declarado se `settings_type` for igual a `custom`",
+    "v": "It must be declared if `settings_type` is equal to `custom`"
+  },
+  {
+    "k": "Deve ser declarado se `settings_type` for diferente de `custom`",
+    "v": "It must be declared if `settings_type` is different from `custom`"
   }
 ]
