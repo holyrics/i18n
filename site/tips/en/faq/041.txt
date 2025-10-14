@@ -11,7 +11,7 @@ Can be:
 <li>LAN router firewall;</li>
 <li>Configuration called <b>client isolation</b> on the LAN router;</li>
 <li>etc.</li></ul>
-Firewall release for Windows: <a href='/solutions/firewall.php' target='_blank'>tutorial</a>
+Firewall release for Windows: <a href='/solutions/firewall.html' target='_blank'>tutorial</a>
 
 For all other options, there are several antivirus and router models, each with a different configuration.
 It is necessary to search the internet for the procedure to check the settings for the antivirus and router used on your local network.

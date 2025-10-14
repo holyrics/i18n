@@ -27,7 +27,7 @@ Basta apenas selecionar o texto para exibição e ele será exibido com a format
 
 <h3>Letra de Música</h3>
 <ul>
-    <li>Adicionar letras de música ao repertório offline do programa</li>
+    <li>Adicionar letras de música ao repertório do programa</li>
     <li>Buscar por título ou trecho da letra da música</li>
     <li>Organizar hinos em grupos</li>
     <li>Definir descrição para os slides da música (verso, coro, ponte, etc) (<a href='/tips/slide_label.html' target='_blank'>Saiba mais</a>)</li>
@@ -85,7 +85,7 @@ Basta apenas selecionar o texto para exibição e ele será exibido com a format
 
 <h3>Texto</h3>
 <ul>
-    <li>Adicionar textos diversos ao repertório offline do programa</li>
+    <li>Adicionar textos diversos ao repertório do programa</li>
     <li>Buscar por título ou trecho do texto</li>
     <li>Organizar textos em subpastas</li>
     <li>Salvar um Tema padrão para a apresentação de texto (janela principal ou janela de edição de texto)</li>

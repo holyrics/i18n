@@ -8866,5 +8866,273 @@
   {
     "k": "Deve ser declarado se `settings_type` for diferente de `custom`",
     "v": "It must be declared if `settings_type` is different from `custom`"
+  },
+  {
+    "k": "Retorna um perfil",
+    "v": "Returns a profile"
+  },
+  {
+    "k": "ID do perfil",
+    "v": "Profile ID"
+  },
+  {
+    "k": "Endpoints disponíveis",
+    "v": "Available endpoints"
+  },
+  {
+    "k": "API de acesso às informações e conteúdos disponíveis no banco de dados Christian Song Database",
+    "v": "API for accessing information and content available in the Christian Song Database"
+  },
+  {
+    "k": "Ao utilizar a API você concorda com os [Termos de Serviço](https://api.csdb.app/terms)",
+    "v": "By using the API you agree to the [Terms of Service](https://api.csdb.app/terms)"
+  },
+  {
+    "k": "Todas as respostas da API retornam um objeto padrão:",
+    "v": "All API responses return a standard object:"
+  },
+  {
+    "k": "Requisição: ",
+    "v": "Request: "
+  },
+  {
+    "k": "Nome completo",
+    "v": "Full name"
+  },
+  {
+    "k": "Nome artístico",
+    "v": "Stage name"
+  },
+  {
+    "k": "Nome alternativo (opcional) utilizado nos locais que informam autor/compositor",
+    "v": "Alternative name (optional) used in places that inform author/composer"
+  },
+  {
+    "k": "**true** se o perfil for associado à uma pessoa/grupo/banda evangélica",
+    "v": "**true** if the profile is associated with a person/group/evangelical band"
+  },
+  {
+    "k": "Quantidade de composições associadas ao perfil",
+    "v": "Number of compositions associated with the profile"
+  },
+  {
+    "k": "Quantidade de gravações associadas ao perfil",
+    "v": "Number of recordings associated with the profile"
+  },
+  {
+    "k": "Links externos do perfil (por exemplo, redes sociais)",
+    "v": "External profile links (for example, social media)"
+  },
+  {
+    "k": "Título da obra",
+    "v": "Title of the work"
+  },
+  {
+    "k": "ISO 639 three-letter language code",
+    "v": "ISO 639 three-letter language code"
+  },
+  {
+    "k": "Retorna a informação da obra original se o item for uma obra derivada (uma versão traduzida, por exemplo)",
+    "v": "Returns the information of the original work if the item is a derivative work (a translated version, for example)"
+  },
+  {
+    "k": "Referências da obra (compositores, por exemplo)",
+    "v": "References of the work (composers, for example)"
+  },
+  {
+    "k": "Quantidade de gravações que utilizam esta obra",
+    "v": "Number of recordings that use this work"
+  },
+  {
+    "k": "Ano de lançamento",
+    "v": "Release year"
+  },
+  {
+    "k": "Código ISRC",
+    "v": "ISRC Code"
+  },
+  {
+    "k": "Referências da música (artistas, por exemplo)",
+    "v": "Music references (artists, for example)"
+  },
+  {
+    "k": "Obras utilizadas na gravação (pode retornar múltiplos itens em casos de medley)",
+    "v": "Works used in the recording (may return multiple items in cases of medley)"
+  },
+  {
+    "k": "Links externos da música",
+    "v": "External links of the song"
+  },
+  {
+    "k": "URL para acesso ao recurso",
+    "v": "URL to access the resource"
+  },
+  {
+    "k": "URI do recurso (disponível apenas para alguns tipos, como spotify, por exemplo)",
+    "v": "Resource URI (available only for certain types, such as Spotify, for example)"
+  },
+  {
+    "k": "Tipo do perfil",
+    "v": "Profile type"
+  },
+  {
+    "k": "Tonalidade",
+    "v": "Tone"
+  },
+  {
+    "k": "Para objetos do tipo `Profile`, pode ser:",
+    "v": "For objects of type `Profile`, it can be:"
+  },
+  {
+    "k": "Para objetos do tipo `Track`, pode ser:",
+    "v": "For objects of type `Track`, it can be:"
+  },
+  {
+    "k": "Itens terminados em `_bt` significa `Backing Track`, ou seja, é o \"Playback\" da track em questão",
+    "v": "Items ending in `_bt` means `Backing Track`, that is, it is the \"Playback\" of the track in question"
+  },
+  {
+    "k": "Retorna uma obra",
+    "v": "Returns a work"
+  },
+  {
+    "k": "ID da obra",
+    "v": "Work ID"
+  },
+  {
+    "k": "Retorna uma música (gravação)",
+    "v": "Returns a song (recording)"
+  },
+  {
+    "k": "Retorna a lista de músicas de um perfil",
+    "v": "Returns the list of songs from a profile"
+  },
+  {
+    "k": "Total de itens disponíveis",
+    "v": "Total number of available items"
+  },
+  {
+    "k": "Retorna a lista de composições de um perfil",
+    "v": "Returns the list of compositions of a profile"
+  },
+  {
+    "k": "Retorna o perfil com base no ID do respectivo serviço externo",
+    "v": "Returns the profile based on the ID of the respective external service"
+  },
+  {
+    "k": "Retorna a música com base no ID do respectivo serviço externo",
+    "v": "Returns the song based on the ID of the respective external service"
+  },
+  {
+    "k": "Retorna a lista dos perfis populares",
+    "v": "Returns the list of popular profiles"
+  },
+  {
+    "k": "Retorna a lista das músicas populares",
+    "v": "Returns the list of popular songs"
+  },
+  {
+    "k": "ID do perfil para retornar apenas as obras de um determinado perfil",
+    "v": "Profile ID to return only the works of a specific profile"
+  },
+  {
+    "k": "Retorna a lista das obras populares",
+    "v": "Returns the list of popular works"
+  },
+  {
+    "k": "Pesquisa um perfil pelo nome",
+    "v": "Search for a profile by name"
+  },
+  {
+    "k": "Pesquisa uma música pelo nome",
+    "v": "Search for a song by name"
+  },
+  {
+    "k": "Obra(s) utilizada(s) na gravação",
+    "v": "Work(s) used in the recording"
+  },
+  {
+    "k": "ID do recurso no respectivo serviço",
+    "v": "Resource ID in the respective service"
+  },
+  {
+    "k": "ID do respectivo objeto `Work`",
+    "v": "ID of the respective `Work` object"
+  },
+  {
+    "k": "Christian Song Database (CSDB) é um banco de dados de músicas evangélicas que foi criado com o objetivo de armazenar e concentrar informações confiáveis em um único local",
+    "v": "Christian Song Database (CSDB) is a database of evangelical songs that was created with the aim of storing and concentrating reliable information in one place"
+  },
+  {
+    "k": "Armazena o id/link de uma música em diferentes serviços de streamings, mantendo a versão correta compatível com cada gravação, diminuindo o risco da versão da música no link de um streaming ser diferente da versão da música em outro streaming",
+    "v": "Stores the id/link of a song across different streaming services, maintaining the correct version compatible with each recording, reducing the risk of the song version in one streaming link being different from the song version in another streaming"
+  },
+  {
+    "k": "Armazena também informação dos compositores da música, além de relacionamentos que podem ser interessantes, como a lista de composições de uma determinada pessoa, a lista de músicas que usam a mesma composição, qual é a composição original quando é uma música traduzida de outro idioma, etc.",
+    "v": "It also stores information about the songwriters, as well as relationships that may be interesting, such as the list of compositions by a particular person, the list of songs that use the same composition, what the original composition is when a song is translated from another language, etc."
+  },
+  {
+    "k": "Modo de ordenação dos items",
+    "v": "Sorting mode of the items"
+  },
+  {
+    "k": "Quantidade máxima de itens retornados",
+    "v": "Maximum number of items returned"
+  },
+  {
+    "k": "Itens terminados em `_bt` significa `Backing Track`, ou seja, é o \"Playback\" da respectiva música",
+    "v": "Items ending in `_bt` means `Backing Track`, that is, it is the \"Playback\" of the respective song"
+  },
+  {
+    "k": "Retorna a lista de gravações da respectiva obra",
+    "v": "Returns the list of recordings of the respective work"
+  },
+  {
+    "k": "Retorna a lista de obras derivadas (versões) da respectiva obra",
+    "v": "Returns the list of derivative works (versions) of the respective work"
+  },
+  {
+    "k": "Retorna a lista de gravações e a lista de obras derivadas (versões) da respectiva obra",
+    "v": "Returns the list of recordings and the list of derivative works (versions) of the respective work"
+  },
+  {
+    "k": "Total de gravações disponíveis",
+    "v": "Total number of recordings available"
+  },
+  {
+    "k": "Total de versões disponíveis",
+    "v": "Total number of available versions"
+  },
+  {
+    "k": "ID do perfil para retornar apenas as músicas de um determinado perfil",
+    "v": "Profile ID to return only the songs from a specific profile"
+  },
+  {
+    "k": "Disponível apenas para `type=wikipedia`",
+    "v": "Available only for `type=wikipedia`"
+  },
+  {
+    "k": "Retorna a lista de gravações do mesmo artista que utilizam a mesma composição",
+    "v": "Returns the list of recordings by the same artist that use the same composition"
+  },
+  {
+    "k": "Christian Song Database (CSDB) é um banco de dados público e aberto de músicas evangélicas que foi criado com o objetivo de armazenar e concentrar informações confiáveis em um único local",
+    "v": "Christian Song Database (CSDB) is a public and open database of evangelical songs that was created with the aim of storing and concentrating reliable information in one place"
+  },
+  {
+    "k": "Download do banco de dados em formato csv disponível em [files/database.zip](files/database.zip)",
+    "v": "Database download in csv format available at [files/database.zip](files/database.zip)"
+  },
+  {
+    "k": "Sempre que possível, recomendamos o acesso aos dados pela API, pois os dados são regularmente atualizados/corrigidos",
+    "v": "Whenever possible, we recommend accessing the data through the API, as the data is regularly updated/corrected"
+  },
+  {
+    "k": "Para utilização da API é necessário um token de autorização",
+    "v": "To use the API, an authorization token is required"
+  },
+  {
+    "k": "Para solicitar um token de acesso, entre em contato pelo email [csdb@csdb.app](mailto:csdb@csdb.app)",
+    "v": "To request an access token, please contact us at [csdb@csdb.app](mailto:csdb@csdb.app)"
   }
 ]
