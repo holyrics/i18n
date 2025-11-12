@@ -9134,5 +9134,313 @@
   {
     "k": "Para solicitar um token de acesso, entre em contato pelo email [csdb@csdb.app](mailto:csdb@csdb.app)",
     "v": "To request an access token, please contact us at [csdb@csdb.app](mailto:csdb@csdb.app)"
+  },
+  {
+    "k": "Classe utilitária para alguns métodos de identificação e manipulação de acordes",
+    "v": "Utility class for some methods of identification and manipulation of chords"
+  },
+  {
+    "k": "Executa uma ação do tipo **Actions** no programa",
+    "v": "Executes an action of type **Actions** in the program"
+  },
+  {
+    "k": "input da ação",
+    "v": "action input"
+  },
+  {
+    "k": "**true** se a ação foi executada ou **string** com a informação de erro",
+    "v": "**true** if the action was executed or **string** with the error information"
+  },
+  {
+    "k": "Executar uma ação do tipo 'Actions'",
+    "v": "Execute an action of the 'Actions' type"
+  },
+  {
+    "k": "Lista de temas",
+    "v": "List of topics"
+  },
+  {
+    "k": "Lista com os modelos salvos de configuração de tradução",
+    "v": "List of saved translation configuration models"
+  },
+  {
+    "k": "Retorna um modelo de configuração de tradução",
+    "v": "Returns a translation configuration model"
+  },
+  {
+    "k": "Aplica as configurações de tradução a partir de um modelo",
+    "v": "Applies translation settings from a template"
+  },
+  {
+    "k": "Retorna a lista de tags dos gatilhos",
+    "v": "Returns the list of trigger tags"
+  },
+  {
+    "k": "Retorna o estado do 'pause' da execução de gatilhos de uma tag específica",
+    "v": "Returns the 'pause' state of the execution of triggers for a specific tag"
+  },
+  {
+    "k": "Altera o estado do 'pause' da execução de gatilhos de uma tag específica",
+    "v": "Changes the 'pause' state of the execution of triggers for a specific tag"
+  },
+  {
+    "k": "Retorna o estado do 'pause' da execução de gatilhos de um receptor específico",
+    "v": "Returns the 'pause' state of the trigger execution of a specific receiver"
+  },
+  {
+    "k": "ID do receptor",
+    "v": "Receiver ID"
+  },
+  {
+    "k": "Altera o estado do 'pause' da execução de gatilhos de um receptor específico",
+    "v": "Changes the 'pause' state of the execution of triggers for a specific receiver"
+  },
+  {
+    "k": "Modelo de configuração de tradução",
+    "v": "Translation configuration model"
+  },
+  {
+    "k": "Nome alternativo (nome curto para ser exibido na interface)",
+    "v": "Alternative name (short name to be displayed in the interface)"
+  },
+  {
+    "k": "Configurações da opção 'simular projeção'",
+    "v": "Settings for the 'simulate projection' option"
+  },
+  {
+    "k": "Área da tela simulada",
+    "v": "Simulated screen area"
+  },
+  {
+    "k": "Texto de alerta",
+    "v": "Alert text"
+  },
+  {
+    "k": "Ocultar o alerta após X segundos",
+    "v": "Hide the alert after X seconds"
+  },
+  {
+    "k": "ID para evitar duplicação",
+    "v": "ID to prevent duplication"
+  },
+  {
+    "k": "Caso o ID já exista, o listener será substituído",
+    "v": "If the ID already exists, the listener will be replaced"
+  },
+  {
+    "k": "Classe utilitária para ler e salvar estados **boolean** que podem ser utilizados em regras e adicionados na interface do programa, como por exemplo, um botão na barra de favoritos",
+    "v": "Utility class for reading and saving **boolean** states that can be used in rules and added to the program interface, such as a button in the favorites bar"
+  },
+  {
+    "k": "porém lança uma exception ao ocorrer um erro, em vez de retornar **string**",
+    "v": "but throws an exception when an error occurs, instead of returning **string**"
+  },
+  {
+    "k": "um item de tema ou plano de fundo",
+    "v": "an item of theme or background"
+  },
+  {
+    "k": "apresentação atual em exibição",
+    "v": "current presentation on display"
+  },
+  {
+    "k": "uma imagem da aba 'imagens'",
+    "v": "an image of the 'images' tab"
+  },
+  {
+    "k": "um vídeo da aba 'vídeos'",
+    "v": "a video from the 'videos' tab"
+  },
+  {
+    "k": "um printscreen atual de uma tela do sistema",
+    "v": "a current screenshot of a system screen"
+  },
+  {
+    "k": "não é necessário informar um valor, a apresentação da tela público será retornada",
+    "v": "it is not necessary to provide a value, the public screen presentation will be returned"
+  },
+  {
+    "k": "o nome do arquivo da aba 'imagens'",
+    "v": "the name of the file in the 'images' tab"
+  },
+  {
+    "k": "o nome do arquivo da aba 'vídeos'",
+    "v": "the name of the file in the 'videos' tab"
+  },
+  {
+    "k": "o padrão é `public`",
+    "v": "the default is `public`"
+  },
+  {
+    "k": "Remover texto de alerta automaticamente após X segundos",
+    "v": "Automatically remove alert text after X seconds"
+  },
+  {
+    "k": "Opcional se `exact_time` for declarado",
+    "v": "Optional if `exact_time` is declared"
+  },
+  {
+    "k": "Definir uma hora exata",
+    "v": "Set a specific time"
+  },
+  {
+    "k": "Opcional se `minutes` ou `seconds` forem declarados",
+    "v": "Optional if `minutes` or `seconds` are declared"
+  },
+  {
+    "k": "Cada chave é o `id` da tela (id do respectivo **Display Settings**)",
+    "v": "Each key is the `id` of the screen (id of the respective **Display Settings**)"
+  },
+  {
+    "k": "Cada valor é um `object` que contém `translation_name` e opcionalmente contém `translation_custom_settings` se `translation_name=custom`",
+    "v": "Each value is an `object` that contains `translation_name` and optionally contains `translation_custom_settings` if `translation_name=custom`"
+  },
+  {
+    "k": "Posições disponíveis para o respectivo item",
+    "v": "Available positions for the respective item"
+  },
+  {
+    "k": "ID do tema utilizado para exibir o texto",
+    "v": "Theme ID used to display the text"
+  },
+  {
+    "k": "ID do plano de fundo utilizado para exibir o texto",
+    "v": "Background ID used to display the text"
+  },
+  {
+    "k": "Nome que será exibido no lugar do nome (nativo) padrão da ação",
+    "v": "Name that will be displayed in place of the default (native) action name"
+  },
+  {
+    "k": "Verifica se a linha é uma linha de acordes musicais",
+    "v": "Checks if the line is a line of musical chords"
+  },
+  {
+    "k": "Texto que será analisado",
+    "v": "Text that will be analyzed"
+  },
+  {
+    "k": "Altera a tonalidade dos acordes",
+    "v": "Changes the tone of the chords"
+  },
+  {
+    "k": "Acordes que serão alterados",
+    "v": "Chords that will be changed"
+  },
+  {
+    "k": "Quantidade de 'meios-tons' que será aumentada ou diminuída",
+    "v": "Amount of 'half-tones' that will be increased or decreased"
+  },
+  {
+    "k": "Tonalidade alterada",
+    "v": "Altered tone"
+  },
+  {
+    "k": "Identificar a tonalidade",
+    "v": "Identify the tone"
+  },
+  {
+    "k": "Retorna predefinições requeridas em algumas funcionalidades e mecânicas do programa",
+    "v": "Returns required presets in some features and mechanics of the program"
+  },
+  {
+    "k": "Por exemplo, exibir um campo na parte 'extra' na janela de edição de música, mesmo que ele não tenha sido criado pelo usuário",
+    "v": "For example, display a field in the 'extra' section in the music editing window, even if it was not created by the user"
+  },
+  {
+    "k": "Lista de campos 'extras' requeridos para uma música",
+    "v": "List of 'extra' fields required for a song"
+  },
+  {
+    "k": "Lista de campos 'extras' requeridos para um texto",
+    "v": "List of 'extra' fields required for a text"
+  },
+  {
+    "k": "Lista de Tags requeridas para tema e plano de fundo",
+    "v": "List of required tags for theme and background"
+  },
+  {
+    "k": "Nenhum parâmetro é necessário",
+    "v": "No parameters are required"
+  },
+  {
+    "k": "Volume",
+    "v": "Volume"
+  },
+  {
+    "k": "Tela",
+    "v": "Screen"
+  },
+  {
+    "k": "Índice do slide",
+    "v": "Slide index"
+  },
+  {
+    "k": "Plano de Fundo",
+    "v": "Background"
+  },
+  {
+    "k": "Realizar ação",
+    "v": "Take action"
+  },
+  {
+    "k": "Aba",
+    "v": "Tab"
+  },
+  {
+    "k": "Tag",
+    "v": "Tag"
+  },
+  {
+    "k": "<html>Ação <span class='tooltip_str_small'>(pause)</span>",
+    "v": "<html>Action <span class='tooltip_str_small'>(pause)</span>"
+  },
+  {
+    "k": "Receptor",
+    "v": "Receiver"
+  },
+  {
+    "k": "<html>Estado <span class='tooltip_str_small'>(ID)</span>",
+    "v": "<html>State <span class='tooltip_str_small'>(ID)</span>"
+  },
+  {
+    "k": "Deixe vazio para selecionar somente a respectiva aba",
+    "v": "Leave empty to select only the respective tab"
+  },
+  {
+    "k": "Pasta",
+    "v": "Folder"
+  },
+  {
+    "k": "Modo",
+    "v": "Mode"
+  },
+  {
+    "k": "Versão",
+    "v": "Version"
+  },
+  {
+    "k": "Quantidade",
+    "v": "Quantity"
+  },
+  {
+    "k": "Limite",
+    "v": "Limit"
+  },
+  {
+    "k": "Ação (pause)",
+    "v": "Action (pause)"
+  },
+  {
+    "k": "Estado (ID)",
+    "v": "State (ID)"
+  },
+  {
+    "k": "Utilize o campo vazio (em branco) para executar a ação em todos os títulos",
+    "v": "Use the empty (blank) field to perform the action on all titles"
+  },
+  {
+    "k": "Volume `0 ~ 100`",
+    "v": "Volume `0 ~ 100`"
   }
 ]
