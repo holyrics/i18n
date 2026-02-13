@@ -5,7 +5,6 @@ Por questões de performance, por padrão, vídeos são executados somente na te
 Para exibir vídeos em outras telas, ative as configurações manualmente conforme o tipo de exibição abaixo.
 
 <b>Vídeos executados pelo VLC Player</b>
-
 - Ícone de "3 pontinhos" no mini player VLC na janela principal
 - Menu "Exibir (vídeo)"
 
