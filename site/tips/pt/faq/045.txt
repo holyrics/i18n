@@ -1,0 +1,16 @@
+Exibir vídeos na tela de retorno
+--------
+
+Por questões de performance, por padrão, vídeos são executados somente na tela público.
+Para exibir vídeos em outras telas, ative as configurações manualmente conforme o tipo de exibição abaixo.
+
+<b>Vídeos executados pelo VLC Player</b>
+
+- Ícone de "3 pontinhos" no mini player VLC na janela principal
+- Menu "Exibir (vídeo)"
+
+<b>Vídeo de plano de fundo em um Tema</b>
+- Menu "Arquivo"
+- Configurações
+- Aba "Avançado"
+- Opção "Plano de Fundo - Vídeo (Tela)"

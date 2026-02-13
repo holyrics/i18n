@@ -1,0 +1,15 @@
+Display videos on the return screen
+--------
+
+For performance reasons, videos are played by default only on the public screen.
+To display videos on other screens, manually enable the settings according to the display type below.
+
+<b>Videos played via VLC Player</b>
+- Click the "three dots" icon on the VLC mini player in the main window
+- Menu "View (Video)"
+
+<b>Background video in a Theme</b>
+- Menu "File"
+- Settings
+- "Advanced" tab
+- Option "Background – Video (Screen)"
