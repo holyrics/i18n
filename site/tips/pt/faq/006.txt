@@ -9,4 +9,12 @@ Verifique qual é a resolução e a taxa de bits.
 
 Resoluções maiores ou iguais a 1920x1080 e taxa de bits (bitrate) acima de 5000 podem sobrecarregar o PC e ser a causa dos vídeos não serem executados corretamente.
 Você pode diminuir a resolução e a taxa de bits para fazer uma teste.
-Utilize cerca de 1280x720 para o tamanho e cerca de 4000 para taxa de bits.
+Utilize cerca de 1920x1080 para o tamanho e cerca de 4000 para taxa de bits.
+
+Também é possível que o problema seja codec incompatível.
+A versão padrão do VLC disponibilizada no programa não suporta codecs mais recentes como h.265.
+
+Converta o vídeo para forçar o uso de um codec compatível, clicando com o botão direito do mouse no vídeo, opção editar, resolução/bitrate.
+Altere o bitrate para o segundo maior valor apenas para forçar a conversão.
+
+Ou atualize a versão do VLC que o programa utiliza por padrão, nos 3 pontinhos do player, opção "sobre".

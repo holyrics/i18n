@@ -9,4 +9,12 @@ Check the resolution and the bitrate.
 
 Resolutions greater than or equal to 1920x1080 and bitrates above 5000 may overload the PC and cause videos not to play correctly.
 You can lower the resolution and bitrate to make a test.
-Use about 1280x720 for size and about 4000 for bitrate.
+Use about 1920x1080 for size and about 4000 for bitrate.
+
+It's also possible the problem is an incompatible codec.
+The default version of VLC provided in the program does not support newer codecs like h.265.
+
+Convert the video to force the use of a compatible codec by right-clicking on the video, selecting "edit," then "resolution/bitrate."
+Change the bitrate to the second highest value just to force the conversion.
+
+Or update the VLC version that the program uses by default, by clicking the three dots in the player and selecting "about."
