@@ -9442,5 +9442,205 @@
   {
     "k": "Volume `0 ~ 100`",
     "v": "Volume `0 ~ 100`"
+  },
+  {
+    "k": "Classe utilitária para criar alguns objetos nativos Java (para melhor manipulação que objetos nativos JavaScript)",
+    "v": "Utility class for creating some native Java objects (for better manipulation than native JavaScript objects)"
+  },
+  {
+    "k": "Tempo em milissegundos",
+    "v": "Time in milliseconds"
+  },
+  {
+    "k": "Lista com os modelos salvos de configuração de Logo",
+    "v": "List of saved Logo configuration models"
+  },
+  {
+    "k": "Retorna um modelo de configuração de Logo",
+    "v": "Returns a logo configuration model"
+  },
+  {
+    "k": "Aplica as configurações de Logo a partir de um modelo",
+    "v": "Applies the Logo settings from a template"
+  },
+  {
+    "k": "Lista com os modelos salvos de configuração de leitura alternada de versículos da Bíblia",
+    "v": "List of saved models for alternate Bible verse reading configuration"
+  },
+  {
+    "k": "Retorna um modelo de configuração de leitura alternada de versículos da Bíblia",
+    "v": "Returns a model for alternating reading configuration of Bible verses"
+  },
+  {
+    "k": "Aplica as configurações de leitura alternada de versículos da Bíblia a partir de um modelo",
+    "v": "Applies the alternate reading settings for Bible verses based on a template"
+  },
+  {
+    "k": "Retorna informações da assinatura atual",
+    "v": "Returns information about the current subscription"
+  },
+  {
+    "k": "Exibe uma notificação no canto da tela e executa uma ação ao clicar na notificação",
+    "v": "Displays a notification in the corner of the screen and performs an action when clicking on the notification"
+  },
+  {
+    "k": "Mensagem exibida na notificação",
+    "v": "Message displayed in the notification"
+  },
+  {
+    "k": "Ação que será executada quando a notificação for clicada",
+    "v": "Action that will be executed when the notification is clicked"
+  },
+  {
+    "k": "Ativar a exibição do início do próximo versículo no slide atual",
+    "v": "Enable the display of the beginning of the next verse on the current slide"
+  },
+  {
+    "k": "Ativar formatação customizada do texto",
+    "v": "Enable custom text formatting"
+  },
+  {
+    "k": "Configuração de Logo",
+    "v": "Logo Configuration"
+  },
+  {
+    "k": "Modelo de configuração de Logo",
+    "v": "Logo configuration model"
+  },
+  {
+    "k": "Configuração da leitura alternada de versículos da Bíblia",
+    "v": "Configuration of alternate Bible verse reading"
+  },
+  {
+    "k": "Exibir dois versículos",
+    "v": "Display two verses"
+  },
+  {
+    "k": "Exibir descrição sublinhada",
+    "v": "Display underlined description"
+  },
+  {
+    "k": "Exibir descrição com os efeitos do tema (contorno, brilho, sombra, ...)",
+    "v": "Display description with the effects of the theme (outline, glow, shadow, ...)"
+  },
+  {
+    "k": "Alterar a descrição do último versículo",
+    "v": "Change the description of the last verse"
+  },
+  {
+    "k": "Descrição do último versículo",
+    "v": "Description of the last verse"
+  },
+  {
+    "k": "Modelo de configuração da leitura alternada de versículos da Bíblia",
+    "v": "Configuration model for alternating Bible verse reading"
+  },
+  {
+    "k": "Classe utilitária para acessar os principais dados do programa",
+    "v": "Utility class for accessing the main data of the program"
+  },
+  {
+    "k": "Acessar um item pelo ID:",
+    "v": "Access an item by ID:"
+  },
+  {
+    "k": "Ação padrão",
+    "v": "Standard action"
+  },
+  {
+    "k": "Alterar o timecode de um item da lista de reprodução de mídia.",
+    "v": "Change the timecode of an item in the media playlist."
+  },
+  {
+    "k": "Obs: Atualmente disponível apenas para áudio e vídeo",
+    "v": "Note: Currently available only for audio and video"
+  },
+  {
+    "k": "Quantidade máxima de caracteres",
+    "v": "Maximum number of characters"
+  },
+  {
+    "k": "Margem horizontal",
+    "v": "Horizontal margin"
+  },
+  {
+    "k": "Margem vertical",
+    "v": "Vertical margin"
+  },
+  {
+    "k": "Descrição de cada leitura",
+    "v": "Description of each reading"
+  },
+  {
+    "k": "Itens separados por quebra de linha",
+    "v": "Items separated by line break"
+  },
+  {
+    "k": "Método utilitário que verifica se a permissão para editar dados importantes está ativada para o módulo. E caso não esteja, abre um popup solicitando a permissão.",
+    "v": "Utility method that checks if the permission to edit important data is enabled for the module. If it is not, it opens a popup requesting permission."
+  },
+  {
+    "k": "`callback` que será executado se a permissão estiver ativada ou após a permissão ter sido dada na interface",
+    "v": "`callback` that will be executed if the permission is granted or after the permission has been given in the interface"
+  },
+  {
+    "k": "`callback` que será executado se a permissão for negada",
+    "v": "`callback` that will be executed if the permission is denied"
+  },
+  {
+    "k": "Tempo em milissegundos para usar um valor em cache em vez de realizar nova requisição",
+    "v": "Time in milliseconds to use a cached value instead of making a new request"
+  },
+  {
+    "k": "Converte um array nativo JavaScript em ArrayList Java",
+    "v": "Converts a native JavaScript array into a Java ArrayList"
+  },
+  {
+    "k": "Converte um array nativo JavaScript em HashSet Java",
+    "v": "Converts a native JavaScript array into a Java HashSet"
+  },
+  {
+    "k": "Converte um objeto nativo JavaScript em HashMap Java",
+    "v": "Converts a native JavaScript object into a Java HashMap"
+  },
+  {
+    "k": "Converte um objeto nativo JavaScript em LinkedHashMap Java",
+    "v": "Converts a native JavaScript object into a Java LinkedHashMap"
+  },
+  {
+    "k": "Retorna uma lista com todos os dados",
+    "v": "Returns a list with all the data"
+  },
+  {
+    "k": "Retorna uma lista com todos os IDs",
+    "v": "Returns a list of all IDs"
+  },
+  {
+    "k": "Obtém um item dentro de um `Optional` a partir do ID",
+    "v": "Gets an item inside an `Optional` from the ID"
+  },
+  {
+    "k": "pode ser `Optional.empty()`",
+    "v": "it can be `Optional.empty()`"
+  },
+  {
+    "k": "Obtém a lista de itens baseado em um filtro determinado",
+    "v": "Gets the list of items based on a specified filter"
+  },
+  {
+    "k": "`function` com o respectivo objeto que deve retornar `true` ou `false`",
+    "v": "`function` with the respective object that should return `true` or `false`"
+  },
+  {
+    "k": "Obtém um item da lista (dentro de um `Optional`) baseado em um filtro determinado",
+    "v": "Gets an item from the list (within an `Optional`) based on a specified filter"
+  },
+  {
+    "k": "Lista com todos os dados",
+    "v": "List with all the data"
+  },
+  {
+    "k": "Lista com todos os IDs",
+    "v": "List of all IDs"
   }
 ]

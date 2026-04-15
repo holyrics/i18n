@@ -29,7 +29,7 @@
     O programa Holyrics não tem acesso aos seus arquivos pessoais no Google Drive e consequentemente os arquivos sincronizados pelo Holyrics não aparecem no seu Google Drive.<br>
     Para excluir os dados do Holyrics da sua conta Google Drive, acesse: <a href='https://drive.google.com/drive/settings' target='_blank' rel='noopener noreferrer'>https://drive.google.com/drive/settings</a><br>
     <br>
-    A lógica de sincronização implementada no programa remove um arquivo apagado no Google Drive somente depois que esse arquivo tiver sido apagado em todos os computadores, ou seja, ao apagar um arquivo e no status de sincronização Google Drive aparecer que o arquivo foi apagado, ele ainda estará ocupando espaço no seu Google Drive até que todos os outros computadores adicionados na sincronização abram o Holyrics e o programa identifique que deve apagar o arquivo.<br>
+    • A lógica de sincronização implementada no programa remove um arquivo apagado no Google Drive somente depois que esse arquivo tiver sido apagado em todos os computadores, ou seja, ao apagar um arquivo e no status de sincronização Google Drive aparecer que o arquivo foi apagado, ele ainda estará ocupando espaço no seu Google Drive até que todos os outros computadores adicionados na sincronização abram o Holyrics e o programa identifique que deve apagar o arquivo.<br>
     Isso significa que, temporariamente, o espaço ocupado no Google Drive pelo Holyrics pode ser maior do que o espaço total ocupado pelos arquivos atuais existentes.<br>
     Você pode conferir quais são os computadores que estão há muito tempo sem sincronizar os dados no botão "Dispositivos conectados" e, se necessário, desconectá-los.<br>
     <br>

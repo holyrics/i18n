@@ -29,7 +29,7 @@
     The Holyrics program does not have access to your personal files on Google Drive and therefore files synchronized by Holyrics do not appear in your Google Drive.<br>
     To delete Holyrics data from your Google Drive account, go to: <a href='https://drive.google.com/drive/settings' target='_blank' rel='noopener noreferrer'>https://drive.google.com/drive/settings</a><br>
     <br>
-    The synchronization logic implemented in the program removes a deleted file from Google Drive only after that file has been deleted on all computers. In other words, when you delete a file and the Google Drive synchronization status shows that the file was deleted, it may still occupy space in your Google Drive until all other computers connected to the synchronization open Holyrics and the program identifies that it should delete the file.<br>
+    •  The synchronization logic implemented in the program removes a deleted file from Google Drive only after that file has been deleted on all computers. In other words, when you delete a file and the Google Drive synchronization status shows that the file was deleted, it may still occupy space in your Google Drive until all other computers connected to the synchronization open Holyrics and the program identifies that it should delete the file.<br>
     This means that, temporarily, the space used in Google Drive by Holyrics may be larger than the total space currently used by the existing files.<br>
     You can check which computers have not synchronized data for a long time through the "Connected devices" button and disconnect them if necessary.<br>
     <br>
