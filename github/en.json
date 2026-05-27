@@ -9642,5 +9642,37 @@
   {
     "k": "Lista com todos os IDs",
     "v": "List of all IDs"
+  },
+  {
+    "k": "Retorna vários perfis de acordo com os IDs informados",
+    "v": "Returns multiple profiles according to the provided IDs"
+  },
+  {
+    "k": "Retorna várias obras de acordo com os IDs informados",
+    "v": "Returns multiple works according to the provided IDs"
+  },
+  {
+    "k": "Retorna várias músicas (gravações) de acordo com os IDs informados",
+    "v": "Returns several songs (recordings) according to the provided IDs"
+  },
+  {
+    "k": "Retorna vários perfis com base no ID do respectivo serviço externo",
+    "v": "Returns multiple profiles based on the ID of the respective external service"
+  },
+  {
+    "k": "Retorna várias músicas com base no ID do respectivo serviço externo",
+    "v": "Returns several songs based on the ID of the respective external service"
+  },
+  {
+    "k": "Lista de IDs separados por vírgula",
+    "v": "List of IDs separated by commas"
+  },
+  {
+    "k": "Máximo: ",
+    "v": "Maximum: "
+  },
+  {
+    "k": "Duração da música (em segundos)",
+    "v": "Duration of the song (in seconds)"
   }
 ]
