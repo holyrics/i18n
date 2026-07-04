@@ -3,10 +3,10 @@
   "language": "mrj",
   "name": "Western Mari",
   "alt_name": "Mari, Hill",
-  "old_testament": null,
-  "new_testament": null,
-  "old_testament_abbreviation": null,
-  "new_testament_abbreviation": null,
+  "old_testament": "Кугу келишымаш",
+  "new_testament": "У келишымаш",
+  "old_testament_abbreviation": "КК",
+  "new_testament_abbreviation": "УК",
   "books": [
     {
       "id": "01",

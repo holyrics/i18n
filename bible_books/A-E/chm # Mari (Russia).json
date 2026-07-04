@@ -1,8 +1,8 @@
 {
-  "id": "mhr",
-  "language": "mhr",
-  "name": "Eastern Mari",
-  "alt_name": "Mari, Meadow",
+  "id": "chm",
+  "language": "chm",
+  "name": "Mari (Russia)",
+  "alt_name": null,
   "old_testament": "Тошто Сугынь",
   "new_testament": "У Сугынь",
   "old_testament_abbreviation": "ТС",
