@@ -10054,5 +10054,13 @@
   {
     "k": "Obtém a data e a hora formatada de acordo com as configurações de localização do sistema",
     "v": "Gets the formatted date and time according to the system's locale settings"
+  },
+  {
+    "k": "Para objetos complexos",
+    "v": "For complex objects"
+  },
+  {
+    "k": "pode ser `null`",
+    "v": "can be `null`"
   }
 ]
