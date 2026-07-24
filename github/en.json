@@ -9674,5 +9674,385 @@
   {
     "k": "Duração da música (em segundos)",
     "v": "Duration of the song (in seconds)"
+  },
+  {
+    "k": "Retorna a lista de todas as tags existentes utilizadas nos arquivos",
+    "v": "Returns the list of all existing tags used in the files"
+  },
+  {
+    "k": "Exibir uma mensagem personalizada sem a necessidade que o objeto de referência exista. Obs.: Uma mensagem personalizada não é exibida diretamente na tela. é criada uma notificação no canto da tela para o operador aceitar e exibir.",
+    "v": "Display a custom message without the need for the reference object to exist. Note: A custom message is not displayed directly on the screen; a notification is created in the corner of the screen for the operator to accept and display."
+  },
+  {
+    "k": "Lista de variáveis da mensagem",
+    "v": "List of message variables"
+  },
+  {
+    "k": "ID da variável",
+    "v": "Variable ID"
+  },
+  {
+    "k": "Valor padrão/inicial da variável",
+    "v": "Default/initial value of the variable"
+  },
+  {
+    "k": "Aceitar somente números",
+    "v": "Accept only numbers"
+  },
+  {
+    "k": "Aceitar somente caracteres em maiúsculo",
+    "v": "Accept only uppercase characters"
+  },
+  {
+    "k": "Lista de sugestões",
+    "v": "List of suggestions"
+  },
+  {
+    "k": "Lista das configurações de saída NDI®",
+    "v": "List of NDI® output settings"
+  },
+  {
+    "k": "Configurações de uma saída NDI® específica",
+    "v": "Settings for a specific NDI® output"
+  },
+  {
+    "k": "Alterar as configurações de uma saída NDI®",
+    "v": "Change the settings of an NDI® output"
+  },
+  {
+    "k": "Lista de janelas abertas no momento (lista limitada)",
+    "v": "List of currently open windows (limited list)"
+  },
+  {
+    "k": "Abre uma janela para selecionar itens em uma lista de valores exibidos em grade",
+    "v": "Opens a window to select items from a list of values displayed in a grid"
+  },
+  {
+    "k": "Permitir seleção de múltiplos itens",
+    "v": "Allow selection of multiple items"
+  },
+  {
+    "k": "Método executado sempre que os itens selecionados forem alterados",
+    "v": "Method executed whenever the selected items are changed"
+  },
+  {
+    "k": "Mensagem exibida junto do QR Code exibido",
+    "v": "Message displayed along with the displayed QR Code"
+  },
+  {
+    "k": "Chave para gerar uma assinatura de autenticidade baseado em HmacSHA256",
+    "v": "Key to generate a signature of authenticity based on HmacSHA256"
+  },
+  {
+    "k": "Método executado ao receber o payload da comunicação.",
+    "v": "Method executed upon receiving the payload of the communication."
+  },
+  {
+    "k": "Método executado ao ocorrer algum erro",
+    "v": "Method executed when an error occurs"
+  },
+  {
+    "k": "Método executado ao fechar a janela antes de receber um payload ou ocorrer algum erro",
+    "v": "Method executed when closing the window before receiving a payload or encountering an error"
+  },
+  {
+    "k": "Configurações de uma saída NDI®",
+    "v": "NDI® output settings"
+  },
+  {
+    "k": "Mensagem modelo",
+    "v": "Template message"
+  },
+  {
+    "k": "Coloque o id da variável entre chaves no texto, exemplo: \"Proprietário do carro de placa {placa}, favor comparecer {local}\"",
+    "v": "Place the variable id in braces in the text, for example: \"Owner of the car with license plate {placa}, please attend {local}\""
+  },
+  {
+    "k": "Mensagem Personalizada",
+    "v": "Custom Message"
+  },
+  {
+    "k": "A partir da `v2.29.0` é possível utilizar neste parâmetro `file` a sintaxe: `background:id` onde `id` é o ID do tema ou plano de fundo que será utilizado como imagem do papel de parede.",
+    "v": "Starting from `v2.29.0`, it is possible to use the syntax `background:id` in this `file` parameter, where `id` is the ID of the theme or background that will be used as the wallpaper image."
+  },
+  {
+    "k": "Exemplo: 'background:1234'",
+    "v": "Example: 'background:1234'"
+  },
+  {
+    "k": "O campo `id` ou `name` é obrigatório",
+    "v": "The `id` or `name` field is required"
+  },
+  {
+    "k": "Método que retorna o tema base que é utilizado para renderizar o respectivo item",
+    "v": "Method that returns the base theme used to render the respective item"
+  },
+  {
+    "k": "Se declarado, deve retornar um objeto do tipo:",
+    "v": "If declared, it should return an object of the type:"
+  },
+  {
+    "k": "Largura e altura do item",
+    "v": "Width and height of the item"
+  },
+  {
+    "k": "Lista com o `items.*.id` ou índice dos objetos que serão pré-selecionados por padrão",
+    "v": "List with the `items.*.id` or index of the objects that will be pre-selected by default"
+  },
+  {
+    "k": "Itens que serão exibidos",
+    "v": "Items that will be displayed"
+  },
+  {
+    "k": "Cada item pode ser uma objeto simples (string, number, etc) em vez de objeto complexo.",
+    "v": "Each item can be a simple object (string, number, etc.) instead of a complex object."
+  },
+  {
+    "k": "Para itens complexos",
+    "v": "For complex items"
+  },
+  {
+    "k": "Retorna os itens selecionados pelo usuário",
+    "v": "Returns the items selected by the user"
+  },
+  {
+    "k": "pode ser NULL",
+    "v": "can be NULL"
+  },
+  {
+    "k": "Se `multiple_selection=false`, retorna o objeto ou `null`",
+    "v": "If `multiple_selection=false`, returns the object or `null`"
+  },
+  {
+    "k": "Se `multiple_selection=true`, retorna a lista de objetos selecionados (mesmo que seja apenas um objeto) ou `null`",
+    "v": "If `multiple_selection=true`, returns the list of selected objects (even if it is just one object) or `null`"
+  },
+  {
+    "k": "Método utilitário para receber um payload de um serviço externo lendo um QR Code.",
+    "v": "Utility method to receive a payload from an external service by reading a QR Code."
+  },
+  {
+    "k": "Por exemplo, útil para fazer login, recebendo um token de autenticação.",
+    "v": "For example, useful for logging in, receiving an authentication token."
+  },
+  {
+    "k": "Documentação do serviço:",
+    "v": "Service documentation:"
+  },
+  {
+    "k": "Texto de ajuda para o usuário saber o que fazer para ler o QR Code",
+    "v": "Help text for the user to know what to do to read the QR Code"
+  },
+  {
+    "k": "Coloque o id da variável entre chaves no texto, exemplo: \"Proprietário do carro de placa {placa}, favor comparecer ao estacionamento\"",
+    "v": "Place the variable id in braces in the text, for example: \"Owner of the car with license plate {plate}, please come to the parking lot\""
+  },
+  {
+    "k": "ID",
+    "v": "ID"
+  },
+  {
+    "k": "Preset",
+    "v": "Preset"
+  },
+  {
+    "k": "Definir valores iniciais",
+    "v": "Set initial values"
+  },
+  {
+    "k": "number_start",
+    "v": "number_start"
+  },
+  {
+    "k": "number_end",
+    "v": "number_end"
+  },
+  {
+    "k": "number_zero_fill",
+    "v": "number_zero_fill"
+  },
+  {
+    "k": "number_except",
+    "v": "number_except"
+  },
+  {
+    "k": "text_content",
+    "v": "text_content"
+  },
+  {
+    "k": "text_remove_duplicate",
+    "v": "text_remove_duplicate"
+  },
+  {
+    "k": "Na versão `2.29.0` foi adicionada a opção **Modo de desenvolvimento** que armazena o código javascript em uma pasta do computador, permitindo a edição do código por um editor externo e o código atualizado automaticamente dentro do programa.",
+    "v": "In version `2.29.0`, the **Development Mode** option was added, which stores the JavaScript code in a folder on the computer, allowing the code to be edited by an external editor and the updated code to be automatically reflected within the program."
+  },
+  {
+    "k": "Obs: Requer uma assinatura Holyrics Plan ativa.",
+    "v": "Note: Requires an active Holyrics Plan subscription."
+  },
+  {
+    "k": "Captura a respectiva ação do atalho, tanto se foi originado de uma tecla de atalho do teclado quanto clique na interface",
+    "v": "Captures the respective action of the shortcut, whether it originated from a keyboard shortcut or a click in the interface"
+  },
+  {
+    "k": "Método que recebe comandos midi de um dispositivo definido pelo usuário nas configurações do módulo",
+    "v": "Method that receives midi commands from a device defined by the user in the module settings"
+  },
+  {
+    "k": "É necessário o uso da permissão 'receiver_midi' na declaração do módulo",
+    "v": "It is necessary to use the 'receiver_midi' permission in the module declaration"
+  },
+  {
+    "k": "Método que será executado para consumir a mensagem midi",
+    "v": "Method that will be executed to consume the midi message"
+  },
+  {
+    "k": "Nome do disppositivo midi que originou a mensagem",
+    "v": "Name of the MIDI device that originated the message"
+  },
+  {
+    "k": "Mensagem midi do tipo:",
+    "v": "MIDI message of type:"
+  },
+  {
+    "k": "ID permanente que não é acessível fora desse método do objeto `module`",
+    "v": "Permanent ID that is not accessible outside this object's `module` method"
+  },
+  {
+    "k": "Útil para ter um ID secreto que possa ser vinculado ao módulo mas protegido de acesso por outros códigos javascript (exceto se o objeto `module` for disponibilizado voluntariamente para execução em contexto desprotegido)",
+    "v": "Useful for having a secret ID that can be linked to the module but protected from access by other JavaScript codes (unless the `module` object is voluntarily made available for execution in an unprotected context)"
+  },
+  {
+    "k": "Quantidade de caracteres:",
+    "v": "Number of characters:"
+  },
+  {
+    "k": "Fluxo de autenticação API Auth utilizando QR Code",
+    "v": "API Auth authentication flow using QR Code"
+  },
+  {
+    "k": "Método utilitário para receber um `payload` de um serviço externo.",
+    "v": "Utility method to receive a `payload` from an external service."
+  },
+  {
+    "k": "Útil para fazer login, recebendo um token de autenticação.",
+    "v": "Useful for logging in, receiving an authentication token."
+  },
+  {
+    "k": "É necessário uma assinatura %holyrics_plan% ativa para utilizar esta opção.",
+    "v": "An active %holyrics_plan% subscription is required to use this option."
+  },
+  {
+    "k": "Um QR Code é exibido contendo um `json` com as seguintes informações:",
+    "v": "A QR Code is displayed containing a `json` with the following information:"
+  },
+  {
+    "k": "Tipo de autenticação (para possível identificação automática do tipo de QR Code lido)",
+    "v": "Type of authentication (for possible automatic identification of the type of QR Code scanned)"
+  },
+  {
+    "k": "em segundos",
+    "v": "in seconds"
+  },
+  {
+    "k": "Nome do computador",
+    "v": "Computer name"
+  },
+  {
+    "k": "64 caracteres",
+    "v": "64 characters"
+  },
+  {
+    "k": "Token gerado pelo Holyrics para envio do token de autenticação pela internet",
+    "v": "Token generated by Holyrics for sending the authentication token over the internet"
+  },
+  {
+    "k": "Assinatura para verificação simples de autenticidade do QR Code",
+    "v": "Signature for simple verification of the QR Code's authenticity"
+  },
+  {
+    "k": "O valor `sig` é um `HmacSHA256` da concatenação `ts;device;token`, ou seja, baseado no `json` de exemplo acima fica:",
+    "v": "The value `sig` is an `HmacSHA256` of the concatenation `ts;device;token`, that is, based on the example `json` above it is:"
+  },
+  {
+    "k": "É utilizado o valor definido no parâmetro `secret` para gerar o `HmacSHA256`, no exemplo acima foi utilizado o secret:",
+    "v": "The value defined in the `secret` parameter is used to generate the `HmacSHA256`, in the example above the secret used was:"
+  },
+  {
+    "k": "É algo opcional, apenas caso queira validar a autenticidade do QR Code gerado.",
+    "v": "It is optional, only if you want to validate the authenticity of the generated QR Code."
+  },
+  {
+    "k": "Após ler o QR Code e extrair o token, envie o payload para o endpoint do Holyrics",
+    "v": "After reading the QR Code and extracting the token, send the payload to the Holyrics endpoint"
+  },
+  {
+    "k": "qualquer conteúdo que precisar enviar, token de autenticação, por exemplo",
+    "v": "any content you need to send, authentication token, for example"
+  },
+  {
+    "k": "Obs: O conteúdo enviado no payload pode ser também um objeto complexo em vez de uma string.",
+    "v": "Note: The content sent in the payload can also be a complex object instead of a string."
+  },
+  {
+    "k": "Tamanho máximo do `payload`: 1024 caracteres",
+    "v": "Maximum `payload` size: 1024 characters"
+  },
+  {
+    "k": "Possíveis códigos de erro",
+    "v": "Possible error codes"
+  },
+  {
+    "k": "token inválido ou payload inválido",
+    "v": "invalid token or invalid payload"
+  },
+  {
+    "k": "token não encontrado",
+    "v": "token not found"
+  },
+  {
+    "k": "se a requisição não for POST",
+    "v": "if the request is not POST"
+  },
+  {
+    "k": "prazo expirado para autenticação",
+    "v": "authentication deadline expired"
+  },
+  {
+    "k": "se o token já foi utilizado",
+    "v": "if the token has already been used"
+  },
+  {
+    "k": "Após enviar o payload para o endpoint",
+    "v": "After sending the payload to the endpoint"
+  },
+  {
+    "k": "Caso a requisição do passo anterior retorne 200, o payload será recebido internamente pelo programa Holyrics aberto no computador (e redirecionado para a `function callback`) e a janela com o QR Code será automaticamente fechada.",
+    "v": "If the request from the previous step returns 200, the payload will be received internally by the Holyrics program open on the computer (and redirected to the `function callback`) and the window with the QR Code will be automatically closed."
+  },
+  {
+    "k": "Obs: A janela também exibe um botão \"copiar\", que copia para a área de transferência o mesmo json exibido no QR Code, porém o conteúdo fica em base64.",
+    "v": "Note: The window also displays a \"copy\" button, which copies the same JSON shown in the QR Code to the clipboard, but the content is in base64."
+  },
+  {
+    "k": "Código de exemplo",
+    "v": "Example code"
+  },
+  {
+    "k": "Obtém a data formatada de acordo com as configurações de localização do sistema",
+    "v": "Gets the formatted date according to the system's locale settings"
+  },
+  {
+    "k": "Objeto Date nativo JavaScript ou um número timestamp (timestamp compatível com segundos e milissegundos)",
+    "v": "Native JavaScript Date object or a timestamp (timestamp compatible with seconds and milliseconds)"
+  },
+  {
+    "k": "Obtém a hora formatada de acordo com as configurações de localização do sistema",
+    "v": "Gets the time formatted according to the system's locale settings"
+  },
+  {
+    "k": "Obtém a data e a hora formatada de acordo com as configurações de localização do sistema",
+    "v": "Gets the formatted date and time according to the system's locale settings"
   }
 ]
