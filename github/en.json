@@ -10062,5 +10062,9 @@
   {
     "k": "pode ser `null`",
     "v": "can be `null`"
+  },
+  {
+    "k": "Isso é útil para permitir o usuário copiar e colar o conteúdo em um local que não tem opção de ler o QR Code, como acesso pelo navegador de um desktop, por exemplo.",
+    "v": "This is useful to allow the user to copy and paste the content in a location that does not have the option to read the QR Code, such as access through a desktop browser, for example."
   }
 ]
