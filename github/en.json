@@ -10198,5 +10198,37 @@
   {
     "k": "Autenticação",
     "v": "Authentication"
+  },
+  {
+    "k": "ID da apresentação",
+    "v": "Presentation ID"
+  },
+  {
+    "k": "Executado a cada X segundo(s) enquanto a conexão estiver aberta",
+    "v": "Executed every X second(s) while the connection is open"
+  },
+  {
+    "k": "Executado a cada X segundo(s) (de acordo com o valor definido em `loop_delay`) enquanto a conexão estiver aberta",
+    "v": "Executed every X second(s) (according to the value set in `loop_delay`) while the connection is open"
+  },
+  {
+    "k": "Obter informação de uma mensagem personalizada enviada para exibição",
+    "v": "Get information from a custom message sent for display"
+  },
+  {
+    "k": "`id` pode ser:",
+    "v": "`id` can be:"
+  },
+  {
+    "k": "Pode ser também o ID de um item da barra de favoritos",
+    "v": "It can also be the ID of an item in the favorites bar"
+  },
+  {
+    "k": "Permite exibir ícones ou textos para um respectivo item nas listas da janela principal do programa",
+    "v": "Allows displaying icons or texts for a respective item in the lists of the main program window"
+  },
+  {
+    "k": "`obj` contém informações do objeto de origem",
+    "v": "`obj` contains information about the source object"
   }
 ]
