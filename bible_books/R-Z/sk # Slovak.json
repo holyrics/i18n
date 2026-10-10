@@ -11,7 +11,7 @@
     {
       "id": "01",
       "usfx_code": "GEN",
-      "name": "Genesis",
+      "name": "Genezis",
       "abbreviation": "Gn"
     },
     {
@@ -23,164 +23,164 @@
     {
       "id": "03",
       "usfx_code": "LEV",
-      "name": "Leviticus",
+      "name": "Levitikus",
       "abbreviation": "Lv"
     },
     {
       "id": "04",
       "usfx_code": "NUM",
-      "name": "Numbers",
+      "name": "Numeri",
       "abbreviation": "Nm"
     },
     {
       "id": "05",
       "usfx_code": "DEU",
-      "name": "Deuteronomy",
+      "name": "Deuteronómium",
       "abbreviation": "Dt"
     },
     {
       "id": "06",
       "usfx_code": "JOS",
-      "name": "Joshua",
-      "abbreviation": "Jos"
+      "name": "Jozua",
+      "abbreviation": "Joz"
     },
     {
       "id": "07",
       "usfx_code": "JDG",
-      "name": "Judges",
-      "abbreviation": "Jg"
+      "name": "Sudcov",
+      "abbreviation": "Sdc"
     },
     {
       "id": "08",
       "usfx_code": "RUT",
-      "name": "Ruth",
-      "abbreviation": "Ru"
+      "name": "Rút",
+      "abbreviation": "Rút"
     },
     {
       "id": "09",
       "usfx_code": "1SA",
-      "name": "1 Samuel",
-      "abbreviation": "1Sm"
+      "name": "Prvá Samuelova",
+      "abbreviation": "1Sam"
     },
     {
       "id": "10",
       "usfx_code": "2SA",
-      "name": "2 Samuel",
-      "abbreviation": "2Sm"
+      "name": "Druhá Samuelova",
+      "abbreviation": "2Sam"
     },
     {
       "id": "11",
       "usfx_code": "1KI",
-      "name": "1 Kings",
-      "abbreviation": "1Ki"
+      "name": "Prvá kráľov",
+      "abbreviation": "1Krľ"
     },
     {
       "id": "12",
       "usfx_code": "2KI",
-      "name": "2 Kings",
-      "abbreviation": "2Ki"
+      "name": "Druhá kráľov",
+      "abbreviation": "2Krľ"
     },
     {
       "id": "13",
       "usfx_code": "1CH",
-      "name": "1 Chronicles",
-      "abbreviation": "1Ch"
+      "name": "Prvá kroník",
+      "abbreviation": "1Krn"
     },
     {
       "id": "14",
       "usfx_code": "2CH",
-      "name": "2 Chronicles",
-      "abbreviation": "2Ch"
+      "name": "Druhá kroník",
+      "abbreviation": "2Krn"
     },
     {
       "id": "15",
       "usfx_code": "EZR",
-      "name": "Ezra",
-      "abbreviation": "Ezr"
+      "name": "Ezdráš",
+      "abbreviation": "Ezd"
     },
     {
       "id": "16",
       "usfx_code": "NEH",
-      "name": "Nehemiah",
-      "abbreviation": "Ne"
+      "name": "Nehemiáš",
+      "abbreviation": "Neh"
     },
     {
       "id": "17",
       "usfx_code": "EST",
-      "name": "Esther",
-      "abbreviation": "Es"
+      "name": "Ester",
+      "abbreviation": "Est"
     },
     {
       "id": "18",
       "usfx_code": "JOB",
-      "name": "Job",
-      "abbreviation": "Jb"
+      "name": "Jób",
+      "abbreviation": "Jób"
     },
     {
       "id": "19",
       "usfx_code": "PSA",
-      "name": "Psalms",
-      "abbreviation": "Ps"
+      "name": "Žalmy",
+      "abbreviation": "Ž"
     },
     {
       "id": "20",
       "usfx_code": "PRO",
-      "name": "Proverbs",
-      "abbreviation": "Pr"
+      "name": "Príslovia",
+      "abbreviation": "Prís"
     },
     {
       "id": "21",
       "usfx_code": "ECC",
-      "name": "Ecclesiastes",
-      "abbreviation": "Ec"
+      "name": "Kohelet — Kazateľ",
+      "abbreviation": "Koh"
     },
     {
       "id": "22",
       "usfx_code": "SNG",
-      "name": "Song of Solomon",
-      "abbreviation": "So"
+      "name": "Veľpieseň",
+      "abbreviation": "Vľp"
     },
     {
       "id": "23",
       "usfx_code": "ISA",
-      "name": "Isaiah",
-      "abbreviation": "Is"
+      "name": "Izaiáš",
+      "abbreviation": "Iz"
     },
     {
       "id": "24",
       "usfx_code": "JER",
-      "name": "Jeremiah",
-      "abbreviation": "Jr"
+      "name": "Jeremiáš",
+      "abbreviation": "Jer"
     },
     {
       "id": "25",
       "usfx_code": "LAM",
-      "name": "Lamentations",
-      "abbreviation": "La"
+      "name": "Náreky",
+      "abbreviation": "Nár"
     },
     {
       "id": "26",
       "usfx_code": "EZK",
-      "name": "Ezekiel",
-      "abbreviation": "Eze"
+      "name": "Ezechiel",
+      "abbreviation": "Ez"
     },
     {
       "id": "27",
       "usfx_code": "DAN",
       "name": "Daniel",
-      "abbreviation": "Dn"
+      "abbreviation": "Dan"
     },
     {
       "id": "28",
       "usfx_code": "HOS",
-      "name": "Hosea",
-      "abbreviation": "Ho"
+      "name": "Ozeáš",
+      "abbreviation": "Oz"
     },
     {
       "id": "29",
       "usfx_code": "JOL",
       "name": "Joel",
-      "abbreviation": "Jl"
+      "abbreviation": "Joel"
     },
     {
       "id": "30",
@@ -191,56 +191,56 @@
     {
       "id": "31",
       "usfx_code": "OBA",
-      "name": "Obadiah",
-      "abbreviation": "Ob"
+      "name": "Abdiáš",
+      "abbreviation": "Abd"
     },
     {
       "id": "32",
       "usfx_code": "JON",
-      "name": "Jonah",
+      "name": "Jonáš",
       "abbreviation": "Jon"
     },
     {
       "id": "33",
       "usfx_code": "MIC",
-      "name": "Micah",
-      "abbreviation": "Mic"
+      "name": "Micheáš",
+      "abbreviation": "Mich"
     },
     {
       "id": "34",
       "usfx_code": "NAM",
       "name": "Nahum",
-      "abbreviation": "Na"
+      "abbreviation": "Nah"
     },
     {
       "id": "35",
       "usfx_code": "HAB",
-      "name": "Habakkuk",
+      "name": "Habakuk",
       "abbreviation": "Hab"
     },
     {
       "id": "36",
       "usfx_code": "ZEP",
-      "name": "Zephaniah",
-      "abbreviation": "Zp"
+      "name": "Sofoniáš",
+      "abbreviation": "Sof"
     },
     {
       "id": "37",
       "usfx_code": "HAG",
-      "name": "Haggai",
-      "abbreviation": "Hg"
+      "name": "Aggeus",
+      "abbreviation": "Ag"
     },
     {
       "id": "38",
       "usfx_code": "ZEC",
-      "name": "Zechariah",
-      "abbreviation": "Zc"
+      "name": "Zachariáš",
+      "abbreviation": "Zach"
     },
     {
       "id": "39",
       "usfx_code": "MAL",
-      "name": "Malachi",
-      "abbreviation": "Ml"
+      "name": "Malachiáš",
+      "abbreviation": "Mal"
     },
     {
       "id": "40",
@@ -251,158 +251,158 @@
     {
       "id": "41",
       "usfx_code": "MRK",
-      "name": "Mark",
+      "name": "Marek",
       "abbreviation": "Mk"
     },
     {
       "id": "42",
       "usfx_code": "LUK",
-      "name": "Luke",
+      "name": "Lukáš",
       "abbreviation": "Lk"
     },
     {
       "id": "43",
       "usfx_code": "JHN",
-      "name": "John",
+      "name": "Ján",
       "abbreviation": "Jn"
     },
     {
       "id": "44",
       "usfx_code": "ACT",
-      "name": "Acts",
-      "abbreviation": "Ac"
+      "name": "Skutky apoštolov",
+      "abbreviation": "Sk"
     },
     {
       "id": "45",
       "usfx_code": "ROM",
-      "name": "Romans",
-      "abbreviation": "Rm"
+      "name": "Rimanom",
+      "abbreviation": "Rim"
     },
     {
       "id": "46",
       "usfx_code": "1CO",
-      "name": "1 Corinthians",
-      "abbreviation": "1Co"
+      "name": "Prvý Korinťanom",
+      "abbreviation": "1Kor"
     },
     {
       "id": "47",
       "usfx_code": "2CO",
-      "name": "2 Corinthians",
-      "abbreviation": "2Co"
+      "name": "Druhý Korinťanom",
+      "abbreviation": "2Kor"
     },
     {
       "id": "48",
       "usfx_code": "GAL",
-      "name": "Galatians",
+      "name": "Galaťanom",
       "abbreviation": "Ga"
     },
     {
       "id": "49",
       "usfx_code": "EPH",
-      "name": "Ephesians",
-      "abbreviation": "Eph"
+      "name": "Efezanom",
+      "abbreviation": "Ef"
     },
     {
       "id": "50",
       "usfx_code": "PHP",
-      "name": "Philippians",
-      "abbreviation": "Php"
+      "name": "Filipanom",
+      "abbreviation": "Flp"
     },
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Colossians",
-      "abbreviation": "Col"
+      "name": "Kolosanom",
+      "abbreviation": "Kol"
     },
     {
       "id": "52",
       "usfx_code": "1TH",
-      "name": "1 Thessalonians",
-      "abbreviation": "1Th"
+      "name": "Prvý Tesaloničanom",
+      "abbreviation": "1Tes"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
-      "name": "2 Thessalonians",
-      "abbreviation": "2Th"
+      "name": "Druhý Tesaloničanom",
+      "abbreviation": "2Tes"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
-      "name": "1 Timothy",
-      "abbreviation": "1Ti"
+      "name": "Prvý Timotejovi",
+      "abbreviation": "1Tim"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
-      "name": "2 Timothy",
-      "abbreviation": "2Ti"
+      "name": "Druhý Timotejovi",
+      "abbreviation": "2Tim"
     },
     {
       "id": "56",
       "usfx_code": "TIT",
-      "name": "Titus",
-      "abbreviation": "Tit"
+      "name": "Títovi",
+      "abbreviation": "Tít"
     },
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Philemon",
-      "abbreviation": "Phm"
+      "name": "Filemonovi",
+      "abbreviation": "Flm"
     },
     {
       "id": "58",
       "usfx_code": "HEB",
-      "name": "Hebrews",
+      "name": "Hebrejom",
       "abbreviation": "Heb"
     },
     {
       "id": "59",
       "usfx_code": "JAS",
-      "name": "James",
-      "abbreviation": "Jm"
+      "name": "Jakubov",
+      "abbreviation": "Jk"
     },
     {
       "id": "60",
       "usfx_code": "1PE",
-      "name": "1 Peter",
-      "abbreviation": "1Pe"
+      "name": "Prvý Petrov",
+      "abbreviation": "1Pt"
     },
     {
       "id": "61",
       "usfx_code": "2PE",
-      "name": "2 Peter",
-      "abbreviation": "2Pe"
+      "name": "Druhý Petrov",
+      "abbreviation": "2Pt"
     },
     {
       "id": "62",
       "usfx_code": "1JN",
-      "name": "1 John",
-      "abbreviation": "1Jo"
+      "name": "Prvý Jánov",
+      "abbreviation": "1Jn"
     },
     {
       "id": "63",
       "usfx_code": "2JN",
-      "name": "2 John",
-      "abbreviation": "2Jo"
+      "name": "Druhý Jánov",
+      "abbreviation": "2Jn"
     },
     {
       "id": "64",
       "usfx_code": "3JN",
-      "name": "3 John",
-      "abbreviation": "3Jo"
+      "name": "Tretí Jánov",
+      "abbreviation": "3Jn"
     },
     {
       "id": "65",
       "usfx_code": "JUD",
-      "name": "Jude",
-      "abbreviation": "Jud"
+      "name": "Júdov",
+      "abbreviation": "Júd"
     },
     {
       "id": "66",
       "usfx_code": "REV",
-      "name": "Revelation",
-      "abbreviation": "Rev"
+      "name": "Zjavenie Jána",
+      "abbreviation": "Zj"
     }
   ]
 }
